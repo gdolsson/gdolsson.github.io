@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 So this is just the about page and I have not yet decided what to put here though I will fill this section,
-<!--
-Aparently HTML commenting works in markdown though the following should work:
+{% comment %}
+
 https://stackoverflow.com/questions/4823468/comments-in-markdown
 [//]: # (This may be the most platform independent comment)
 
@@ -23,4 +23,4 @@ https://stackoverflow.com/questions/4823468/comments-in-markdown
 
 
 [jekyll-organization]: https://github.com/jekyll
--->
+{% endcomment %}
