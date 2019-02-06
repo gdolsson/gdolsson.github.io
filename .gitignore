@@ -6,3 +6,7 @@ vendor
 .sass-cache
 _site
 .jekyll-metadata
+
+# Ignore Mac Files
+.DS_Store
+._*
