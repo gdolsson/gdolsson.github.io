@@ -1,9 +1,9 @@
 ---
 layout: "post"
-title: "Computational Biology Fundamentals part 3"
+title: "CompBio Fundamentals part3"
 date: "2019-02-20 09:25"
 ---
-Today I am attending the third instalment of the Computational Biology Fundamentals which is a seminar series that I am attending. It is extremely confusing trying to keep up with the biology part, it has been a long while since I did any work with biological systems.
+Today I am attending the third instalment (realising I'm missing parts 1 and 2) of the Computational Biology Fundamentals which is a seminar series that I am attending. It is extremely confusing trying to keep up with the biology part, it has been a long while since I did any work with biological systems.
 
 Nevertheless, it is interesting to learn new things and at least the technological part is the same, the implementation.
 
