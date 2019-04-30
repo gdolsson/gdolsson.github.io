@@ -1,0 +1,10 @@
+---
+layout: "post"
+title: "Workshop"
+date: "2019-04-30 10:27"
+---
+So it has been a while since any updates have been made, I've been busy preparing and hosting a molecular modeling workshop last week. Everything went well though setting up servers, installing software, securing access from different OSs with different restrictions from different university IT departments and more has consumed a lot of time. Combined with some holidays as well as teaching, well time flies.
+
+I did also manage to throw together a site to gather some of the information regarding the workshop, you can check it out [here](https://mipmolmodel.wordpress.com/). Much of the material is still being produces as I was taking notes throughout the workshop with the intent of summarising it and posting it to the website. Hopefully in a not to distance future.
+
+Tomorrow is another holiday and as such nothing much will happen, the rest of the week will likely be spent finishing writing a paper draft and grading student assignments. I am tomorrow entering into my last month on my current contract so I suppose we will se what the future has in store for me as we move towards the end of may.
