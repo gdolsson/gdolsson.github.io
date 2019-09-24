@@ -54,4 +54,4 @@ Olsson GD, Karlsson BCG, Shoravi S, Wiklander JG, Nichols IA. Mechanisms Underly
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1007/s00216-011-4935-1"></div>
 Nichols IA, Andersson, HS, Golker K, Henschel H, Karlsson BCG, Olsson GD, Rosengren AM, Shoravi S, Suriyanarayanan, S, Wiklander JG, _et al._ Rational Design of Biomimetic Molecularly Imprinted Materials: Theoretical and Computational Strategies for Guiding Nanoscale Structured Polymer Development. _Anal. Bioanal. Chem._ **2011**, 400, 1771–1786. [https://doi.org/10.1007/s00216-011-4935-1](https://doi.org/10.1007/s00216-011-4935-1)
 
-## Conferences & Workshops##
+## Conferences & Workshops ##
