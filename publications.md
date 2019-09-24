@@ -3,9 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-
-
-
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.3390/ijms20122857"></div>
