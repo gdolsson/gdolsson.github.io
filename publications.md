@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
+## Articles & Books ##
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.3390/ijms20122857"></div>
 Suriyanarayanan S, Olsson GD, Kathiravan S, Ndizeye N, Nicholls IA. Non-Ionic Deep Eutectic Liquids: Acetamide–Urea Derived Room Temperature Solvents. _Int. J. Mol. Sci._ **2019**, 20 (12), 2857-2867. doi: [https://doi.org/10.3390/ijms20122857](https://doi.org/10.3390/ijms20122857)
 
@@ -42,7 +43,7 @@ Karlsson BCG, Olsson GD, Friedman R, Rosengren AM, Henschel H, Nichols IA. How W
 Karlsson BCG, Olsson GD, Friedman, R, Rosengren AM, Henschel H, Nichols IA. How Warfarin’s Structural Diversity Influences Its Phospholipid Bilayer Membrane Permeation. _J. Phys. Chem. B_ **2013**, 117 (8), 2384–2395. [https://doi.org/10.1021/jp400264x](https://doi.org/10.1021/jp400264x)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1021/ma3024238"></div>
-Golker K, Karlsson BCG, Olsson GD, Rosengrem AM, Nichols IA. Influence of Composition and Morphology on Template Recognition in Molecularly Imprinted Polymers. _Macromolecules_ **2013**, 46 (4), 1408–1414. [https://doi.org/10.1021/ma3024238](https://doi.org/10.1021/ma3024238)
+Golker K, Karlsson BCG, Olsson GD, Rosengren AM, Nichols IA. Influence of Composition and Morphology on Template Recognition in Molecularly Imprinted Polymers. _Macromolecules_ **2013**, 46 (4), 1408–1414. [https://doi.org/10.1021/ma3024238](https://doi.org/10.1021/ma3024238)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1002/chem.201201428"></div>
 Schillinger, E, Möder, M, Olsson GD, Nichols IA, Sellergren, B. An Artificial Estrogen Receptor through Combinatorial Imprinting. _Chem. – Eur. J._ **2012**, 18 (46), 14773–14783. [https://doi.org/10.1002/chem.201201428](https://doi.org/10.1002/chem.201201428)
@@ -51,4 +52,6 @@ Schillinger, E, Möder, M, Olsson GD, Nichols IA, Sellergren, B. An Artificial E
 Olsson GD, Karlsson BCG, Shoravi S, Wiklander JG, Nichols IA. Mechanisms Underlying Molecularly Imprinted Polymer Molecular Memory and the Role of Crosslinker: Resolving Debate on the Nature of Template Recognition in Phenylalanine Anilide Imprinted Polymers. _J. Mol. Recognit._ **2012**, 25 (2), 69–73. [https://doi.org/10.1002/jmr.2147](https://doi.org/10.1002/jmr.2147)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1007/s00216-011-4935-1"></div>
-Nichols IA, Andersson, H. S, Golker, K, Henschel, H, Karlsson BCG, Olsson GD, Rosengren, A. M, Shoravi S, Suriyanarayanan, S, Wiklander JG, et al. Rational Design of Biomimetic Molecularly Imprinted Materials: Theoretical and Computational Strategies for Guiding Nanoscale Structured Polymer Development. _Anal. Bioanal. Chem._ **2011**, 400, 1771–1786. [https://doi.org/10.1007/s00216-011-4935-1](https://doi.org/10.1007/s00216-011-4935-1)
+Nichols IA, Andersson, HS, Golker K, Henschel H, Karlsson BCG, Olsson GD, Rosengren AM, Shoravi S, Suriyanarayanan, S, Wiklander JG, _et al._ Rational Design of Biomimetic Molecularly Imprinted Materials: Theoretical and Computational Strategies for Guiding Nanoscale Structured Polymer Development. _Anal. Bioanal. Chem._ **2011**, 400, 1771–1786. [https://doi.org/10.1007/s00216-011-4935-1](https://doi.org/10.1007/s00216-011-4935-1)
+
+## Conferences & Workshops##
