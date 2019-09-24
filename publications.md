@@ -34,24 +34,24 @@ Cleland D, Olsson GD, Karlsson BCG, Nichols IA, McCluskey A. Molecular Dynamics 
 Olsson GD, Karlsson BCG, Schillinger, E, Sellergren, B, Nichols IA. Theoretical Studies of 17-β-Estradiol-Imprinted Prepolymerization Mixtures: Insights Concerning the Roles of Cross-Linking and Functional Monomers in Template Complexation and Polymerization. _Ind. Eng. Chem. Res._ **2013**, 52 (39), 13965–13970. doi: [https://doi.org/10.1021/ie401115f](https://doi.org/10.1021/ie401115f)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1021/ie3033119"></div>
-Nichols IA, Karlsson BCG, Olsson GD, Rosengren, AM. Computational Strategies for the Design and Study of Molecularly Imprinted Materials. _Ind. Eng. Chem. Res._ **2013**, 52 (39), 13900–13909. [https://doi.org/10.1021/ie3033119](https://doi.org/10.1021/ie3033119)
+Nichols IA, Karlsson BCG, Olsson GD, Rosengren, AM. Computational Strategies for the Design and Study of Molecularly Imprinted Materials. _Ind. Eng. Chem. Res._ **2013**, 52 (39), 13900–13909. doi: [https://doi.org/10.1021/ie3033119](https://doi.org/10.1021/ie3033119)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1021/jp400264x"></div>
-Karlsson BCG, Olsson GD, Friedman R, Rosengren AM, Henschel H, Nichols IA. How Warfarin’s Structural Diversity Influences Its Phospholipid Bilayer Membrane Permeation. _J. Phys. Chem. B_ **2013**, 117 (8), 2384–2395. [https://doi.org/10.1021/jp400264x](https://doi.org/10.1021/jp400264x)
+Karlsson BCG, Olsson GD, Friedman R, Rosengren AM, Henschel H, Nichols IA. How Warfarin’s Structural Diversity Influences Its Phospholipid Bilayer Membrane Permeation. _J. Phys. Chem. B_ **2013**, 117 (8), 2384–2395. doi: [https://doi.org/10.1021/jp400264x](https://doi.org/10.1021/jp400264x)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1021/jp400264x"></div>
-Karlsson BCG, Olsson GD, Friedman, R, Rosengren AM, Henschel H, Nichols IA. How Warfarin’s Structural Diversity Influences Its Phospholipid Bilayer Membrane Permeation. _J. Phys. Chem. B_ **2013**, 117 (8), 2384–2395. [https://doi.org/10.1021/jp400264x](https://doi.org/10.1021/jp400264x)
+Karlsson BCG, Olsson GD, Friedman, R, Rosengren AM, Henschel H, Nichols IA. How Warfarin’s Structural Diversity Influences Its Phospholipid Bilayer Membrane Permeation. _J. Phys. Chem. B_ **2013**, 117 (8), 2384–2395. doi: [https://doi.org/10.1021/jp400264x](https://doi.org/10.1021/jp400264x)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1021/ma3024238"></div>
-Golker K, Karlsson BCG, Olsson GD, Rosengren AM, Nichols IA. Influence of Composition and Morphology on Template Recognition in Molecularly Imprinted Polymers. _Macromolecules_ **2013**, 46 (4), 1408–1414. [https://doi.org/10.1021/ma3024238](https://doi.org/10.1021/ma3024238)
+Golker K, Karlsson BCG, Olsson GD, Rosengren AM, Nichols IA. Influence of Composition and Morphology on Template Recognition in Molecularly Imprinted Polymers. _Macromolecules_ **2013**, 46 (4), 1408–1414. doi: [https://doi.org/10.1021/ma3024238](https://doi.org/10.1021/ma3024238)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1002/chem.201201428"></div>
-Schillinger, E, Möder, M, Olsson GD, Nichols IA, Sellergren, B. An Artificial Estrogen Receptor through Combinatorial Imprinting. _Chem. – Eur. J._ **2012**, 18 (46), 14773–14783. [https://doi.org/10.1002/chem.201201428](https://doi.org/10.1002/chem.201201428)
+Schillinger, E, Möder, M, Olsson GD, Nichols IA, Sellergren, B. An Artificial Estrogen Receptor through Combinatorial Imprinting. _Chem. – Eur. J._ **2012**, 18 (46), 14773–14783. doi: [https://doi.org/10.1002/chem.201201428](https://doi.org/10.1002/chem.201201428)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1002/jmr.2147"></div>
-Olsson GD, Karlsson BCG, Shoravi S, Wiklander JG, Nichols IA. Mechanisms Underlying Molecularly Imprinted Polymer Molecular Memory and the Role of Crosslinker: Resolving Debate on the Nature of Template Recognition in Phenylalanine Anilide Imprinted Polymers. _J. Mol. Recognit._ **2012**, 25 (2), 69–73. [https://doi.org/10.1002/jmr.2147](https://doi.org/10.1002/jmr.2147)
+Olsson GD, Karlsson BCG, Shoravi S, Wiklander JG, Nichols IA. Mechanisms Underlying Molecularly Imprinted Polymer Molecular Memory and the Role of Crosslinker: Resolving Debate on the Nature of Template Recognition in Phenylalanine Anilide Imprinted Polymers. _J. Mol. Recognit._ **2012**, 25 (2), 69–73. doi: [https://doi.org/10.1002/jmr.2147](https://doi.org/10.1002/jmr.2147)
 
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1007/s00216-011-4935-1"></div>
-Nichols IA, Andersson, HS, Golker K, Henschel H, Karlsson BCG, Olsson GD, Rosengren AM, Shoravi S, Suriyanarayanan, S, Wiklander JG, _et al._ Rational Design of Biomimetic Molecularly Imprinted Materials: Theoretical and Computational Strategies for Guiding Nanoscale Structured Polymer Development. _Anal. Bioanal. Chem._ **2011**, 400, 1771–1786. [https://doi.org/10.1007/s00216-011-4935-1](https://doi.org/10.1007/s00216-011-4935-1)
+Nichols IA, Andersson, HS, Golker K, Henschel H, Karlsson BCG, Olsson GD, Rosengren AM, Shoravi S, Suriyanarayanan, S, Wiklander JG, _et al._ Rational Design of Biomimetic Molecularly Imprinted Materials: Theoretical and Computational Strategies for Guiding Nanoscale Structured Polymer Development. _Anal. Bioanal. Chem._ **2011**, 400, 1771–1786. doi: [https://doi.org/10.1007/s00216-011-4935-1](https://doi.org/10.1007/s00216-011-4935-1)
 
 ## Conferences & Workshops ##
