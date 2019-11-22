@@ -1,8 +1,9 @@
 ---
-layout: "post"
-title: "Advanced Materials Workshop"
-date: "2019-11-20 13:33"
+layout: post
+title: Advanced Materials Workshop
+date: '2019-11-22 15:44'
 ---
+
 I spent Wednesday afternoon at [Hotel Skansen](https://www.hotelskansen.com/en/) in [Färjestaden](https://en.wikipedia.org/wiki/F%C3%A4rjestaden) on [Öland](https://en.wikipedia.org/wiki/%C3%96land) attending the "Advanced Materials Workshop". The website describing the [knowledge environment](https://lnu.se/mot-linneuniversitetet/kunskapsmiljoer/) (only in Swedish so far) which I am a part of named [advanced materials](https://lnu.se/mot-linneuniversitetet/kunskapsmiljoer/avancerade-material/) (also only in Swedish) is available through the [Linnaeus University](lnu.se) website.
 
 The afternoon consisted of research presentations from collaborators within this knowledge environment to gain insights into what others are working with, what resources are available and where collaborations and projects can be initiated and formed.
