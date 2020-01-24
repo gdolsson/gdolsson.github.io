@@ -8,11 +8,11 @@ My name is Gustaf Olsson and I am currently working at the [Linnaeus University]
 
 I have also been fortunate to be able to teach a lot in my career, both entry level and higher level students on both bachelor and MSc levels. In addition to teaching and research I have, of course, also been taking some classes myself, learning some programming (mostly python) as well as informatics, bioinformatics and pharmaceutical bioinformatics.
 
-<a href="https://lnu.se/en/staff/gustaf.olsson/">Gustaf D Olsson at lnu.se</a>
-<a href="https://www.researchgate.net/profile/Gustaf_Olsson">Gustaf D Olsson on ResearchGate</a>
-<a href="https://scholar.google.se/citations?user=sdYzqKkAAAAJ&hl=sv&oi=ao"Gustaf D Olsson on Google Scholar</a>
-<a href="https://orcid.org/0000-0003-4037-1992">Gustaf D Olsson ORCID</a>
-<a href="https://publons.com/researcher/1434107/gustaf-olsson/">Gustaf D Olsson ResearcherID/Publons</a>
+- <a href="https://lnu.se/en/staff/gustaf.olsson/">Gustaf D Olsson at lnu.se</a>
+- <a href="https://www.researchgate.net/profile/Gustaf_Olsson">Gustaf D Olsson on ResearchGate</a>
+- <a href="https://scholar.google.se/citations?user=sdYzqKkAAAAJ&hl=sv&oi=ao"Gustaf D Olsson on Google Scholar</a>
+- <a href="https://orcid.org/0000-0003-4037-1992">Gustaf D Olsson ORCID</a>
+- <a href="https://publons.com/researcher/1434107/gustaf-olsson/">Gustaf D Olsson ResearcherID/Publons</a>
 
 
 {% comment %}
