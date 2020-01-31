@@ -10,6 +10,6 @@ It seems (or I would guess based on the content of the articles) that the cause 
 
 It remains to be seen if the accusation becomes substantialised or dismissed and in case of the prior, what this would mean for the affected applicant with regards to consequences.
 
-[Barometern](http://www.barometern.se/article/lektor-misstankt-for-forskningsfusk/)
-[VXONEWS](http://www.vxonews.se/nyheter/lektor-misstanks-for-forskningsfusk/)
-[Smålandsposten](http://www.smp.se/vaxjo/lektor-misstankt-for-forskningsfusk/)
+[Barometern](http://www.barometern.se/article/lektor-misstankt-for-forskningsfusk/)  
+[VXONEWS](http://www.vxonews.se/nyheter/lektor-misstanks-for-forskningsfusk/)  
+[Smålandsposten](http://www.smp.se/vaxjo/lektor-misstankt-for-forskningsfusk/)  
