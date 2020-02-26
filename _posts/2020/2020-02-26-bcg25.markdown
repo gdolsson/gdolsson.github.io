@@ -3,7 +3,7 @@ layout: "post"
 title: "BCG25"
 date: "2020-02-26 08:33"
 ---
-Tomorrow is the start of the BCG25 event here at the [Linnaeus University (LNU)](https://lnu.se) in Kalmar. I am looking forward to a series fo interesting presentations from both coworkers, colleagues and alumni visitors returning from across the globe.
+Tomorrow is the start of the BCG25/BBCL-25 event here at the [Linnaeus University (LNU)](https://lnu.se’”) in Kalmar. I am looking forward to a series fo interesting presentations from both coworkers, colleagues and alumni visitors returning from across the globe.
 
 I have good memories of the BCG20 event that was held some time around ned of 2014 beginning of 2015. Excellent presentations, good food and fantastic company. It also reminded me that this is my 10th year as an employe at LNU so there is a sort of double anniversary to celebrate.
 
