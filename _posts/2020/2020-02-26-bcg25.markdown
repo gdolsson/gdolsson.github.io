@@ -1,0 +1,12 @@
+---
+layout: "post"
+title: "BCG25"
+date: "2020-02-26 08:33"
+---
+Tomorrow is the start of the BCG25 event here at the [Linnaeus University (LNU)](https://lnu.se) in Kalmar. I am looking forward to a series fo interesting presentations from both coworkers, colleagues and alumni visitors returning from across the globe.
+
+I have good memories of the BCG20 event that was held some time around ned of 2014 beginning of 2015. Excellent presentations, good food and fantastic company. It also reminded me that this is my 10th year as an employe at LNU so there is a sort of double anniversary to celebrate.
+
+I will give a presentation called "Computationally Predicting Discrimination Properties in Molecularly Imprinted Polymers". This is a project that has been running in parallel with other ongoing research and teaching for quite some time now though there are some unpublished updates I hope people will find interesting. Hopefully this work will be finalised soon and I can share this project more publicly.
+
+ Hopefully I will find some time to provide updates over the coming three days of activities, otherwise I will try to publish some notes after the weekend.
