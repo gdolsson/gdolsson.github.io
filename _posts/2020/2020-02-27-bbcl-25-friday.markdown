@@ -1,0 +1,51 @@
+---
+layout: post
+title: BBCL-25 Friday
+date: '2020-02-27 16:19'
+---
+
+So the schedule, which might still be subject to change, seems to be the following for the open lectures scheduled for Friday the 28th of February.
+
+Some interesting presentations from both internal and external people, much to look forward to.
+
+**09:15 - 09:30** Ian A. Nicholls (Linnaeus Uni, SE)  
+_Opening & BBCL - 25 years_
+
+**09:30 - 10:00** Björn C. G. Karlsson (Linnaeus Uni, SE)  
+_The Role of the NAC 71-82 Amino Acid Stretch of a alfa-Synuclein During Misfolding_
+
+**10:00 - 10:30** Subramanian Suriyanarayanan (Linnaeus Uni, SE)  
+_Hierarchical Nanostructured Materials from Renewable Sources: A Bio-inspired Approach_
+
+**10:30 - 10:45** _Coffee Break_
+
+**10:45 - 11:00** Johan Svenson (Cawthron Institute, NZ) - _via link_
+_The Cawthron Institute & Life in NZ_
+
+**11:00 - 11:30** Gustaf D. Olsson (Linnaeus Uni, SE)  
+_Computationally Predicting Ligand Discrimination Properties in Molecularly Imprinted Polymers_
+
+**11:30 - 12:00** Subban Kathiravan (Linnaeus Uni, SE)  
+_Base Metal Catalysed C-H Activation Reactions_
+
+**12:00 - 13:15** _Lunch_
+
+**13:15 - 14:00** Michael J. Whitcombe (Uni Leicester, UK)  
+_The Leicester Biotechnology Group_
+
+**14:00 - 14:30** _Coffee Break_
+
+**14:30 - 15:00** Henning Henschel (Uppsala Uni, SE)  
+_IR Spectra from Force Field Methods - Quantifying Their Quality, and Turning Those Numbers into Insights_
+
+**15:00 - 15:15** Louise Elmlund (National Forensic Center, SE)  
+_A Forensic Reality Check - Living with the Matrix_
+
+**15:15 - 15:30** Sofia M. E. Nilsson (Uppsala Uni, SE)  
+_3D Printed Miniaturized Glass Devices for Online Pharmaceutical Analysis_
+
+**15:30 - 16:00** Håkan S. Andersson (Karolinska Institute, SE)  
+_Stockholm, Uppsala, Knots, Ducks and Worms_
+
+**16:00 - 16:15** Ian A. Nicholls (Linnaeus Uni, SE)  
+_Closing Comments & BBCL - The Next 25 Years_
