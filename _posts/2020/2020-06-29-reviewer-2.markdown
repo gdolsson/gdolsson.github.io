@@ -1,0 +1,10 @@
+---
+layout: "post"
+title: "Reviewer 2"
+date: "2020-06-29 17:12"
+---
+There is a frustration often recognised amongst researchers when it comes to publishing in scientific journals regarding the review process. I to have felt this frustration whey receiving reviewers comments. The first reviewer suggesting "publish with minor revision", providing some nice corrections, some valid input and some manageable changes/additions to increase the quality of the paper. The third reviewer falling on the side of even less correction or sometimes "publish after major revision". However, the second reviewer shooting the paper out of the sky completely as basically being the work of a bunch of incompetent zoo-animals picking the wrong methods, doing the wrong experiments, asking the wrong questions and barely being able to string words together to readable sentences.
+
+At some level you undoubtably feel that the "Reviewer 2" phenomenon must just be coincidental, though a quick internet search quickly reveals such things as the [Reviewer 2 Must Be Stopped! on Facebook](https://www.facebook.com/groups/reviewer2/), the [Grumpy Reviewer 2 on Twitter](https://twitter.com/grumpyreviewer2) as well as posts like [How not the be reviewer 2](https://amlbrown.com/2015/11/10/how-not-to-be-reviewer-2/). Additionally assumed satirical publication bitterly titled [A letter from the frustrated author of a journal paper](https://www.sciencedirect.com/science/article/pii/S0164121200000200?via%3Dihub).
+
+Though the reason for this new found interest and todays post was that I found a recently published paper titled [Dear Reviewer 2: Go F' Yourself](https://onlinelibrary.wiley.com/doi/10.1111/ssqu.12824). In this paper, it turns out that statistically it is not Reviewer 2 causing most problems but rather Reviewer 3. At some level it is questionable how a study like this finds itself into a journal for publication at all. Tough during times like this, it is not like we can't all use a good laugh. 
