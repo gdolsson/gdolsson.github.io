@@ -6,6 +6,9 @@ permalink: /publications/
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 
 ## Articles & Books ##
+<div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.1021/jacs.0c00707"></div>
+Shinde S, Incel A, Mansour M, Olsson GD, Nicholls IA, Esen C, Urraca J, Sellergren B. Urea-Based Imprinted Polymer Hosts with Switchable Anion Preference- _J. Am. Chem. Soc._ **2020**, doi: [https://doi.org/10.1021/jacs.0c00707](https://doi.org/10.1021/jacs.0c00707)
+
 <div data-badge-type='1' class='altmetric-embed' data-badge-popover='tight' data-doi="10.3390/ijms20122857"></div>
 Suriyanarayanan S, Olsson GD, Kathiravan S, Ndizeye N, Nicholls IA. Non-Ionic Deep Eutectic Liquids: Acetamide–Urea Derived Room Temperature Solvents. _Int. J. Mol. Sci._ **2019**, 20 (12), 2857-2867. doi: [https://doi.org/10.3390/ijms20122857](https://doi.org/10.3390/ijms20122857)
 
