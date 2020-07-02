@@ -12,6 +12,9 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Efective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
+* [MIP-oriented Molecular Modelling](https://mipmolmodel.wordpress.com/)
+A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.
+
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimization\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
 
