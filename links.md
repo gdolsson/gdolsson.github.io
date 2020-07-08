@@ -18,5 +18,8 @@ A basic site thrown together for a workshop hosted at the Linnaeus University in
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimization\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
 
+* [PSPP](https://www.gnu.org/software/pspp/)  
+Free and open-source alternative to SPSS, cross-platform.
+
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
