@@ -12,6 +12,12 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Efective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
+* [Jamovi](http://www.jamovi.org)  
+Free statistics software
+
+* [JASP](http://jasp-stats.org)  
+Free statistics software
+
 * [MIP-oriented Molecular Modelling](https://mipmolmodel.wordpress.com/)
 A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.
 
