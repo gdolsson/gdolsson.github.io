@@ -12,17 +12,32 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Efective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
+* [Coggle](https://coggle.it/)  
+Collaborative online mindmapping
+
 * [Jamovi](http://www.jamovi.org)  
 Free statistics software
 
 * [JASP](http://jasp-stats.org)  
 Free statistics software
 
+* [Kahoot](https://kahoot.com/)  
+Easy to create online interactive quizzes, games and trivia to be used for meetings and teaching
+
+* [Mentimeter](https://www.mentimeter.com/)  
+Create interactive presentations & meetings, wherever you are. Available for employees at the Linnaeus University.
+
+* [Mindmeister](https://www.mindmeister.com/)  
+Collaborative online mindmapping
+
 * [MIP-oriented Molecular Modelling](https://mipmolmodel.wordpress.com/)
 A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.
 
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimization\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
+
+* [PeerWise](https://peerwise.cs.auckland.ac.nz/)  
+Supports students in the creation, sharing, evaluation and discussion of assessment questions. Some sort of open-source alternative platform for interactive online learning.
 
 * [PSPP](https://www.gnu.org/software/pspp/)  
 Free and open-source alternative to SPSS, cross-platform.
