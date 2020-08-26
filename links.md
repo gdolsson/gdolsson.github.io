@@ -50,3 +50,9 @@ A nice resource to calculate the number of ions needed for MD simulations with a
 
 * The O&O [Shut Up 10](https://www.oo-software.com/en/shutup10)  
 \"Antispy\" tool for Windows 10, allows greater control over which functions are active or not under windows 10
+
+* [Sync](https://www.sync.com/)  
+Like BOX or DropBox though with end-to-end encryption of your data.
+
+* [Syncthing](https://syncthing.net/)  
+Free and open source files synchronisation between two or more computers in real time. Safe and protected data transfers between your machines, not over any external server.
