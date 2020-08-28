@@ -12,11 +12,17 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 * The O&O [App Buster](https://www.oo-software.com/en/ooappbuster)  
 Allows you to quickly and easily remove Windows 10 "bloatware"
 
+* [BPYTHOP](https://github.com/aristocratos/bpytop)  
+Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).
+
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Efective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
 * [Coggle](https://coggle.it/)  
 Collaborative online mindmapping
+
+* [HTOP](https://hisham.hm/htop/)  
+An interactive process viewer for Unix systems
 
 * [Jamovi](http://www.jamovi.org)  
 Free statistics software
