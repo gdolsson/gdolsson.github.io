@@ -24,6 +24,11 @@ Collaborative online mindmapping
 * [HTOP](https://hisham.hm/htop/)  
 An interactive process viewer for Unix systems
 
+* [HUGO](https://gohugo.io/)  
+Open-source static site generator
+  - [HUGO Themes](https://themes.gohugo.io/)
+    - [Learn](https://themes.gohugo.io/hugo-theme-learn/)  
+
 * [Jamovi](http://www.jamovi.org)  
 Free statistics software
 
@@ -50,6 +55,16 @@ Supports students in the creation, sharing, evaluation and discussion of assessm
 
 * [PSPP](https://www.gnu.org/software/pspp/)  
 Free and open-source alternative to SPSS, cross-platform.
+
+* [Python](https://www.python.org/)
+  - [Switowski](https://switowski.com/)s website.  
+      Nice resources
+  - [Modern Python Dev Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)  
+      A nice tutorial video presentation
+  - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com/)  
+      The interactive version of the video lecture above
+  - [PIPX](https://pypi.org/project/pipx/)  
+      Install/run pip packages in virtual environments
 
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
