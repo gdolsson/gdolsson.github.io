@@ -12,6 +12,9 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 * The O&O [App Buster](https://www.oo-software.com/en/ooappbuster)  
 Allows you to quickly and easily remove Windows 10 "bloatware"
 
+* [blockchain.info](https://www.blockchain.info)  
+Nice place to check transaction history and value of crypto currency
+
 * [BPYTHOP](https://github.com/aristocratos/bpytop)  
 Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).
 
@@ -64,7 +67,12 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com/)  
       The interactive version of the video lecture above
   - [PIPX](https://pypi.org/project/pipx/)  
-      Install/run pip packages in virtual environments
+      Install/run pip packages in virtual environments  
+  - [Python Packaging User Guide](https://packaging.python.org/)  
+      The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
+
+* [NextCloud](https://nextcloud.com/)  
+Self-hosted cloud service
 
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
