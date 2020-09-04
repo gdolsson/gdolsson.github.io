@@ -71,6 +71,9 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Python Packaging User Guide](https://packaging.python.org/)  
       The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
 
+* [Mastering GitHub Markdown](https://guides.github.com/features/mastering-markdown/)  
+How to format markdown for GitHub pages.
+
 * [NextCloud](https://nextcloud.com/)  
 Self-hosted cloud service
 
