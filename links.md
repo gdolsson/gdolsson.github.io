@@ -38,8 +38,22 @@ Free statistics software
 * [JASP](http://jasp-stats.org)  
 Free statistics software
 
-* [Kahoot](https://kahoot.com/)  
+*  [Kahoot](https://kahoot.com/)  
 Easy to create online interactive quizzes, games and trivia to be used for meetings and teaching
+
+* **Link Shorteners**  
+Pretty much self explanatory, take a long link to something and make it shorter.
+  - [bit.ly](bit.ly)  
+  The free service lets you shorten links using the Bit.ly domain name, while the premium service lets you use your own custom domain name
+  - [TinyURL](https://tinyurl.com/)  
+  TinyURL is completely anonymous – no need to register an account. The downside, though, is that it doesn’t offer any analytics or other advanced features. You can customise the string that appears in your shortened URL.
+  - [ow.ly](ow.ly)  
+  Ow.ly is a specific feature in Hootsuite that lets you shorten your links to use on social media or in other places.
+  - [shortulr.at](shorturl.at)  
+  Free url shortner with a chrome browser plugin.
+  - [cutt.ly](cuttly)  
+  Free URL Shortener & Branded URLs with great analytics tool.
+
 
 * [Mentimeter](https://www.mentimeter.com/)  
 Create interactive presentations & meetings, wherever you are. Available for employees at the Linnaeus University.
@@ -64,7 +78,7 @@ Free and open-source alternative to SPSS, cross-platform.
       Nice resources
   - [Modern Python Dev Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)  
       A nice tutorial video presentation
-  - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com/)  
+  - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com)  
       The interactive version of the video lecture above
   - [PIPX](https://pypi.org/project/pipx/)  
       Install/run pip packages in virtual environments  
