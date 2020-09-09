@@ -38,7 +38,7 @@ Free statistics software
 * [JASP](http://jasp-stats.org)  
 Free statistics software
 
-*  [Kahoot](https://kahoot.com/)  
+* [Kahoot](https://kahoot.com/)  
 Easy to create online interactive quizzes, games and trivia to be used for meetings and teaching
 
 * **Link Shorteners**  
@@ -69,6 +69,9 @@ As stated on top of the page, \"Initial configurations for Molecular Dynamics Si
 
 * [PeerWise](https://peerwise.cs.auckland.ac.nz/)  
 Supports students in the creation, sharing, evaluation and discussion of assessment questions. Some sort of open-source alternative platform for interactive online learning.
+
+* [PLUMED](https://www.plumed.org/)  
+PLUMED is an open-source, community-developed library that provides a wide range of different methods in combination with a large toolbox of collective variables that describe complex processes in physics, chemistry, material science, and biology.
 
 * [PSPP](https://www.gnu.org/software/pspp/)  
 Free and open-source alternative to SPSS, cross-platform.
