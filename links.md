@@ -24,6 +24,9 @@ A recurring mention when discussing building membrane systems and other more com
 * [Coggle](https://coggle.it/)  
 Collaborative online mindmapping
 
+* [GraphPad](graphpad.com)  
+Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more.
+
 * [HTOP](https://hisham.hm/htop/)  
 An interactive process viewer for Unix systems
 
@@ -87,12 +90,18 @@ Free and open-source alternative to SPSS, cross-platform.
       Install/run pip packages in virtual environments  
   - [Python Packaging User Guide](https://packaging.python.org/)  
       The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
+  - [Streamlit](https://www.streamlit.io/)  
+      Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
+
 
 * [Mastering GitHub Markdown](https://guides.github.com/features/mastering-markdown/)  
 How to format markdown for GitHub pages.
 
 * [NextCloud](https://nextcloud.com/)  
 Self-hosted cloud service
+
+* [Redis](redis.io)  
+Cross platform database with minimal footprint
 
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
