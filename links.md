@@ -58,6 +58,9 @@ Pretty much self explanatory, take a long link to something and make it shorter.
   Free URL Shortener & Branded URLs with great analytics tool.
 
 
+* [The Measure of Things](https://www.bluebulbprojects.com/MeasureOfThings/default.php)  
+A fun website where you can put in a measure and get an assortment of things to compare against.
+
 * [Mentimeter](https://www.mentimeter.com/)  
 Create interactive presentations & meetings, wherever you are. Available for employees at the Linnaeus University.
 
