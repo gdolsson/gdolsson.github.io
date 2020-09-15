@@ -24,8 +24,14 @@ A recurring mention when discussing building membrane systems and other more com
 * [Coggle](https://coggle.it/)  
 Collaborative online mindmapping
 
+* [DBeaver](https://dbeaver.io/)  
+Free multi-platform database tool
+
 * [GraphPad](graphpad.com)  
 Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more.
+
+* [HackMD](https://hackmd.io/)  
+Real-time collaboration in markdown. Capture fleeting ideas  and formalise tribal knowledge
 
 * [HTOP](https://hisham.hm/htop/)  
 An interactive process viewer for Unix systems
@@ -57,6 +63,8 @@ Pretty much self explanatory, take a long link to something and make it shorter.
   - [cutt.ly](cuttly)  
   Free URL Shortener & Branded URLs with great analytics tool.
 
+* [Markdown Guide](https://www.markdownguide.org/)  
+Reference guide that explains how to use Markdown
 
 * [The Measure of Things](https://www.bluebulbprojects.com/MeasureOfThings/default.php)  
 A fun website where you can put in a measure and get an assortment of things to compare against.
@@ -72,6 +80,9 @@ A basic site thrown together for a workshop hosted at the Linnaeus University in
 
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
+
+* [Pandoc](https://pandoc.org/)  
+A universal document converter
 
 * [PeerWise](https://peerwise.cs.auckland.ac.nz/)  
 Supports students in the creation, sharing, evaluation and discussion of assessment questions. Some sort of open-source alternative platform for interactive online learning.
