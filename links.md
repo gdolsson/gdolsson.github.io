@@ -27,6 +27,9 @@ Collaborative online mindmapping
 * [DBeaver](https://dbeaver.io/)  
 Free multi-platform database tool
 
+* [Git Hooks](https://githooks.com/)  
+Scripts that Git executes before or after events
+
 * [GraphPad](graphpad.com)  
 Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more.
 
@@ -62,6 +65,7 @@ Pretty much self explanatory, take a long link to something and make it shorter.
   Free url shortner with a chrome browser plugin.
   - [cutt.ly](cuttly)  
   Free URL Shortener & Branded URLs with great analytics tool.
+
 
 * [Markdown Guide](https://www.markdownguide.org/)  
 Reference guide that explains how to use Markdown
