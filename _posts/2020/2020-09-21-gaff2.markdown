@@ -1,0 +1,41 @@
+---
+layout: post
+title: GAFF2
+date: '2020-09-21 12:43'
+---
+
+At some point in time the general amber force field (GAFF) was updated to version 2 (GAFF2). Where and when this started, I am under the impression that [Junmei Wang](https://www.researchgate.net/profile/Junmei_Wang8) at the [University of Pittsburgh](https://www.pitt.edu/) together with the/his research group [initiated this project](https://mulan.pharmacy.pitt.edu/group/gaff.php).
+
+As per the [amber16 manual](http://ambermd.org/doc12/Amber16.pdf) and forward:
+
+> **"a general force field, for organic molecules like ligands (recommended choice is gaff2)""**  
+> _\- Amber Reference Manual - Amber 2016, 3. Molecular mechanics force fields, p.33_
+
+There are publications providing [improved parameters](https://link.springer.com/article/10.1007/s00894-018-3911-5) for GAFF2 and [evaluating its performance](https://pubs.acs.org/doi/10.1021/acs.jctc.8b01039) as late as 2019 (based on a quick search). However, I cannot find an "official GAFF2" publication as for the original [GAFF](https://onlinelibrary.wiley.com/doi/full/10.1002/jcc.20035). At some point in time I was informed that a publications was being drafted and awaiting its publications, citing the [project page at ResearchGate](https://www.researchgate.net/project/Development-of-the-Second-Generation-of-the-General-AMBER-Force-Field). This was updated last time in May 2017, stating:
+
+> **"The manuscript of the GAFF2 paper is in preparation"**  
+> _\-https://www.researchgate.net/project/Development-of-the-Second-Generation-of-the-General-AMBER-Force-Field_
+
+Being painfully aware that preparing publications can take a long time, this does not mean that the project has stalled in any way though based on discussions with colleagues, the general consensus seems to be to reference to GAFF2 as "_that unpublished experimental force field_".
+
+Don't get me wrong, I think there has been improvements to the force field and it has solved some issues for me. I am following the recommendation in the manual and have adapted it for simulations over GAFF. I just think that the details regarding GAFF2 should be publicised regularly and any changes/improvements should be announced by the developers.
+
+In any case, when using antechamber and parmchk2 to prepare input for simulations using GAFF2, do remember to specify GAFF2 atom types, as these are not the default (which could be considered strange as it is the recommended choice in the manual).
+
+```bash
+# antechamber -at gaff2
+antechamber -i [input] -fi [input format] -o [output] -fo [output format] -c [charge method] -nc [net charge] -at gaff2
+
+# parmchk2 -s gaff2
+parmchk2 -i [input] -f [input format] -o [output] -s gaff2
+
+# leaprc.gaff2
+x/tleap -f leaprc.gaff2
+
+OR
+
+x/tleap
+    > source leaprc.gaff2
+```
+
+This will ensure that you are using the correct atom types, check the parameters using gaff2 and then using the correct force field.

@@ -94,6 +94,9 @@ Supports students in the creation, sharing, evaluation and discussion of assessm
 * [PLUMED](https://www.plumed.org/)  
 PLUMED is an open-source, community-developed library that provides a wide range of different methods in combination with a large toolbox of collective variables that describe complex processes in physics, chemistry, material science, and biology.
 
+* [Pre-Commit](https://pre-commit.com/)  
+A framework for managing and maintaining multi-language pre-commit hooks.
+
 * [PSPP](https://www.gnu.org/software/pspp/)  
 Free and open-source alternative to SPSS, cross-platform.
 
