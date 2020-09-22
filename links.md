@@ -1,4 +1,4 @@
----
+visualizations---
 layout: page
 title: Links
 permalink: /links/
@@ -19,10 +19,10 @@ Nice place to check transaction history and value of crypto currency
 Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).
 
 * [CHARMM-GUI](http://www.charmm-gui.org)  
-A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Efective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
+A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Effective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
 * [Coggle](https://coggle.it/)  
-Collaborative online mindmapping
+A solution for collaborative online mind-mapping
 
 * [DBeaver](https://dbeaver.io/)  
 Free multi-platform database tool
@@ -40,7 +40,7 @@ Real-time collaboration in markdown. Capture fleeting ideas  and formalise triba
 An interactive process viewer for Unix systems
 
 * [HUGO](https://gohugo.io/)  
-Open-source static site generator
+An open-source solution for static site generation
   - [HUGO Themes](https://themes.gohugo.io/)
     - [Learn](https://themes.gohugo.io/hugo-theme-learn/)  
 
@@ -77,7 +77,7 @@ A fun website where you can put in a measure and get an assortment of things to 
 Create interactive presentations & meetings, wherever you are. Available for employees at the Linnaeus University.
 
 * [Mindmeister](https://www.mindmeister.com/)  
-Collaborative online mindmapping
+A solution for collaborative online mind-mapping
 
 * [MIP-oriented Molecular Modelling](https://mipmolmodel.wordpress.com/)
 A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.
@@ -86,7 +86,7 @@ A basic site thrown together for a workshop hosted at the Linnaeus University in
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
 
 * [Pandoc](https://pandoc.org/)  
-A universal document converter
+This is a universal document converter
 
 * [PeerWise](https://peerwise.cs.auckland.ac.nz/)  
 Supports students in the creation, sharing, evaluation and discussion of assessment questions. Some sort of open-source alternative platform for interactive online learning.
@@ -135,3 +135,6 @@ Like BOX or DropBox though with end-to-end encryption of your data.
 
 * [Syncthing](https://syncthing.net/)  
 Free and open source files synchronisation between two or more computers in real time. Safe and protected data transfers between your machines, not over any external server.
+
+* [VMD](https://www.ks.uiuc.edu/Research/vmd/)  
+Visual Molecular Dynamics, a molecular visualisation program for displaying, animating, and analysing large biomolecular systems using 3-D graphics and built-in scripting.
