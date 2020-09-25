@@ -27,6 +27,9 @@ A solution for collaborative online mind-mapping
 * [DBeaver](https://dbeaver.io/)  
 Free multi-platform database tool
 
+* [DuckDuckGo](https://duckduckgo.com)  
+Search engine which respects your privacy
+
 * [Git Hooks](https://githooks.com/)  
 Scripts that Git executes before or after events
 
@@ -138,3 +141,6 @@ Free and open source files synchronisation between two or more computers in real
 
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/)  
 Visual Molecular Dynamics, a molecular visualisation program for displaying, animating, and analysing large biomolecular systems using 3-D graphics and built-in scripting.
+
+* [Qwant](https://qwant.com)  
+The search engine that respects your privacy
