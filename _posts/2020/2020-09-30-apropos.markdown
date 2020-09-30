@@ -1,0 +1,74 @@
+---
+layout: post
+title: Apropos
+date: '2020-09-30 14:34'
+---
+
+Figure there is a command to do something on the CLI, forgotten that thing you used that time? Try `apropos`.
+
+```bash
+apropos(1)                                                                                                                                                                   apropos(1)
+
+NAME
+       apropos - search the whatis database for strings
+
+SYNOPSIS
+       apropos keyword ...
+
+DESCRIPTION
+       apropos searches a set of database files containing short descriptions of system commands for keywords and displays the result on the standard output.
+
+AUTHOR
+       John  W.  Eaton  was  the  original  author  of man.  Zeyd M. Ben-Halim released man 1.2, and Andries Brouwer followed up with versions 1.3 thru 1.5p.  Federico Lucifredi <flu-
+       cifredi@acm.org> is the current maintainer.
+
+SEE ALSO
+       whatis(1), man(1).
+```
+
+So when you figure the command you are looking for might have something to do with say `ssh` then
+
+```bash
+$ apropos ssh
+ssh(1)                   - OpenSSH SSH client (remote login program)
+ssh-add(1)               - adds private key identities to the authentication agent
+...
+...
+ssh-keygen(1)            - authentication key generation, management and conversion
+ssh-keyscan(1)           - gather SSH public keys
+ssh_config(5)            - OpenSSH SSH client configuration files
+```
+
+You can then use the suggestion from above "`whatis`":
+
+```bash
+$ whatis ssh
+ssh(1)                   - OpenSSH SSH client (remote login program)
+...
+sshd_config(5)           - OpenSSH SSH daemon configuration file
+```
+
+To narrow in on the topic of you interest and finally "`man`" to get the real lo-down:
+
+```bash
+$ man ssh
+SSH(1)                    BSD General Commands Manual                   SSH(1)
+
+NAME
+     ssh -- OpenSSH SSH client (remote login program)
+
+SYNOPSIS
+     ssh [-46AaCfGgKkMNnqsTtVvXxYy] [-B bind_interface] [-b bind_address] [-c cipher_spec] [-D [bind_address:]port] [-E log_file] [-e escape_char] [-F configfile] [-I pkcs11]
+         [-i identity_file] [-J destination] [-L address] [-l login_name] [-m mac_spec] [-O ctl_cmd] [-o option] [-p port] [-Q query_option] [-R address] [-S ctl_path] [-W host:port]
+         [-w local_tun[:remote_tun]] destination [command]
+
+DESCRIPTION
+     ssh (SSH client) is a program for logging into a remote machine and for executing commands on a remote machine.  It is intended to provide secure encrypted communications between
+...
+...
+AUTHORS
+     OpenSSH is a derivative of the original and free ssh 1.2.12 release by Tatu Ylonen.  Aaron Campbell, Bob Beck, Markus Friedl, Niels Provos, Theo de Raadt and Dug Song removed
+     many bugs, re-added newer features and created OpenSSH.  Markus Friedl contributed the support for SSH protocol versions 1.5 and 2.0.
+```
+
+Pretty neat for those of us with low performance memory.
