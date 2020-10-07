@@ -21,6 +21,16 @@ Resource monitor that shows usage and stats for processor, memory, disks, networ
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Effective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
+* **[UCSF Cimera](http://www.cgl.ucsf.edu/chimera/)**  
+A program for the interactive visualisation and analysis of molecular structures and related data.  
+  - _Using AutoDock Vina with Chimera_
+    + [AutoDock Vina](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/vina/vina.html)
+    + [DockPrep](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/dockprep/dockprep.html)
+    + [PDB2PQR](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/apbs/pdb2pqr.html) and
+      [Get PDB2PQR](https://pdb2pqr.readthedocs.io/en/latest/getting.html)  
+    + [ViewDock](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/viewdock/framevd.html)
+
+
 * [Coggle](https://coggle.it/)  
 A solution for collaborative online mind-mapping
 
