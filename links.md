@@ -95,6 +95,9 @@ A solution for collaborative online mind-mapping
 * [MIP-oriented Molecular Modelling](https://mipmolmodel.wordpress.com/)
 A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.
 
+* [Nature Careers Funding](https://naturecareersfunding.com/)  
+Seems like a nice aggregation of information regarding funding options
+
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
 
