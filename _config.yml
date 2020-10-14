@@ -39,3 +39,13 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Added below: check https://github.com/jekyll/minima/blob/master/_config.yml#L37-L40
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+# - projects.md
+# - publications.md
+# - shortcuts.md
+# - links.md
