@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Checking Charges"
-date: "2020-09-07 15:01"
+date: "2020-10-15 10:47"
 ---
 So when you are running AMBER simulations and charges are not applied properly. Then this can be helpful.
 
