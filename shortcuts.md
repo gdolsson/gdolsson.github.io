@@ -15,6 +15,16 @@ Move between sheets in excel
 `control + §`  
 Find and replace
 
+## PowerPoint
+`fm + left/right`
+First/Last slide in presentation
+`b`
+"Black-n-back", blackout screen and then revert
+
 ## macOS
 `option + command + c`  
 "Capitalize word" under cursor
+
+## VisualStudio Code
+`command + k` and then `o`
+"Open tab in new window"
