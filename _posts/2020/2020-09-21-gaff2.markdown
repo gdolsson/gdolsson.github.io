@@ -27,7 +27,8 @@ In any case, when using antechamber and parmchk2 to prepare input for simulation
 antechamber -i [input] -fi [input format] -o [output] -fo [output format] -c [charge method] -nc [net charge] -at gaff2
 
 # parmchk2 -s gaff2
-parmchk2 -i [input] -f [input format] -o [output] -s gaff2
+parmchk2 -i [input] -f [input format] -o [output] -s 2
+# You can also supply "gaff2" as -s option, at least that's what it seems like
 
 # leaprc.gaff2
 x/tleap -f leaprc.gaff2
