@@ -9,9 +9,6 @@ The \"Assisted Model Building with Energy Refinement\" (AMBER) homepage where yo
 * [AMBER-Hub](https://amberhub.chpc.utah.edu/)  
 The AMBER-Hub page seems to be a nice collection of things related to suing AMBER and CPPTRAJ. You can find a lot of nice tips and solutions for solving problems and nicely presented tutorials. A nice addition to the manual and the official tutorials.
 
-* The O&O [App Buster](https://www.oo-software.com/en/ooappbuster)  
-Allows you to quickly and easily remove Windows 10 "bloatware"
-
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
 
@@ -143,9 +140,6 @@ Cross platform database with minimal footprint
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
 
-* The O&O [Shut Up 10](https://www.oo-software.com/en/shutup10)  
-\"Antispy\" tool for Windows 10, allows greater control over which functions are active or not under windows 10
-
 * [Sync](https://www.sync.com/)  
 Like BOX or DropBox though with end-to-end encryption of your data.
 
@@ -154,6 +148,15 @@ Free and open source files synchronisation between two or more computers in real
 
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/)  
 Visual Molecular Dynamics, a molecular visualisation program for displaying, animating, and analysing large biomolecular systems using 3-D graphics and built-in scripting.
+
+* **Windows**
+  - [wintools.info](https://www.wintools.info/)  
+  Nice collection of tools, free with donations asked, to optimise your windows usage. One good item is extended godmode.
+  - The O&O [Shut Up 10](https://www.oo-software.com/en/shutup10)  
+  \"Antispy\" tool for Windows 10, allows greater control over which functions are active or not under windows 10
+  - The O&O [App Buster](https://www.oo-software.com/en/ooappbuster)  
+  Allows you to quickly and easily remove Windows 10 "bloatware"
+
 
 * [Qwant](https://qwant.com)  
 The search engine that respects your privacy
