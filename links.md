@@ -9,6 +9,15 @@ The \"Assisted Model Building with Energy Refinement\" (AMBER) homepage where yo
 * [AMBER-Hub](https://amberhub.chpc.utah.edu/)  
 The AMBER-Hub page seems to be a nice collection of things related to suing AMBER and CPPTRAJ. You can find a lot of nice tips and solutions for solving problems and nicely presented tutorials. A nice addition to the manual and the official tutorials.
 
+
+* **Audio**
+  - [Ardour](https://ardour.org/)  
+  Record, Edit, and Mix audio on Linux, macOS and Windows
+  - [Audacity](https://www.audacityteam.org/)  
+  Free, open source, cross-platform audio software
+  - [Jack Audio](https://jackaudio.org/)  
+  Pipe sound/audio from one program to another (sort of like soundflower)
+
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
 
@@ -53,6 +62,7 @@ An interactive process viewer for Unix systems
 An open-source solution for static site generation
   - [HUGO Themes](https://themes.gohugo.io/)
     - [Learn](https://themes.gohugo.io/hugo-theme-learn/)  
+
 
 * [Jamovi](http://www.jamovi.org)  
 Free statistics software
@@ -136,6 +146,9 @@ Self-hosted cloud service
 
 * [Redis](redis.io)  
 Cross platform database with minimal footprint
+
+* [Scribus](https://www.scribus.net/)  
+Open source desktop publishing software, layout design and more.
 
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
