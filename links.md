@@ -153,6 +153,23 @@ Open source desktop publishing software, layout design and more.
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
 
+* **Structure/Sequence Databases**  
+  - [RCSB PDB](https://www.rcsb.org/)  
+  Protein structure database
+  - [PDB in Europe](https://www.ebi.ac.uk/pdbe/)  
+  Self explanatory
+  - [Cambridge Crystallographic Data Center](https://www.ccdc.cam.ac.uk/)  
+  Crystallographic structures of different things, somewhat confusing license options??
+  - [Russian CSDB](http://csdb.glycoscience.ru/)  
+  Carbohydrate Structure Database
+  - [Nucleic Acid Database](http://ndbserver.rutgers.edu/)  
+  Database of nucleic acids
+  - [UniProt](https://www.uniprot.org/)  
+  Sequence and function of proteins
+  - [Expasy](https://www.expasy.org/)  
+  Swiss Bioinformatics Resource Portal
+  
+
 * [Sync](https://www.sync.com/)  
 Like BOX or DropBox though with end-to-end encryption of your data.
 
