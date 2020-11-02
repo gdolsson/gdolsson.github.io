@@ -1,15 +1,19 @@
----
+information---
 layout: post
-title: ParmEd - System Size (and onther info)
+title: ParmEd - System Size (and other info)
 date: '2020-09-23 09:54'
 ---
 
 ```bash
 $ parmed
     > parm *.prmtop
-    # Load parm file
+    # Load parm file, the same can be accomplished with -p *.prmtop when starting
     > loadRestrt filename.ncrst
-    # Load a restart file
+    # Load a restart file. The same can be accomplished with -c *.ncrst
+    > loadCoordinates *.nc
+    # Load coordinate file(s), can also be accomplished with -c
+    > summary
+    # Print useful information regarding the system
     > printFlags
     # Print a list of available Flags
     %FLAG TITLE
