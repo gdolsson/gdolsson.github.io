@@ -23,7 +23,7 @@ First/Last slide in presentation
 
 ## macOS
 `option + command + c`  
-"Capitalize word" under cursor
+"Capitalize word" under cursor, press repeatedly to cycle
 
 ## VisualStudio Code
 `command + k` and then `o`
