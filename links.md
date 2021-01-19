@@ -53,9 +53,9 @@ A solution for collaborative online mind-mapping
   An open source multi-tool for exploring and publishing data  
     + [Datasette Docs](https://docs.datasette.io/en/stable/)  
     + [Datasette PyPI](https://pypi.org/project/datasette/)  
-    + [DogSheep](https://dogsheep.github.io/)  
-    Dogsheep is a collection of tools for personal analytics using SQLite and Datasette    
-    + [DogSheep GitHub](https://github.com/dogsheep)
+  - [DogSheep](https://dogsheep.github.io/)  
+  Dogsheep is a collection of tools for personal analytics using SQLite and Datasette  
+    + [DogSheep GitHub](https://github.com/dogsheep)  
 
 
 * [DuckDuckGo](https://duckduckgo.com)  
