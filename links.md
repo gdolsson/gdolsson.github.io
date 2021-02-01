@@ -52,6 +52,9 @@ Free multi-platform database tool
 * [DuckDuckGo](https://duckduckgo.com)  
 Search engine which respects your privacy
 
+* [EteSync](https://www.etesync.com/) and [EteBase](https://www.etebase.com/)  
+Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
+
 * [Git Hooks](https://githooks.com/)  
 Scripts that Git executes before or after events
 
@@ -174,7 +177,7 @@ A nice resource to calculate the number of ions needed for MD simulations with a
   Sequence and function of proteins
   - [Expasy](https://www.expasy.org/)  
   Swiss Bioinformatics Resource Portal
-  
+
 
 * [Sync](https://www.sync.com/)  
 Like BOX or DropBox though with end-to-end encryption of your data.
