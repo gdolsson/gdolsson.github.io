@@ -123,6 +123,12 @@ A basic site thrown together for a workshop hosted at the Linnaeus University in
 * [Nature Careers Funding](https://naturecareersfunding.com/)  
 Seems like a nice aggregation of information regarding funding options
 
+* [OBS (Open Brodcast Software)](https://obsproject.com/)  
+Free and open source software for video recording and live streaming
+
+* [OBS Ninja](https://obs.ninja/)  
+Free; no downloads; no personal data collection; no sign-in bringing video from any source into the OBS video stream. Basically an alternative to zoom.
+
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
 
