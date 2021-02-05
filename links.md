@@ -162,6 +162,9 @@ Free and open-source alternative to SPSS, cross-platform.
       Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
 
 
+* [KiCad EDA](https://www.kicad.org/)  
+A Cross Platform and Open Source Electronics Design Automation Suite.
+
 * [Mastering GitHub Markdown](https://guides.github.com/features/mastering-markdown/)  
 How to format markdown for GitHub pages.
 
@@ -173,6 +176,9 @@ Cross platform database with minimal footprint
 
 * [Scribus](https://www.scribus.net/)  
 Open source desktop publishing software, layout design and more.
+
+* [Sketchup](https://www.sketchup.com/)  
+Online 3D designer, free for online personal use.
 
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
