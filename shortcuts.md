@@ -16,15 +16,28 @@ Move between sheets in excel
 Find and replace
 
 ## PowerPoint
-`fm + left/right`
+`fm + left/right`  
 First/Last slide in presentation
-`b`
+
+`b`  
 "Black-n-back", blackout screen and then revert
 
 ## macOS
 `option + command + c`  
 "Capitalize word" under cursor, press repeatedly to cycle
 
-## VisualStudio Code
-`command + k` and then `o`
+## [VisualStudio Code](https://code.visualstudio.com/)
+[Getting started](https://code.visualstudio.com/docs/)
+
+`command + k` and then `o`  
 "Open tab in new window"
+
+`shift + command + p`  
+Open the command palette to execute editor commands, open files, search for symbols and more
+
+`command + p`  
+Navigate to any file/symbol by name. Start with ">" to shift to command palette  
+
+## VIM
+`shift + 8`/`shift + 9`  
+section up/section down

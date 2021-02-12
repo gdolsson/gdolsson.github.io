@@ -147,7 +147,9 @@ A framework for managing and maintaining multi-language pre-commit hooks.
 * [PSPP](https://www.gnu.org/software/pspp/)  
 Free and open-source alternative to SPSS, cross-platform.
 
-* [Python](https://www.python.org/)
+* **[Python](https://www.python.org/)**
+  - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/repl.html  
+      Adds tools to get more information after errors
   - [Switowski](https://switowski.com/)s website.  
       Nice resources
   - [Modern Python Dev Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)  
@@ -158,6 +160,8 @@ Free and open-source alternative to SPSS, cross-platform.
       Install/run pip packages in virtual environments  
   - [Python Packaging User Guide](https://packaging.python.org/)  
       The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
+  - [Quickle](https://jcristharif.com/quickle/)  
+      Fast and small serialization format for a subset of Python types based off of [Pickle](https://docs.python.org/3/library/pickle.html)
   - [Streamlit](https://www.streamlit.io/)  
       Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
 
