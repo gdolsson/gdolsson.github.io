@@ -27,8 +27,13 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
 
-* [BPYTHOP](https://github.com/aristocratos/bpytop)  
-Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).
+* **[Python](https://www.python.org/)**
+  - [BPYTHOP](https://github.com/aristocratos/bpytop)  
+  Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).  
+  - [Python Awesome](https://pythonawesome.com/)  
+  List/Library of "awesome" modules/libraries
+  - [Rich](https://rich.readthedocs.io/en/latest/index.html)  
+  Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code. Also the [GitHub](https://github.com/willmcgugan/rich) page.
 
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Effective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
