@@ -67,13 +67,19 @@ A solution for collaborative online mind-mapping
 Search engine which respects your privacy
 
 * [EteSync](https://www.etesync.com/) and [EteBase](https://www.etebase.com/)  
-Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes.
+Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes
 
 * [Git Hooks](https://githooks.com/)  
 Scripts that Git executes before or after events
 
+* [Global Covid Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
+Self-explanatory
+
+* [Global Health](global.health)  
+Global data repository and visualisation platform with open access to real-time epidemiological anonymised line-list data
+
 * [GraphPad](graphpad.com)  
-Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more.
+Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more
 
 * [HackMD](https://hackmd.io/)  
 Real-time collaboration in markdown. Capture fleeting ideas  and formalise tribal knowledge
