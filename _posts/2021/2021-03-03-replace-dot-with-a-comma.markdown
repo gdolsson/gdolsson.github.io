@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "replace dot with a comma"
+title: "Replace dot with a comma"
 date: "2021-03-03 10:36"
 ---
 Having experienced a recurring problem with decimal delimiters, I have also managed to produce several options for solving the same issue.
