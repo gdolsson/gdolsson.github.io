@@ -119,6 +119,9 @@ Pretty much self explanatory, take a long link to something and make it shorter.
 * [Markdown Guide](https://www.markdownguide.org/)  
 Reference guide that explains how to use Markdown
 
+* [NextDNS](nextdns.io)  
+The new firewall for the modern internet, like a "pihole" in the cloud
+
 * [The Measure of Things](https://www.bluebulbprojects.com/MeasureOfThings/default.php)  
 A fun website where you can put in a measure and get an assortment of things to compare against.
 
