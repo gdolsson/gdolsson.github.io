@@ -62,6 +62,8 @@ A solution for collaborative online mind-mapping
   Dogsheep is a collection of tools for personal analytics using SQLite and Datasette  
     + [DogSheep GitHub](https://github.com/dogsheep)  
 
+* [Dendron](https://dendron.so)  
+The hierarchical note taking tool that grows as you do! A note taking plugin for VSCode in markdown which seems to have a lot of potential.
 
 * [DuckDuckGo](https://duckduckgo.com)  
 Search engine which respects your privacy
