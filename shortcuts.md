@@ -41,3 +41,6 @@ Navigate to any file/symbol by name. Start with ">" to shift to command palette
 ## VIM
 `shift + 8`/`shift + 9`  
 section up/section down
+
+`:n`/`:N`
+next file/previous file
