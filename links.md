@@ -142,6 +142,18 @@ A basic site thrown together for a workshop hosted at the Linnaeus University in
 * [Nature Careers Funding](https://naturecareersfunding.com/)  
 Seems like a nice aggregation of information regarding funding options
 
+* **Spectra (NMR/IR and more)**
+  - [NMRShiftDB](https://nmrshiftdb.nmr.uni-koeln.de/)  
+  NMR database (web database) for organic structures and their nuclear magnetic resonance (nmr) spectra
+  - [Spectral Database for ORganic Compunds](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi)  
+  The Spectral Database for Organic Compounds, SDBS (C/H-NMR, IR, Raman and more)
+  - [NIST - Chemistry](https://webbook.nist.gov/chemistry/)  
+  National Institute of Standards and Technologym (IR, mass and UV)
+  - [KnowItAll - AnyWare (Wiley?)](https://www.knowitallanyware.com/#search)  
+  Registration required...
+  - [ChemSpider](https://www.chemspider.com/)  
+  ChemSpider is a free chemical structure database providing fast text and structure search access to over 100 million structures from hundreds of data sources (seems to be foremost IR/UV/Vis)
+
 * [OBS (Open Brodcast Software)](https://obsproject.com/)  
 Free and open source software for video recording and live streaming
 
