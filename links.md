@@ -65,12 +65,17 @@ A solution for collaborative online mind-mapping
   Dogsheep is a collection of tools for personal analytics using SQLite and Datasette  
     + [DogSheep GitHub](https://github.com/dogsheep)  
 
-* [Dendron](https://dendron.so)  
-The hierarchical note taking tool that grows as you do! A note taking plugin for VSCode in markdown which seems to have a lot of potential.
-
 * [DuckDuckGo](https://duckduckgo.com)  
 Search engine which respects your privacy
 
+* **Encryption**
+* [BoxCryptor](https://www.boxcryptor.com/en/for-individuals/)  
+Encrypts your sensitive files and folders in Dropbox, Google Drive, OneDrive and many other cloud storages
+* [EncFS](https://en.wikipedia.org/wiki/EncFS)  
+EncFS is a Free (LGPL) FUSE-based cryptographic filesystem. It transparently encrypts files, using an arbitrary directory as storage for the encrypted files
+  - [EncFS GitHub](https://github.com/vgough/encfs)
+  - [EncFSMP](https://encfsmp.sourceforge.io/)  
+  A program to mount EncFS folders on Windows and OS X
 * [EteSync](https://www.etesync.com/) and [EteBase](https://www.etebase.com/)  
 Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes
 
@@ -97,7 +102,6 @@ An open-source solution for static site generation
   - [HUGO Themes](https://themes.gohugo.io/)
     - [Learn](https://themes.gohugo.io/hugo-theme-learn/)  
 
-
 * [Jamovi](http://www.jamovi.org)  
 Free statistics software
 
@@ -120,12 +124,21 @@ Pretty much self explanatory, take a long link to something and make it shorter.
   - [cutt.ly](cuttly)  
   Free URL Shortener & Branded URLs with great analytics tool.
 
-
 * [Markdown Guide](https://www.markdownguide.org/)  
 Reference guide that explains how to use Markdown
 
 * [NextDNS](nextdns.io)  
 The new firewall for the modern internet, like a "pihole" in the cloud
+
+* **Notekeeping**
+* [Dendron](https://dendron.so)  
+The hierarchical note taking tool that grows as you do! A note taking plugin for VSCode in markdown which seems to have a lot of potential.
+* [TiddlyWiki](https://tiddlywiki.com/)  
+A unique non-linear notebook for capturing, organising and sharing complex information.
+  - [TiddlyWiki Desktop](https://github.com/Jermolene/TiddlyDesktop)  
+  TiddlyDesktop is a special purpose web browser for working with locally stored TiddlyWikis  
+  `brew install tiddly`  
+  - [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)
 
 * [The Measure of Things](https://www.bluebulbprojects.com/MeasureOfThings/default.php)  
 A fun website where you can put in a measure and get an assortment of things to compare against.
