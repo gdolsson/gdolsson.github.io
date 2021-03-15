@@ -27,6 +27,14 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
 
+
+* **Browsers**
+  - [Brave](https://brave.com/)  
+  Security and privacy focused browser
+  - [BeakerBrowser](https://beakerbrowser.com/)  
+  An experimental peer-to-peer Web browser
+
+
 * **[Python](https://www.python.org/)**
   - [BPYTHOP](https://github.com/aristocratos/bpytop)  
   Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).  
@@ -41,6 +49,7 @@ Nice place to check transaction history and value of crypto currency
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Effective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
+
 * **[UCSF Cimera](http://www.cgl.ucsf.edu/chimera/)**  
 A program for the interactive visualisation and analysis of molecular structures and related data.  
   - _Using AutoDock Vina with Chimera_
@@ -54,6 +63,7 @@ A program for the interactive visualisation and analysis of molecular structures
 * [Coggle](https://coggle.it/)  
 A solution for collaborative online mind-mapping
 
+
 * **Database**
   - [DBeaver](https://dbeaver.io/)  
   Free multi-platform database tool  
@@ -65,51 +75,64 @@ A solution for collaborative online mind-mapping
   Dogsheep is a collection of tools for personal analytics using SQLite and Datasette  
     + [DogSheep GitHub](https://github.com/dogsheep)  
 
+
 * [DuckDuckGo](https://duckduckgo.com)  
 Search engine which respects your privacy
 
+
 * **Encryption**
-* [BoxCryptor](https://www.boxcryptor.com/en/for-individuals/)  
-Encrypts your sensitive files and folders in Dropbox, Google Drive, OneDrive and many other cloud storages
-* [EncFS](https://en.wikipedia.org/wiki/EncFS)  
-EncFS is a Free (LGPL) FUSE-based cryptographic filesystem. It transparently encrypts files, using an arbitrary directory as storage for the encrypted files
-  - [EncFS GitHub](https://github.com/vgough/encfs)
-  - [EncFSMP](https://encfsmp.sourceforge.io/)  
+  - [BoxCryptor](https://www.boxcryptor.com/en/for-individuals/)  
+  Encrypts your sensitive files and folders in Dropbox, Google Drive, OneDrive and many other cloud storages
+  - [EncFS](https://en.wikipedia.org/wiki/EncFS)  
+  EncFS is a Free (LGPL) FUSE-based cryptographic filesystem. It transparently encrypts files, using an arbitrary directory as storage for the encrypted files
+    + [EncFS GitHub](https://github.com/vgough/encfs)
+    + [EncFSMP](https://encfsmp.sourceforge.io/)  
   A program to mount EncFS folders on Windows and OS X
-* [EteSync](https://www.etesync.com/) and [EteBase](https://www.etebase.com/)  
-Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes
+  - [EteSync](https://www.etesync.com/) and [EteBase](https://www.etebase.com/)  
+  Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes
+
 
 * [Git Hooks](https://githooks.com/)  
 Scripts that Git executes before or after events
 
+
 * [Global Covid Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
 Self-explanatory
+
 
 * [Global Health](global.health)  
 Global data repository and visualisation platform with open access to real-time epidemiological anonymised line-list data
 
+
 * [GraphPad](graphpad.com)  
 Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more
+
 
 * [HackMD](https://hackmd.io/)  
 Real-time collaboration in markdown. Capture fleeting ideas  and formalise tribal knowledge
 
+
 * [HTOP](https://hisham.hm/htop/)  
 An interactive process viewer for Unix systems
+
 
 * [HUGO](https://gohugo.io/)  
 An open-source solution for static site generation
   - [HUGO Themes](https://themes.gohugo.io/)
     - [Learn](https://themes.gohugo.io/hugo-theme-learn/)  
 
+
 * [Jamovi](http://www.jamovi.org)  
 Free statistics software
+
 
 * [JASP](http://jasp-stats.org)  
 Free statistics software
 
+
 * [Kahoot](https://kahoot.com/)  
 Easy to create online interactive quizzes, games and trivia to be used for meetings and teaching
+
 
 * **Link Shorteners**  
 Pretty much self explanatory, take a long link to something and make it shorter.
@@ -124,36 +147,45 @@ Pretty much self explanatory, take a long link to something and make it shorter.
   - [cutt.ly](cuttly)  
   Free URL Shortener & Branded URLs with great analytics tool.
 
+
 * [Markdown Guide](https://www.markdownguide.org/)  
 Reference guide that explains how to use Markdown
+
 
 * [NextDNS](nextdns.io)  
 The new firewall for the modern internet, like a "pihole" in the cloud
 
+
 * **Notekeeping**
-* [Dendron](https://dendron.so)  
+  - [Dendron](https://dendron.so)  
 The hierarchical note taking tool that grows as you do! A note taking plugin for VSCode in markdown which seems to have a lot of potential.
-* [TiddlyWiki](https://tiddlywiki.com/)  
+  - [TiddlyWiki](https://tiddlywiki.com/)  
 A unique non-linear notebook for capturing, organising and sharing complex information.
-  - [TiddlyWiki Desktop](https://github.com/Jermolene/TiddlyDesktop)  
-  TiddlyDesktop is a special purpose web browser for working with locally stored TiddlyWikis  
-  `brew install tiddly`  
-  - [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)
+    + [TiddlyWiki Desktop](https://github.com/Jermolene/TiddlyDesktop)  
+    TiddlyDesktop is a special purpose web browser for working with locally stored TiddlyWikis  
+    `brew install tiddly`  
+    + [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)
+
 
 * [The Measure of Things](https://www.bluebulbprojects.com/MeasureOfThings/default.php)  
 A fun website where you can put in a measure and get an assortment of things to compare against.
 
+
 * [Mentimeter](https://www.mentimeter.com/)  
 Create interactive presentations & meetings, wherever you are. Available for employees at the Linnaeus University.
+
 
 * [Mindmeister](https://www.mindmeister.com/)  
 A solution for collaborative online mind-mapping
 
+
 * [MIP-oriented Molecular Modelling](https://mipmolmodel.wordpress.com/)
 A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.
 
+
 * [Nature Careers Funding](https://naturecareersfunding.com/)  
 Seems like a nice aggregation of information regarding funding options
+
 
 * **Spectra (NMR/IR and more)**
   - [NMRShiftDB](https://nmrshiftdb.nmr.uni-koeln.de/)  
@@ -167,29 +199,38 @@ Seems like a nice aggregation of information regarding funding options
   - [ChemSpider](https://www.chemspider.com/)  
   ChemSpider is a free chemical structure database providing fast text and structure search access to over 100 million structures from hundreds of data sources (seems to be foremost IR/UV/Vis)
 
+
 * [OBS (Open Brodcast Software)](https://obsproject.com/)  
 Free and open source software for video recording and live streaming
+
 
 * [OBS Ninja](https://obs.ninja/)  
 Free; no downloads; no personal data collection; no sign-in bringing video from any source into the OBS video stream. Basically an alternative to zoom.
 
+
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
+
 
 * [Pandoc](https://pandoc.org/)  
 This is a universal document converter
 
+
 * [PeerWise](https://peerwise.cs.auckland.ac.nz/)  
 Supports students in the creation, sharing, evaluation and discussion of assessment questions. Some sort of open-source alternative platform for interactive online learning.
+
 
 * [PLUMED](https://www.plumed.org/)  
 PLUMED is an open-source, community-developed library that provides a wide range of different methods in combination with a large toolbox of collective variables that describe complex processes in physics, chemistry, material science, and biology.
 
+
 * [Pre-Commit](https://pre-commit.com/)  
 A framework for managing and maintaining multi-language pre-commit hooks.
 
+
 * [PSPP](https://www.gnu.org/software/pspp/)  
-Free and open-source alternative to SPSS, cross-platform.
+Free and
+ open-source alternative to SPSS, cross-platform.
 
 * **[Python](https://www.python.org/)**
   - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/repl.html  
@@ -213,23 +254,30 @@ Free and open-source alternative to SPSS, cross-platform.
 * [KiCad EDA](https://www.kicad.org/)  
 A Cross Platform and Open Source Electronics Design Automation Suite.
 
+
 * [Mastering GitHub Markdown](https://guides.github.com/features/mastering-markdown/)  
 How to format markdown for GitHub pages.
+
 
 * [NextCloud](https://nextcloud.com/)  
 Self-hosted cloud service
 
+
 * [Redis](redis.io)  
 Cross platform database with minimal footprint
+
 
 * [Scribus](https://www.scribus.net/)  
 Open source desktop publishing software, layout design and more.
 
+
 * [Sketchup](https://www.sketchup.com/)  
 Online 3D designer, free for online personal use.
 
+
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
+
 
 * **Structure/Sequence Databases**  
   - [RCSB PDB](https://www.rcsb.org/)  
@@ -251,14 +299,18 @@ A nice resource to calculate the number of ions needed for MD simulations with a
 * [Sync](https://www.sync.com/)  
 Like BOX or DropBox though with end-to-end encryption of your data.
 
+
 * [Syncthing](https://syncthing.net/)  
 Free and open source files synchronisation between two or more computers in real time. Safe and protected data transfers between your machines, not over any external server.
+
 
 * [tusk](https://www.tusk.page/)  
 Thought you should know, free online service described as "Short-lived anonymous feedback", post a question and users submit free-text feedback printed directly on the page "anonymised".
 
+
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/)  
 Visual Molecular Dynamics, a molecular visualisation program for displaying, animating, and analysing large biomolecular systems using 3-D graphics and built-in scripting.
+
 
 * **Windows**
   - [wintools.info](https://www.wintools.info/)  
