@@ -44,6 +44,10 @@ Nice place to check transaction history and value of crypto currency
   Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code. Also the [GitHub](https://github.com/willmcgugan/rich) page.
   - [sshuttle](https://github.com/sshuttle/sshuttle)  
   Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling ([Read the docs](https://sshuttle.readthedocs.io/en/stable/)).
+  -  [Code With My](https://codewith.mu/)  
+  A simple Python editor for beginner programmers.
+  - [Sourcery](https://sourcery.ai/)  
+  Write better code faster using the power of AI
 
 
 * [CHARMM-GUI](http://www.charmm-gui.org)  
