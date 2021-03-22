@@ -26,6 +26,9 @@ First/Last slide in presentation
 `option + command + c`  
 "Capitalize word" under cursor, press repeatedly to cycle
 
+`command + <`  
+Move focus to the next window of the same app, cycle through app windows
+
 ## [VisualStudio Code](https://code.visualstudio.com/)
 [Getting started](https://code.visualstudio.com/docs/)
 
