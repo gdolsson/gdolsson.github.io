@@ -156,21 +156,6 @@ Pretty much self explanatory, take a long link to something and make it shorter.
 Reference guide that explains how to use Markdown
 
 
-* [NextDNS](nextdns.io)  
-The new firewall for the modern internet, like a "pihole" in the cloud
-
-
-* **Notekeeping**
-  - [Dendron](https://dendron.so)  
-The hierarchical note taking tool that grows as you do! A note taking plugin for VSCode in markdown which seems to have a lot of potential.
-  - [TiddlyWiki](https://tiddlywiki.com/)  
-A unique non-linear notebook for capturing, organising and sharing complex information.
-    + [TiddlyWiki Desktop](https://github.com/Jermolene/TiddlyDesktop)  
-    TiddlyDesktop is a special purpose web browser for working with locally stored TiddlyWikis  
-    `brew install tiddly`  
-    + [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)
-
-
 * [The Measure of Things](https://www.bluebulbprojects.com/MeasureOfThings/default.php)  
 A fun website where you can put in a measure and get an assortment of things to compare against.
 
@@ -191,26 +176,29 @@ A basic site thrown together for a workshop hosted at the Linnaeus University in
 Seems like a nice aggregation of information regarding funding options
 
 
-* **Spectra (NMR/IR and more)**
-  - [NMRShiftDB](https://nmrshiftdb.nmr.uni-koeln.de/)  
-  NMR database (web database) for organic structures and their nuclear magnetic resonance (nmr) spectra
-  - [Spectral Database for ORganic Compunds](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi)  
-  The Spectral Database for Organic Compounds, SDBS (C/H-NMR, IR, Raman and more)
-  - [NIST - Chemistry](https://webbook.nist.gov/chemistry/)  
-  National Institute of Standards and Technologym (IR, mass and UV)
-  - [KnowItAll - AnyWare (Wiley?)](https://www.knowitallanyware.com/#search)  
-  Registration required...
-  - [ChemSpider](https://www.chemspider.com/)  
-  ChemSpider is a free chemical structure database providing fast text and structure search access to over 100 million structures from hundreds of data sources (seems to be foremost IR/UV/Vis)
+* [NextDNS](nextdns.io)  
+The new firewall for the modern internet, like a "pihole" in the cloud
+
+
+* **Notekeeping**
+  - [Dendron](https://dendron.so)  
+  The hierarchical note taking tool that grows as you do! A note taking plugin for VSCode in markdown which seems to have a lot of potential.
+  - [TiddlyWiki](https://tiddlywiki.com/)  
+  A unique non-linear notebook for capturing, organising and sharing complex information.
+    + [TiddlyWiki Desktop](https://github.com/Jermolene/TiddlyDesktop)  
+    TiddlyDesktop is a special purpose web browser for working with locally stored TiddlyWikis  
+    `brew install tiddly`  
+    + [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)
 
 
 * [OBS (Open Brodcast Software)](https://obsproject.com/)  
 Free and open source software for video recording and live streaming
 
-
 * [OBS Ninja](https://obs.ninja/)  
 Free; no downloads; no personal data collection; no sign-in bringing video from any source into the OBS video stream. Basically an alternative to zoom.
 
+* [OpenVAS](https://openvas.org/)  
+Open Vulnerability Assessment Scanner
 
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
@@ -281,6 +269,19 @@ Online 3D designer, free for online personal use.
 
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
+
+
+* **Spectra (NMR/IR and more)**
+  - [NMRShiftDB](https://nmrshiftdb.nmr.uni-koeln.de/)  
+  NMR database (web database) for organic structures and their nuclear magnetic resonance (nmr) spectra
+  - [Spectral Database for ORganic Compunds](https://sdbs.db.aist.go.jp/sdbs/cgi-bin/direct_frame_top.cgi)  
+  The Spectral Database for Organic Compounds, SDBS (C/H-NMR, IR, Raman and more)
+  - [NIST - Chemistry](https://webbook.nist.gov/chemistry/)  
+  National Institute of Standards and Technologym (IR, mass and UV)
+  - [KnowItAll - AnyWare (Wiley?)](https://www.knowitallanyware.com/#search)  
+  Registration required...
+  - [ChemSpider](https://www.chemspider.com/)  
+  ChemSpider is a free chemical structure database providing fast text and structure search access to over 100 million structures from hundreds of data sources (seems to be foremost IR/UV/Vis)
 
 
 * **Structure/Sequence Databases**  
