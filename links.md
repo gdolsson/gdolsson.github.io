@@ -35,21 +35,6 @@ Nice place to check transaction history and value of crypto currency
   An experimental peer-to-peer Web browser
 
 
-* **[Python](https://www.python.org/)**
-  - [BPYTHOP](https://github.com/aristocratos/bpytop)  
-  Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).  
-  - [Python Awesome](https://pythonawesome.com/)  
-  List/Library of "awesome" modules/libraries
-  - [Rich](https://rich.readthedocs.io/en/latest/index.html)  
-  Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code. Also the [GitHub](https://github.com/willmcgugan/rich) page.
-  - [sshuttle](https://github.com/sshuttle/sshuttle)  
-  Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling ([Read the docs](https://sshuttle.readthedocs.io/en/stable/)).
-  -  [Code With My](https://codewith.mu/)  
-  A simple Python editor for beginner programmers.
-  - [Sourcery](https://sourcery.ai/)  
-  Write better code faster using the power of AI
-
-
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Effective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
@@ -66,6 +51,14 @@ A program for the interactive visualisation and analysis of molecular structures
 
 * [Coggle](https://coggle.it/)  
 A solution for collaborative online mind-mapping
+
+
+* **Communication**
+  - [Discord](https://discord.com/)
+  - [Matrix](https://matrix.org/)  
+  An open network for secure, decentralised communication, all-in-one secure communication.
+  - [Element](https://element.io)
+  Matrix app, talk to everyone through the open global Matrix network, protected by proper end-to-end encryption.
 
 
 * **Database**
@@ -194,11 +187,14 @@ The new firewall for the modern internet, like a "pihole" in the cloud
 * [OBS (Open Brodcast Software)](https://obsproject.com/)  
 Free and open source software for video recording and live streaming
 
+
 * [OBS Ninja](https://obs.ninja/)  
 Free; no downloads; no personal data collection; no sign-in bringing video from any source into the OBS video stream. Basically an alternative to zoom.
 
+
 * [OpenVAS](https://openvas.org/)  
 Open Vulnerability Assessment Scanner
+
 
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
@@ -224,23 +220,35 @@ A framework for managing and maintaining multi-language pre-commit hooks.
 Free and
  open-source alternative to SPSS, cross-platform.
 
-* **[Python](https://www.python.org/)**
-  - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/repl.html  
-      Adds tools to get more information after errors
-  - [Switowski](https://switowski.com/)s website.  
-      Nice resources
-  - [Modern Python Dev Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)  
-      A nice tutorial video presentation
-  - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com)  
-      The interactive version of the video lecture above
-  - [PIPX](https://pypi.org/project/pipx/)  
-      Install/run pip packages in virtual environments  
-  - [Python Packaging User Guide](https://packaging.python.org/)  
-      The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
-  - [Quickle](https://jcristharif.com/quickle/)  
-      Fast and small serialization format for a subset of Python types based off of [Pickle](https://docs.python.org/3/library/pickle.html)
-  - [Streamlit](https://www.streamlit.io/)  
-      Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
+ * **[Python](https://www.python.org/)**
+   - [BPYTHOP](https://github.com/aristocratos/bpytop)  
+   Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).  
+   - [Python Awesome](https://pythonawesome.com/)  
+   List/Library of "awesome" modules/libraries
+   - [Rich](https://rich.readthedocs.io/en/latest/index.html)  
+   Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code. Also the [GitHub](https://github.com/willmcgugan/rich) page.
+   - [sshuttle](https://github.com/sshuttle/sshuttle)  
+   Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling ([Read the docs](https://sshuttle.readthedocs.io/en/stable/)).
+   -  [Code With My](https://codewith.mu/)  
+   A simple Python editor for beginner programmers.
+   - [Sourcery](https://sourcery.ai/)  
+   Write better code faster using the power of AI
+   - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/repl.html)  
+       Adds tools to get more information after errors
+   - [Switowski](https://switowski.com/)s website.  
+       Nice resources
+   - [Modern Python Dev Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)  
+       A nice tutorial video presentation
+   - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com)  
+       The interactive version of the video lecture above
+   - [PIPX](https://pypi.org/project/pipx/)  
+       Install/run pip packages in virtual environments  
+   - [Python Packaging User Guide](https://packaging.python.org/)  
+       The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
+   - [Quickle](https://jcristharif.com/quickle/)  
+       Fast and small serialization format for a subset of Python types based off of [Pickle](https://docs.python.org/3/library/pickle.html)
+   - [Streamlit](https://www.streamlit.io/)  
+       Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
 
 
 * [KiCad EDA](https://www.kicad.org/)  
