@@ -131,6 +131,10 @@ Free statistics software
 Easy to create online interactive quizzes, games and trivia to be used for meetings and teaching
 
 
+* [Karabiner-Elements](https://karabiner-elements.pqrs.org/)  
+Keyboard customisation for macOS
+
+
 * **Link Shorteners**  
 Pretty much self explanatory, take a long link to something and make it shorter.
   - [bit.ly](bit.ly)  
