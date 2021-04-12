@@ -1,0 +1,13 @@
+---
+layout: post
+title: Wayback
+date: '2021-04-12 15:09'
+---
+
+I sometimes visit the [Internet Archive Wayback Machine](https://web.archive.org/) when I feel nostalgic. Sometimes it is frustrating to navigate the snapshots of websites when your connection is not what it used to be, therefore it is sometimes nice to pull an offline copy to browse through. This can be done with the following `wget` command:
+
+```
+wget -np -e robots=off --mirror --recursive --page-requisites --html-extension --convert-links --domains=staticweb.archive.org,web.archive.org https://web.archive.org/web/accesscode/http://www.domainadress.se/
+```
+
+Where you have to modify the `accesscode` and `domainadress` to match what you see on the start page of the site you want to browse.

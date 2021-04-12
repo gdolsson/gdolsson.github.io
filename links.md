@@ -89,6 +89,10 @@ Search engine which respects your privacy
   Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes
 
 
+* [EnzymeX](https://nucleobytes.com/enzymex/index.html)  
+The DNA sequence editor for OS X. Visualize and edit DNA sequence files.
+
+
 * [Git Hooks](https://githooks.com/)  
 Scripts that Git executes before or after events
 
@@ -188,6 +192,10 @@ The new firewall for the modern internet, like a "pihole" in the cloud
     + [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)
 
 
+* [nzyme](https://www.nzyme.org/)  
+Free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system
+
+
 * [OBS (Open Brodcast Software)](https://obsproject.com/)  
 Free and open source software for video recording and live streaming
 
@@ -206,6 +214,13 @@ As stated on top of the page, \"Initial configurations for Molecular Dynamics Si
 
 * [Pandoc](https://pandoc.org/)  
 This is a universal document converter
+
+
+* **[Password Managers]**
+  - [Buttercup](https://buttercup.pw/)
+  - [Bitwarden](https://bitwarden.com/)
+  - [Lastpass](https://www.lastpass.com/)
+  - [1Password](https://1password.com/)
 
 
 * [PeerWise](https://peerwise.cs.auckland.ac.nz/)  
