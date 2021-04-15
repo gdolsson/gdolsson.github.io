@@ -93,6 +93,11 @@ Search engine which respects your privacy
 The DNA sequence editor for OS X. Visualize and edit DNA sequence files.
 
 
+* **Games**
+  - [Endless Sky](https://endless-sky.github.io/)  
+  Free and open-source 2D space trading and combat game
+
+
 * [Git Hooks](https://githooks.com/)  
 Scripts that Git executes before or after events
 
