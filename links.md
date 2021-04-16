@@ -360,3 +360,11 @@ Visual Molecular Dynamics, a molecular visualisation program for displaying, ani
 
 * [Qwant](https://qwant.com)  
 The search engine that respects your privacy
+
+
+* **SNIC/SUPR/AURORA/LUNARC**
+  - [SUPR/SNIC](https://supr.snic.se/)
+  - [SNIC](https://snic.se/)
+  - [LUNARC Documentation](https://lunarc-documentation.readthedocs.io/)
+    - [Authenticator How-To](https://lunarc-documentation.readthedocs.io/en/latest/authenticator_howto)
+  - [LUNARC Self-Service](https://phenix3.lunarc.lu.se/selfservice)
