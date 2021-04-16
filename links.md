@@ -341,6 +341,10 @@ Like BOX or DropBox though with end-to-end encryption of your data.
 Free and open source files synchronisation between two or more computers in real time. Safe and protected data transfers between your machines, not over any external server.
 
 
+* [Tesseract](https://github.com/tesseract-ocr)  
+Tesseract, free and open sourve OCR software. A "[tutorial](https://guides.nyu.edu/c.php?g=884390&p=6355032)" of sorts.
+
+
 * [tusk](https://www.tusk.page/)  
 Thought you should know, free online service described as "Short-lived anonymous feedback", post a question and users submit free-text feedback printed directly on the page "anonymised".
 
