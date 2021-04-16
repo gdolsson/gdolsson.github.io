@@ -178,6 +178,10 @@ A solution for collaborative online mind-mapping
 A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.
 
 
+* [Monster Mash](https://github.com/google/monster-mash)  
+onster Mash is a new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. A working example web interface is present at [http://monstermash.zone/](http://monstermash.zone/)
+
+
 * [Nature Careers Funding](https://naturecareersfunding.com/)  
 Seems like a nice aggregation of information regarding funding options
 
@@ -230,6 +234,10 @@ This is a universal document converter
 
 * [PeerWise](https://peerwise.cs.auckland.ac.nz/)  
 Supports students in the creation, sharing, evaluation and discussion of assessment questions. Some sort of open-source alternative platform for interactive online learning.
+
+
+* [PLIP](https://plip.biotec.tu-dresden.de/plip-web/plip/index)  
+Protein-Ligand Interaction Profiler (PLIP)
 
 
 * [PLUMED](https://www.plumed.org/)  
