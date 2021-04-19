@@ -21,7 +21,7 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
   - [Audacity](https://www.audacityteam.org/)  
   Free, open source, cross-platform audio software
   - [Jack Audio](https://jackaudio.org/)  
-  Pipe sound/audio from one program to another (sort of like soundflower)
+  Pipe sound/audio from one program to another (sort of like soundflower)  
 
 
 * [blockchain.info](https://www.blockchain.info)  
@@ -32,7 +32,7 @@ Nice place to check transaction history and value of crypto currency
   - [Brave](https://brave.com/)  
   Security and privacy focused browser
   - [BeakerBrowser](https://beakerbrowser.com/)  
-  An experimental peer-to-peer Web browser
+  An experimental peer-to-peer Web browser  
 
 
 * [CHARMM-GUI](http://www.charmm-gui.org)  
@@ -46,7 +46,7 @@ A program for the interactive visualisation and analysis of molecular structures
     + [DockPrep](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/dockprep/dockprep.html)
     + [PDB2PQR](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/apbs/pdb2pqr.html) and
       [Get PDB2PQR](https://pdb2pqr.readthedocs.io/en/latest/getting.html)  
-    + [ViewDock](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/viewdock/framevd.html)
+    + [ViewDock](https://www.cgl.ucsf.edu/chimera/docs/ContributedSoftware/viewdock/framevd.html)  
 
 
 * [Coggle](https://coggle.it/)  
@@ -58,7 +58,7 @@ A solution for collaborative online mind-mapping
   - [Matrix](https://matrix.org/)  
   An open network for secure, decentralised communication, all-in-one secure communication.
   - [Element](https://element.io)
-  Matrix app, talk to everyone through the open global Matrix network, protected by proper end-to-end encryption.
+  Matrix app, talk to everyone through the open global Matrix network, protected by proper end-to-end encryption.  
 
 
 * **Database**
