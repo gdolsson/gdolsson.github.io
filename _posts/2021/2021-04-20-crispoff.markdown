@@ -1,0 +1,10 @@
+---
+layout: "post"
+title: "CRISPoff"
+date: "2021-04-20 11:12"
+---
+There were a lot off hub-hub regarding [CRISPR/Cas9](https://en.wikipedia.org/wiki/CRISPR/Cas9) a few years ago, including a series of [patent fights](https://www.osler.com/en/resources/critical-situations/2021/making-sense-of-the-battle-for-the-crispr-cas9-patent-rights) and Chinas "[baby trials](https://time.com/5463741/crispr-human-babies/)" which landed a researcher [in prison](https://www.bbc.com/news/world-asia-china-50944461).
+
+After the [2020 Nobel Award](https://edition.cnn.com/2020/10/07/health/nobel-prize-2020-winner-chemistry-scn-intl/index.html), there has been no large headlines regarding this ground breaking technology. However there are now new and interesting news considering the technology.
+
+In a [Cell paper titled Genome-wide programmable transcriptional memory by CRISPR-based epigenome editing](https://www.cell.com/cell/fulltext/S0092-8674(21)00353-6) it seems that something called "CRISPRoff" might provide an interesting new way to temporarily "turn off" genes by methylation of bases instead of cutting out the entire gene. This would also make the process reversible, by removing methylation and restoring DNA sequences to prior state. In other words, a mechanism to temporarily disable and then re-enable genes through in-place modification without permanent changes to DNA by cutting and inserting genes. This is interesting for several reasons, a nice writeup regarding the details can be [found here](https://theness.com/neurologicablog/index.php/a-crispr-genetic-on-off-switch/).
