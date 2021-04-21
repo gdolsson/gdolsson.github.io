@@ -47,3 +47,6 @@ section up/section down
 
 `:n`/`:N`
 next file/previous file
+
+## iTerm
+I'll just link directly to a [cheatsheet](https://gist.github.com/squarism/ae3613daf5c01a98ba3a)
