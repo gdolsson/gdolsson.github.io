@@ -28,7 +28,7 @@ Adding `-print` will show you the results and you can delete these files as well
 Another way to find many files if if you are looking for something "not" called something
 
 ```
-find . -type f ! -name somehting
+find . -type f ! -name something
 ```
 
 This would find all files which are NOT named "something" and can be combined with the `-exec` command to do "stuff"
