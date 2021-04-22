@@ -35,6 +35,10 @@ Nice place to check transaction history and value of crypto currency
   An experimental peer-to-peer Web browser  
 
 
+* [Calmcode](calmcode.io)  
+Code. Simply. Clearly. Calmly. Video tutorials for modern ideas and open source tools.
+
+
 * [CHARMM-GUI](http://www.charmm-gui.org)  
 A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Effective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
 
@@ -266,21 +270,25 @@ Free and
    - [Sourcery](https://sourcery.ai/)  
    Write better code faster using the power of AI
    - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/repl.html)  
-       Adds tools to get more information after errors
+   Adds tools to get more information after errors
    - [Switowski](https://switowski.com/)s website.  
-       Nice resources
+   Nice resources
    - [Modern Python Dev Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)  
-       A nice tutorial video presentation
+   A nice tutorial video presentation
    - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com)  
-       The interactive version of the video lecture above
+   The interactive version of the video lecture above
    - [PIPX](https://pypi.org/project/pipx/)  
-       Install/run pip packages in virtual environments  
+   Install/run pip packages in virtual environments  
    - [Python Packaging User Guide](https://packaging.python.org/)  
-       The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
+   The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
    - [Quickle](https://jcristharif.com/quickle/)  
-       Fast and small serialization format for a subset of Python types based off of [Pickle](https://docs.python.org/3/library/pickle.html)
+   Fast and small serialization format for a subset of Python types based off of [Pickle](https://docs.python.org/3/library/pickle.html)
    - [Streamlit](https://www.streamlit.io/)  
-       Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
+   Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
+   - [Natural Sort](https://github.com/SethMMorton/natsort)  
+   Simple yet flexible natural sorting in Python
+   - [Jupyter Book](https://github.com/executablebooks/jupyter-book)  
+   Tool for building publication-quality books and documents from computational material
 
 
 * [KiCad EDA](https://www.kicad.org/)  
