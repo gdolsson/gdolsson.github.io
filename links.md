@@ -289,6 +289,8 @@ Free and
    Simple yet flexible natural sorting in Python
    - [Jupyter Book](https://github.com/executablebooks/jupyter-book)  
    Tool for building publication-quality books and documents from computational material
+   - [Snakemake](https://snakemake.github.io/)  
+   A framework for reproducable data analysis (workflow manager)
 
 
 * [KiCad EDA](https://www.kicad.org/)  
@@ -302,6 +304,8 @@ How to format markdown for GitHub pages.
 * [NextCloud](https://nextcloud.com/)  
 Self-hosted cloud service
 
+* [Nextflow](https://sciwiki.fredhutch.org/compdemos/nextflow/)  
+Nextflow - an Emerging Service for Workflow Management
 
 * [Redis](redis.io)  
 Cross platform database with minimal footprint
