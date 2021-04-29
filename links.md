@@ -291,6 +291,8 @@ Free and
    Tool for building publication-quality books and documents from computational material
    - [Snakemake](https://snakemake.github.io/)  
    A framework for reproducable data analysis (workflow manager)
+   - [Gradio](https://www.gradio.app/)  
+   Generate an easy-to-use UI for ML models, function, or API. Integrate directly into your Python notebook, or share a link.
 
 
 * [KiCad EDA](https://www.kicad.org/)  
