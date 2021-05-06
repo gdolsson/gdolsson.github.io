@@ -75,6 +75,10 @@ A solution for collaborative online mind-mapping
   - [DogSheep](https://dogsheep.github.io/)  
   Dogsheep is a collection of tools for personal analytics using SQLite and Datasette  
     + [DogSheep GitHub](https://github.com/dogsheep)  
+  - [MongoDB](https://www.mongodb.com/)  
+  General purpose, document-based, distributed database built for modern application developers and for the cloud era.
+    - [Mongita](https://github.com/scottrogowski/mongita)  
+    Mongita is a lightweight embedded document database that implements a commonly-used subset of the MongoDB/PyMongo interface. Mongita differs from MongoDB in that instead of being a server, Mongita is a self-contained Python library. Mongita can be configured to store its documents either on disk or in memory.
 
 
 * [DuckDuckGo](https://duckduckgo.com)  
