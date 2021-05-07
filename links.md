@@ -118,6 +118,11 @@ Self-explanatory
 Global data repository and visualisation platform with open access to real-time epidemiological anonymised line-list data
 
 
+* **[Google](https://google.com)**
+  - [Advanced Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
+  - [Passive Google Dork](github.com/opsdisk/pagodo)
+
+
 * [GraphPad](graphpad.com)  
 Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more
 
