@@ -302,6 +302,8 @@ Free and
    A framework for reproducable data analysis (workflow manager)
    - [Gradio](https://www.gradio.app/)  
    Generate an easy-to-use UI for ML models, function, or API. Integrate directly into your Python notebook, or share a link.
+   - [pymol-open-source](https://github.com/schrodinger/pymol-open-source)  
+   Open-source foundation of the user-sponsored PyMOL molecular visualization system.
 
 
 * [KiCad EDA](https://www.kicad.org/)  
