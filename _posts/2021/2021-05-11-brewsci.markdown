@@ -1,0 +1,16 @@
+---
+layout: "post"
+title: "Brewsci"
+date: "2021-05-11 10:24"
+---
+Sometimes you find additional hidden gems, it seems that there is a "[tap](https://docs.brew.sh/Taps)" within homebrew which allows installing additional packages not listed in the general installation, [Brewsci/bio](https://github.com/brewsci/homebrew-bio).
+
+```
+brew tap brewsci/bio
+brew install FORMULA
+```
+or
+```
+brew install brewsci/bio/FORMULA
+```
+Where formula is, amongst others, the open source version of [pymol](https://github.com/schrodinger/pymol-open-source)
