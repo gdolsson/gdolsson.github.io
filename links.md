@@ -230,6 +230,13 @@ Free; no downloads; no personal data collection; no sign-in bringing video from 
 Open Vulnerability Assessment Scanner
 
 
+* OSs
+  - [Whonix](https://www.whonix.org/)  
+  Software That Can Anonymize Everything You Do Online
+  - [QubesOS](https://www.qubes-os.org/)  
+  A reasonably secure operating system
+
+
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
 As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
 
