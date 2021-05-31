@@ -65,6 +65,10 @@ A solution for collaborative online mind-mapping
   Matrix app, talk to everyone through the open global Matrix network, protected by proper end-to-end encryption.  
 
 
+* [Cybersecurity Cannon](https://icdt.osu.edu/cybercanon)  
+Curated list of book and reviews, excellent source of interresting reading.
+
+
 * **Database**
   - [DBeaver](https://dbeaver.io/)  
   Free multi-platform database tool  
