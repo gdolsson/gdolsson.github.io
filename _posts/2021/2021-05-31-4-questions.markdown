@@ -1,0 +1,17 @@
+---
+layout: "post"
+title: "4 Questions"
+date: "2021-05-31 09:09"
+---
+I was listening to the [Test and Code](https://testandcode.com) podcast and picked up something that I already pretty much have adopted though not as clearly presented. There were 4 questions which can be asked in relation to any project:
+
+1. What is it that needs to be done?
+2. What do we need in order to do it?
+3. Where can we get what we need?
+4. How can we tell if we’re doing it right?
+
+There was a bonus question which #1 could be substituted for:
+
+   1. What's the most important thing that it doesn't do yet?
+
+This is along the lines of the "[The 5 Whys](https://online.visual-paradigm.com/knowledge/root-cause-analysis/root-cause-analysis-5-whys-technique/)" which is a sort of root cause analysis technique which I've found useful from time to time. 
