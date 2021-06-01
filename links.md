@@ -23,9 +23,11 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
   - [Jack Audio](https://jackaudio.org/)  
   Pipe sound/audio from one program to another (sort of like soundflower)  
 
-
+* **Crypto**
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
+* [helium.com](helium.com)  
+A New Way to Mine Crypto by deploying a low-power network hotspot earning a new cryptocurrency, HNT.
 
 
 * **Browsers**
