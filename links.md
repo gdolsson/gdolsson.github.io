@@ -23,6 +23,15 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
   - [Jack Audio](https://jackaudio.org/)  
   Pipe sound/audio from one program to another (sort of like soundflower)  
 
+
+* [Cockpit](https://cockpit-project.org/)  
+Easy-to-use and open web-based interface for servers
+  - [Manage RPi with Cockpit](https://opensource.com/article/21/5/raspberry-pi-cockpit)  
+  A nice presentation on how to get Cockpit up and running   
+
+
+
+
 * **Crypto**
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
