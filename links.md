@@ -328,6 +328,10 @@ Free and
    Generate an easy-to-use UI for ML models, function, or API. Integrate directly into your Python notebook, or share a link.
    - [pymol-open-source](https://github.com/schrodinger/pymol-open-source)  
    Open-source foundation of the user-sponsored PyMOL molecular visualization system.
+   - [Getting started with Read the Docs and Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
+   - [Structured logging for python](https://www.structlog.org/en/stable/)
+   - [Scientific colormaps and cmashing plots](https://github.com/1313e/CMasher)
+   - [Monolens - simulated colorblindness](https://github.com/HDembinski/monolens)
 
 
 * [KiCad EDA](https://www.kicad.org/)  
