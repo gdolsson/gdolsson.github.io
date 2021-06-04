@@ -30,8 +30,6 @@ Easy-to-use and open web-based interface for servers
   A nice presentation on how to get Cockpit up and running   
 
 
-
-
 * **Crypto**
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
@@ -170,6 +168,10 @@ Easy to create online interactive quizzes, games and trivia to be used for meeti
 
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/)  
 Keyboard customisation for macOS
+
+
+* [LBRY](https://lbry.com/) and [Odysee](https://odysee.com/)  
+Decentralised user driven video platform, "like youtube" but better
 
 
 * **Link Shorteners**  
