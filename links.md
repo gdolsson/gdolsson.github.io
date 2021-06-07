@@ -439,3 +439,21 @@ The search engine that respects your privacy
   - [LUNARC Documentation](https://lunarc-documentation.readthedocs.io/)
     - [Authenticator How-To](https://lunarc-documentation.readthedocs.io/en/latest/authenticator_howto)
   - [LUNARC Self-Service](https://phenix3.lunarc.lu.se/selfservice)
+
+
+* Misc. Network/IT/tech
+  - [CVE](https://cve.mitre.org/)  
+  Identification, definition and cataloguing of publicly disclosed cybersecurity vulnerabilities
+  - [DWF](https://github.com/distributedweaknessfiling/dwflist)  
+  "CVE plus one"
+  - [MITRE](mitre)
+  - [ATT&CK](https://attack.mitre.org/)  
+  A globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
+  - [Shodan](https://www.shodan.io/)  
+  Search engine for the internet of things
+  - [DNS Dumpster](https://dnsdumpster.com/)  
+  DNS recon & research, find & lookup DNA records
+  - [Wireshark](https://www.wireshark.org/)  
+  Network protocol analyzer
+  - [BURP](https://portswigger.net/burp)  
+  Application security testing
