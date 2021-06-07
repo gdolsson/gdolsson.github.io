@@ -37,6 +37,10 @@ Nice place to check transaction history and value of crypto currency
 A New Way to Mine Crypto by deploying a low-power network hotspot earning a new cryptocurrency, HNT.
 
 
+* [BRIM](https://www.brimsecurity.com/)  
+A new, free and open source way to browse, store and archive logs. Can handle [Wireshark](https://www.wireshark.org/) pcap files and [Zeek](https://www.zeek.org/) (formerly Bro) logs.
+
+
 * **Browsers**
   - [Brave](https://brave.com/)  
   Security and privacy focused browser
@@ -291,49 +295,49 @@ A framework for managing and maintaining multi-language pre-commit hooks.
 Free and
  open-source alternative to SPSS, cross-platform.
 
- * **[Python](https://www.python.org/)**
-   - [BPYTHOP](https://github.com/aristocratos/bpytop)  
-   Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).  
-   - [Python Awesome](https://pythonawesome.com/)  
-   List/Library of "awesome" modules/libraries
-   - [Rich](https://rich.readthedocs.io/en/latest/index.html)  
-   Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code. Also the [GitHub](https://github.com/willmcgugan/rich) page.
-   - [sshuttle](https://github.com/sshuttle/sshuttle)  
-   Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling ([Read the docs](https://sshuttle.readthedocs.io/en/stable/)).
-   -  [Code With My](https://codewith.mu/)  
-   A simple Python editor for beginner programmers.
-   - [Sourcery](https://sourcery.ai/)  
-   Write better code faster using the power of AI
-   - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/repl.html)  
-   Adds tools to get more information after errors
-   - [Switowski](https://switowski.com/)s website.  
-   Nice resources
-   - [Modern Python Dev Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)  
-   A nice tutorial video presentation
-   - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com)  
-   The interactive version of the video lecture above
-   - [PIPX](https://pypi.org/project/pipx/)  
-   Install/run pip packages in virtual environments  
-   - [Python Packaging User Guide](https://packaging.python.org/)  
-   The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
-   - [Quickle](https://jcristharif.com/quickle/)  
-   Fast and small serialization format for a subset of Python types based off of [Pickle](https://docs.python.org/3/library/pickle.html)
-   - [Streamlit](https://www.streamlit.io/)  
-   Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
-   - [Natural Sort](https://github.com/SethMMorton/natsort)  
-   Simple yet flexible natural sorting in Python
-   - [Jupyter Book](https://github.com/executablebooks/jupyter-book)  
-   Tool for building publication-quality books and documents from computational material
-   - [Snakemake](https://snakemake.github.io/)  
-   A framework for reproducable data analysis (workflow manager)
-   - [Gradio](https://www.gradio.app/)  
-   Generate an easy-to-use UI for ML models, function, or API. Integrate directly into your Python notebook, or share a link.
-   - [pymol-open-source](https://github.com/schrodinger/pymol-open-source)  
-   Open-source foundation of the user-sponsored PyMOL molecular visualization system.
-   - [Getting started with Read the Docs and Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
-   - [Structured logging for python](https://www.structlog.org/en/stable/)
-   - [Scientific colormaps and cmashing plots](https://github.com/1313e/CMasher)
-   - [Monolens - simulated colorblindness](https://github.com/HDembinski/monolens)
+* **[Python](https://www.python.org/)**
+  - [BPYTHOP](https://github.com/aristocratos/bpytop)  
+  Resource monitor that shows usage and stats for processor, memory, disks, network and processes. Python port of [bashtop](https://github.com/aristocratos/bashtop).  
+  - [Python Awesome](https://pythonawesome.com/)  
+  List/Library of "awesome" modules/libraries
+  - [Rich](https://rich.readthedocs.io/en/latest/index.html)  
+  Python library for writing rich text (with color and style) to the terminal, and for displaying advanced content such as tables, markdown, and syntax highlighted code. Also the [GitHub](https://github.com/willmcgugan/rich) page.
+  - [sshuttle](https://github.com/sshuttle/sshuttle)  
+  Transparent proxy server that works as a poor man's VPN. Forwards over ssh. Doesn't require admin. Works with Linux and MacOS. Supports DNS tunneling ([Read the docs](https://sshuttle.readthedocs.io/en/stable/)).
+  -  [Code With My](https://codewith.mu/)  
+  A simple Python editor for beginner programmers.
+  - [Sourcery](https://sourcery.ai/)  
+  Write better code faster using the power of AI
+  - [Friendly tracebacks](https://aroberge.github.io/friendly-traceback-docs/docs/html/repl.html)  
+  Adds tools to get more information after errors
+  - [Switowski](https://switowski.com/)s website.  
+  Nice resources
+  - [Modern Python Dev Toolkit](https://www.youtube.com/watch?v=WkUBx3g2QfQ)  
+  A nice tutorial video presentation
+  - [Interactive tutorial, Modern Python Dev Toolkit](https://pycon.switowski.com)  
+  The interactive version of the video lecture above
+  - [PIPX](https://pypi.org/project/pipx/)  
+  Install/run pip packages in virtual environments  
+  - [Python Packaging User Guide](https://packaging.python.org/)  
+  The Python Packaging User Guide, a collection of tutorials and references to help you distribute and install Python packages with modern tools.
+  - [Quickle](https://jcristharif.com/quickle/)  
+  Fast and small serialization format for a subset of Python types based off of [Pickle](https://docs.python.org/3/library/pickle.html)
+  - [Streamlit](https://www.streamlit.io/)  
+  Open-source app framework for data scientists and machine learning engineers to create beautiful, performant apps in only a few hours.
+  - [Natural Sort](https://github.com/SethMMorton/natsort)  
+  Simple yet flexible natural sorting in Python
+  - [Jupyter Book](https://github.com/executablebooks/jupyter-book)  
+  Tool for building publication-quality books and documents from computational material
+  - [Snakemake](https://snakemake.github.io/)  
+  A framework for reproducable data analysis (workflow manager)
+  - [Gradio](https://www.gradio.app/)  
+  Generate an easy-to-use UI for ML models, function, or API. Integrate directly into your Python notebook, or share a link.
+  - [pymol-open-source](https://github.com/schrodinger/pymol-open-source)  
+  Open-source foundation of the user-sponsored PyMOL molecular visualization system.
+  - [Getting started with Read the Docs and Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
+  - [Structured logging for python](https://www.structlog.org/en/stable/)
+  - [Scientific colormaps and cmashing plots](https://github.com/1313e/CMasher)
+  - [Monolens - simulated colorblindness](https://github.com/HDembinski/monolens)
 
 
 * [KiCad EDA](https://www.kicad.org/)  
