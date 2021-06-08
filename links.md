@@ -457,3 +457,5 @@ The search engine that respects your privacy
   Network protocol analyzer
   - [BURP](https://portswigger.net/burp)  
   Application security testing
+  - [OWASP top10](https://owasp.org/www-project-top-ten/)  
+  Standard awareness document for developers and web application security
