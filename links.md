@@ -8,8 +8,7 @@ The \"Assisted Model Building with Energy Refinement\" (AMBER) homepage where yo
   - [AmberTools17](https://ambermd.org/downloads/AmberTools17.tar.bz2)
   - [AmberTools18](https://ambermd.org/downloads/AmberTools18.tar.bz2)
   - [AmberTools19](https://ambermd.org/downloads/AmberTools19.tar.bz2)
-  - [AmberTools20](https://ambermd.org/downloads/AmberTools20.tar.bz2)
-
+  - [AmberTools20](https://ambermd.org/downloads/AmberTools20.tar.bz2)/
 
 * [AMBER-Hub](https://amberhub.chpc.utah.edu/)  
 The AMBER-Hub page seems to be a nice collection of things related to suing AMBER and CPPTRAJ. You can find a lot of nice tips and solutions for solving problems and nicely presented tutorials. A nice addition to the manual and the official tutorials.
@@ -35,10 +34,6 @@ Easy-to-use and open web-based interface for servers
 Nice place to check transaction history and value of crypto currency
 * [helium.com](helium.com)  
 A New Way to Mine Crypto by deploying a low-power network hotspot earning a new cryptocurrency, HNT.
-
-
-* [BRIM](https://www.brimsecurity.com/)  
-A new, free and open source way to browse, store and archive logs. Can handle [Wireshark](https://www.wireshark.org/) pcap files and [Zeek](https://www.zeek.org/) (formerly Bro) logs.
 
 
 * **Browsers**
@@ -459,3 +454,9 @@ The search engine that respects your privacy
   Application security testing
   - [OWASP top10](https://owasp.org/www-project-top-ten/)  
   Standard awareness document for developers and web application security
+  - [BRIM](https://www.brimsecurity.com/)  
+  A new, free and open source way to browse, store and archive logs. Can handle [Wireshark](https://www.wireshark.org/) pcap files and [Zeek](https://www.zeek.org/) (formerly Bro) logs.
+  - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/)  
+  A source for pcap files and malware samples
+    - [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
+    - [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
