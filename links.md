@@ -209,7 +209,7 @@ A basic site thrown together for a workshop hosted at the Linnaeus University in
 
 
 * [Monster Mash](https://github.com/google/monster-mash)  
-onster Mash is a new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. A working example web interface is present at [http://monstermash.zone/](http://monstermash.zone/)  
+Monster Mash is a new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. A working example web interface is present at [http://monstermash.zone/](http://monstermash.zone/)  
 
 
 * [Nature Careers Funding](https://naturecareersfunding.com/)  
