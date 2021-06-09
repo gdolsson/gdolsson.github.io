@@ -8,10 +8,11 @@ The \"Assisted Model Building with Energy Refinement\" (AMBER) homepage where yo
   - [AmberTools17](https://ambermd.org/downloads/AmberTools17.tar.bz2)
   - [AmberTools18](https://ambermd.org/downloads/AmberTools18.tar.bz2)
   - [AmberTools19](https://ambermd.org/downloads/AmberTools19.tar.bz2)
-  - [AmberTools20](https://ambermd.org/downloads/AmberTools20.tar.bz2)/
+  - [AmberTools20](https://ambermd.org/downloads/AmberTools20.tar.bz2)  
+
 
 * [AMBER-Hub](https://amberhub.chpc.utah.edu/)  
-The AMBER-Hub page seems to be a nice collection of things related to suing AMBER and CPPTRAJ. You can find a lot of nice tips and solutions for solving problems and nicely presented tutorials. A nice addition to the manual and the official tutorials.
+The AMBER-Hub page seems to be a nice collection of things related to suing AMBER and CPPTRAJ. You can find a lot of nice tips and solutions for solving problems and nicely presented tutorials. A nice addition to the manual and the official tutorials.  
 
 
 * **Audio**
@@ -33,7 +34,7 @@ Easy-to-use and open web-based interface for servers
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
 * [helium.com](helium.com)  
-A New Way to Mine Crypto by deploying a low-power network hotspot earning a new cryptocurrency, HNT.
+A New Way to Mine Crypto by deploying a low-power network hotspot earning a new cryptocurrency, HNT.  
 
 
 * **Browsers**
@@ -44,11 +45,11 @@ A New Way to Mine Crypto by deploying a low-power network hotspot earning a new 
 
 
 * [Calmcode](calmcode.io)  
-Code. Simply. Clearly. Calmly. Video tutorials for modern ideas and open source tools.
+Code. Simply. Clearly. Calmly. Video tutorials for modern ideas and open source tools.  
 
 
 * [CHARMM-GUI](http://www.charmm-gui.org)  
-A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Effective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.
+A recurring mention when discussing building membrane systems and other more complicated systems. The title of the page tells the visitor that this is an \"Effective Simulation Input Generator and More\". I normally use [packmol](http://m3g.iqm.unicamp.br/packmol/home.shtml) for generating input files for simulations though this is a good alternative when/if facing problems constructing the system you want.  
 
 
 * **[UCSF Cimera](http://www.cgl.ucsf.edu/chimera/)**  
@@ -62,7 +63,7 @@ A program for the interactive visualisation and analysis of molecular structures
 
 
 * [Coggle](https://coggle.it/)  
-A solution for collaborative online mind-mapping
+A solution for collaborative online mind-mapping  
 
 
 * **Communication**
@@ -74,7 +75,7 @@ A solution for collaborative online mind-mapping
 
 
 * [Cybersecurity Cannon](https://icdt.osu.edu/cybercanon)  
-Curated list of book and reviews, excellent source of interresting reading.
+Curated list of book and reviews, excellent source of interresting reading.  
 
 
 * **Database**
@@ -90,11 +91,11 @@ Curated list of book and reviews, excellent source of interresting reading.
   - [MongoDB](https://www.mongodb.com/)  
   General purpose, document-based, distributed database built for modern application developers and for the cloud era.
     - [Mongita](https://github.com/scottrogowski/mongita)  
-    Mongita is a lightweight embedded document database that implements a commonly-used subset of the MongoDB/PyMongo interface. Mongita differs from MongoDB in that instead of being a server, Mongita is a self-contained Python library. Mongita can be configured to store its documents either on disk or in memory.
+    Mongita is a lightweight embedded document database that implements a commonly-used subset of the MongoDB/PyMongo interface. Mongita differs from MongoDB in that instead of being a server, Mongita is a self-contained Python library. Mongita can be configured to store its documents either on disk or in memory.  
 
 
 * [DuckDuckGo](https://duckduckgo.com)  
-Search engine which respects your privacy
+Search engine which respects your privacy  
 
 
 * **Encryption**
@@ -106,45 +107,45 @@ Search engine which respects your privacy
     + [EncFSMP](https://encfsmp.sourceforge.io/)  
   A program to mount EncFS folders on Windows and OS X
   - [EteSync](https://www.etesync.com/) and [EteBase](https://www.etebase.com/)  
-  Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes
+  Secure, end-to-end encrypted, and privacy respecting sync for your contacts, calendars, tasks and notes  
 
 
 * [EnzymeX](https://nucleobytes.com/enzymex/index.html)  
-The DNA sequence editor for OS X. Visualize and edit DNA sequence files.
+The DNA sequence editor for OS X. Visualize and edit DNA sequence files.  
 
 
 * **Games**
   - [Endless Sky](https://endless-sky.github.io/)  
-  Free and open-source 2D space trading and combat game
+  Free and open-source 2D space trading and combat game  
 
 
 * [Git Hooks](https://githooks.com/)  
-Scripts that Git executes before or after events
+Scripts that Git executes before or after events  
 
 
 * [Global Covid Dashboard](https://www.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)  
-Self-explanatory
+Self-explanatory  
 
 
 * [Global Health](global.health)  
-Global data repository and visualisation platform with open access to real-time epidemiological anonymised line-list data
+Global data repository and visualisation platform with open access to real-time epidemiological anonymised line-list data  
 
 
 * **[Google](https://google.com)**
   - [Advanced Search Operators](https://ahrefs.com/blog/google-advanced-search-operators/)
-  - [Passive Google Dork](github.com/opsdisk/pagodo)
+  - [Passive Google Dork](github.com/opsdisk/pagodo)  
 
 
 * [GraphPad](graphpad.com)  
-Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more
+Software to analyze, graph and present data. Also providing a collection of nice [resources](https://www.graphpad.com/data-analysis-resource-center/) including video tutorials and more  
 
 
 * [HackMD](https://hackmd.io/)  
-Real-time collaboration in markdown. Capture fleeting ideas  and formalise tribal knowledge
+Real-time collaboration in markdown. Capture fleeting ideas  and formalise tribal knowledge  
 
 
 * [HTOP](https://hisham.hm/htop/)  
-An interactive process viewer for Unix systems
+An interactive process viewer for Unix systems  
 
 
 * [HUGO](https://gohugo.io/)  
@@ -154,23 +155,23 @@ An open-source solution for static site generation
 
 
 * [Jamovi](http://www.jamovi.org)  
-Free statistics software
+Free statistics software  
 
 
 * [JASP](http://jasp-stats.org)  
-Free statistics software
+Free statistics software  
 
 
 * [Kahoot](https://kahoot.com/)  
-Easy to create online interactive quizzes, games and trivia to be used for meetings and teaching
+Easy to create online interactive quizzes, games and trivia to be used for meetings and teaching  
 
 
 * [Karabiner-Elements](https://karabiner-elements.pqrs.org/)  
-Keyboard customisation for macOS
+Keyboard customisation for macOS  
 
 
 * [LBRY](https://lbry.com/) and [Odysee](https://odysee.com/)  
-Decentralised user driven video platform, "like youtube" but better
+Decentralised user driven video platform, "like youtube" but better  
 
 
 * **Link Shorteners**  
@@ -184,39 +185,39 @@ Pretty much self explanatory, take a long link to something and make it shorter.
   - [shortulr.at](shorturl.at)  
   Free url shortner with a chrome browser plugin.
   - [cutt.ly](cuttly)  
-  Free URL Shortener & Branded URLs with great analytics tool.
+  Free URL Shortener & Branded URLs with great analytics tool.  
 
 
 * [Markdown Guide](https://www.markdownguide.org/)  
-Reference guide that explains how to use Markdown
+Reference guide that explains how to use Markdown  
 
 
 * [The Measure of Things](https://www.bluebulbprojects.com/MeasureOfThings/default.php)  
-A fun website where you can put in a measure and get an assortment of things to compare against.
+A fun website where you can put in a measure and get an assortment of things to compare against.  
 
 
 * [Mentimeter](https://www.mentimeter.com/)  
-Create interactive presentations & meetings, wherever you are. Available for employees at the Linnaeus University.
+Create interactive presentations & meetings, wherever you are. Available for employees at the Linnaeus University.  
 
 
 * [Mindmeister](https://www.mindmeister.com/)  
-A solution for collaborative online mind-mapping
+A solution for collaborative online mind-mapping  
 
 
 * [MIP-oriented Molecular Modelling](https://mipmolmodel.wordpress.com/)
-A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.
+A basic site thrown together for a workshop hosted at the Linnaeus University in Kalmar, Sweden.  
 
 
 * [Monster Mash](https://github.com/google/monster-mash)  
-onster Mash is a new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. A working example web interface is present at [http://monstermash.zone/](http://monstermash.zone/)
+onster Mash is a new sketch-based modeling and animation tool that allows you to quickly sketch a character, inflate it into 3D, and promptly animate it. A working example web interface is present at [http://monstermash.zone/](http://monstermash.zone/)  
 
 
 * [Nature Careers Funding](https://naturecareersfunding.com/)  
-Seems like a nice aggregation of information regarding funding options
+Seems like a nice aggregation of information regarding funding options  
 
 
 * [NextDNS](nextdns.io)  
-The new firewall for the modern internet, like a "pihole" in the cloud
+The new firewall for the modern internet, like a "pihole" in the cloud  
 
 
 * **Notekeeping**
@@ -227,23 +228,23 @@ The new firewall for the modern internet, like a "pihole" in the cloud
     + [TiddlyWiki Desktop](https://github.com/Jermolene/TiddlyDesktop)  
     TiddlyDesktop is a special purpose web browser for working with locally stored TiddlyWikis  
     `brew install tiddly`  
-    + [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)
+    + [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)  
 
 
 * [nzyme](https://www.nzyme.org/)  
-Free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system
+Free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system  
 
 
 * [OBS (Open Brodcast Software)](https://obsproject.com/)  
-Free and open source software for video recording and live streaming
+Free and open source software for video recording and live streaming  
 
 
 * [OBS Ninja](https://obs.ninja/)  
-Free; no downloads; no personal data collection; no sign-in bringing video from any source into the OBS video stream. Basically an alternative to zoom.
+Free; no downloads; no personal data collection; no sign-in bringing video from any source into the OBS video stream. Basically an alternative to zoom.  
 
 
 * [OpenVAS](https://openvas.org/)  
-Open Vulnerability Assessment Scanner
+Open Vulnerability Assessment Scanner  
 
 
 * OSs
@@ -256,39 +257,38 @@ Open Vulnerability Assessment Scanner
 
 
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
-As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.
+As stated on top of the page, \"Initial configurations for Molecular Dynamics Simulations by packing optimisation\". This is a classic regarding input preparation for MD simulations. Nowadays, a working installation of packmol is even bundled together with the Amber/AMberTools software package.  
 
 
 * [Pandoc](https://pandoc.org/)  
-This is a universal document converter
+This is a universal document converter  
 
 
 * **[Password Managers]**
   - [Buttercup](https://buttercup.pw/)
   - [Bitwarden](https://bitwarden.com/)
   - [Lastpass](https://www.lastpass.com/)
-  - [1Password](https://1password.com/)
+  - [1Password](https://1password.com/)  
 
 
 * [PeerWise](https://peerwise.cs.auckland.ac.nz/)  
-Supports students in the creation, sharing, evaluation and discussion of assessment questions. Some sort of open-source alternative platform for interactive online learning.
+Supports students in the creation, sharing, evaluation and discussion of assessment questions. Some sort of open-source alternative platform for interactive online learning.  
 
 
 * [PLIP](https://plip.biotec.tu-dresden.de/plip-web/plip/index)  
-Protein-Ligand Interaction Profiler (PLIP)
+Protein-Ligand Interaction Profiler (PLIP)  
 
 
 * [PLUMED](https://www.plumed.org/)  
-PLUMED is an open-source, community-developed library that provides a wide range of different methods in combination with a large toolbox of collective variables that describe complex processes in physics, chemistry, material science, and biology.
+PLUMED is an open-source, community-developed library that provides a wide range of different methods in combination with a large toolbox of collective variables that describe complex processes in physics, chemistry, material science, and biology.  
 
 
 * [Pre-Commit](https://pre-commit.com/)  
-A framework for managing and maintaining multi-language pre-commit hooks.
+A framework for managing and maintaining multi-language pre-commit hooks.  
 
 
 * [PSPP](https://www.gnu.org/software/pspp/)  
-Free and
- open-source alternative to SPSS, cross-platform.
+Free and open-source alternative to SPSS, cross-platform.  
 
 * **[Python](https://www.python.org/)**
   - [BPYTHOP](https://github.com/aristocratos/bpytop)  
@@ -332,37 +332,37 @@ Free and
   - [Getting started with Read the Docs and Sphinx](https://docs.readthedocs.io/en/stable/intro/getting-started-with-sphinx.html)
   - [Structured logging for python](https://www.structlog.org/en/stable/)
   - [Scientific colormaps and cmashing plots](https://github.com/1313e/CMasher)
-  - [Monolens - simulated colorblindness](https://github.com/HDembinski/monolens)
+  - [Monolens - simulated colorblindness](https://github.com/HDembinski/monolens)  
 
 
 * [KiCad EDA](https://www.kicad.org/)  
-A Cross Platform and Open Source Electronics Design Automation Suite.
+A Cross Platform and Open Source Electronics Design Automation Suite.  
 
 
 * [Mastering GitHub Markdown](https://guides.github.com/features/mastering-markdown/)  
-How to format markdown for GitHub pages.
+How to format markdown for GitHub pages.  
 
 
 * [NextCloud](https://nextcloud.com/)  
-Self-hosted cloud service
+Self-hosted cloud service  
 
 * [Nextflow](https://sciwiki.fredhutch.org/compdemos/nextflow/)  
-Nextflow - an Emerging Service for Workflow Management
+Nextflow - an Emerging Service for Workflow Management  
 
 * [Redis](redis.io)  
-Cross platform database with minimal footprint
+Cross platform database with minimal footprint  
 
 
 * [Scribus](https://www.scribus.net/)  
-Open source desktop publishing software, layout design and more.
+Open source desktop publishing software, layout design and more.  
 
 
 * [Sketchup](https://www.sketchup.com/)  
-Online 3D designer, free for online personal use.
+Online 3D designer, free for online personal use.  
 
 
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
-A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.
+A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.  
 
 
 * **Spectra (NMR/IR and more)**
@@ -375,7 +375,7 @@ A nice resource to calculate the number of ions needed for MD simulations with a
   - [KnowItAll - AnyWare (Wiley?)](https://www.knowitallanyware.com/#search)  
   Registration required...
   - [ChemSpider](https://www.chemspider.com/)  
-  ChemSpider is a free chemical structure database providing fast text and structure search access to over 100 million structures from hundreds of data sources (seems to be foremost IR/UV/Vis)
+  ChemSpider is a free chemical structure database providing fast text and structure search access to over 100 million structures from hundreds of data sources (seems to be foremost IR/UV/Vis)  
 
 
 * **Structure/Sequence Databases**  
@@ -392,27 +392,27 @@ A nice resource to calculate the number of ions needed for MD simulations with a
   - [UniProt](https://www.uniprot.org/)  
   Sequence and function of proteins
   - [Expasy](https://www.expasy.org/)  
-  Swiss Bioinformatics Resource Portal
+  Swiss Bioinformatics Resource Portal  
 
 
 * [Sync](https://www.sync.com/)  
-Like BOX or DropBox though with end-to-end encryption of your data.
+Like BOX or DropBox though with end-to-end encryption of your data.  
 
 
 * [Syncthing](https://syncthing.net/)  
-Free and open source files synchronisation between two or more computers in real time. Safe and protected data transfers between your machines, not over any external server.
+Free and open source files synchronisation between two or more computers in real time. Safe and protected data transfers between your machines, not over any external server.  
 
 
 * [Tesseract](https://github.com/tesseract-ocr)  
-Tesseract, free and open sourve OCR software. A "[tutorial](https://guides.nyu.edu/c.php?g=884390&p=6355032)" of sorts.
+Tesseract, free and open sourve OCR software. A "[tutorial](https://guides.nyu.edu/c.php?g=884390&p=6355032)" of sorts.  
 
 
 * [tusk](https://www.tusk.page/)  
-Thought you should know, free online service described as "Short-lived anonymous feedback", post a question and users submit free-text feedback printed directly on the page "anonymised".
+Thought you should know, free online service described as "Short-lived anonymous feedback", post a question and users submit free-text feedback printed directly on the page "anonymised".  
 
 
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/)  
-Visual Molecular Dynamics, a molecular visualisation program for displaying, animating, and analysing large biomolecular systems using 3-D graphics and built-in scripting.
+Visual Molecular Dynamics, a molecular visualisation program for displaying, animating, and analysing large biomolecular systems using 3-D graphics and built-in scripting.  
 
 
 * **Windows**
@@ -421,11 +421,11 @@ Visual Molecular Dynamics, a molecular visualisation program for displaying, ani
   - The O&O [Shut Up 10](https://www.oo-software.com/en/shutup10)  
   \"Antispy\" tool for Windows 10, allows greater control over which functions are active or not under windows 10
   - The O&O [App Buster](https://www.oo-software.com/en/ooappbuster)  
-  Allows you to quickly and easily remove Windows 10 "bloatware"
+  Allows you to quickly and easily remove Windows 10 "bloatware"  
 
 
 * [Qwant](https://qwant.com)  
-The search engine that respects your privacy
+The search engine that respects your privacy  
 
 
 * **SNIC/SUPR/AURORA/LUNARC**
@@ -433,7 +433,7 @@ The search engine that respects your privacy
   - [SNIC](https://snic.se/)
   - [LUNARC Documentation](https://lunarc-documentation.readthedocs.io/)
     - [Authenticator How-To](https://lunarc-documentation.readthedocs.io/en/latest/authenticator_howto)
-  - [LUNARC Self-Service](https://phenix3.lunarc.lu.se/selfservice)
+  - [LUNARC Self-Service](https://phenix3.lunarc.lu.se/selfservice)  
 
 
 * Misc. Network/IT/tech
