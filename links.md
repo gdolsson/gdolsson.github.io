@@ -231,10 +231,6 @@ The new firewall for the modern internet, like a "pihole" in the cloud
     + [TiddlyWiki YouTube Tutorial](https://www.youtube.com/playlist?list=PLzZCajspPU_UjFn0uy-J9URz0LP4zhxRK)  
 
 
-* [nzyme](https://www.nzyme.org/)  
-Free and open WiFi defense system that detects and physically locates threats using an easy to build and deploy sensor system  
-
-
 * [OBS (Open Brodcast Software)](https://obsproject.com/)  
 Free and open source software for video recording and live streaming  
 
@@ -458,5 +454,9 @@ The search engine that respects your privacy
   A new, free and open source way to browse, store and archive logs. Can handle [Wireshark](https://www.wireshark.org/) pcap files and [Zeek](https://www.zeek.org/) (formerly Bro) logs.
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/)  
   A source for pcap files and malware samples
-    - [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
-    - [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
+    + [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
+    + [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
+  - [nzyme](https://www.nzyme.org/)  
+  Free and open WiFi defence system that detects and physically locates threats using an easy to build and deploy sensor system
+  - [Kismet](https://www.kismetwireless.net/)  
+  Wireless network and device detector, sniffer, wardriving tool, and WIDS framework.
