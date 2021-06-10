@@ -329,6 +329,12 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Structured logging for python](https://www.structlog.org/en/stable/)
   - [Scientific colormaps and cmashing plots](https://github.com/1313e/CMasher)
   - [Monolens - simulated colorblindness](https://github.com/HDembinski/monolens)  
+  - [Rich](https://pypi.org/project/rich/) Python library for rich text and beautiful formatting in the terminal
+  - [Textual](https://github.com/willmcgugan/textual) TUI (Text User Interface) framework
+  - [AICSImageIO](https://allencellmodeling.github.io/aicsimageio/index.html) Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Pure Python
+  - [aiosql](https://nackjicholson.github.io/aiosql/) Organize your SQL statements in .sql files, load them into your python application as methods
+  - [Python Advisory DB](https://github.com/pypa/advisory-db)
+  - 
 
 
 * [KiCad EDA](https://www.kicad.org/)  
