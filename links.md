@@ -334,7 +334,7 @@ Free and open-source alternative to SPSS, cross-platform.
   - [AICSImageIO](https://allencellmodeling.github.io/aicsimageio/index.html) Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Pure Python
   - [aiosql](https://nackjicholson.github.io/aiosql/) Organize your SQL statements in .sql files, load them into your python application as methods
   - [Python Advisory DB](https://github.com/pypa/advisory-db)
-  - 
+  -
 
 
 * [KiCad EDA](https://www.kicad.org/)  
@@ -438,7 +438,7 @@ The search engine that respects your privacy
   - [LUNARC Self-Service](https://phenix3.lunarc.lu.se/selfservice)  
 
 
-* Misc. Network/IT/tech
+* **Misc. Network/IT/tech**
   - [CVE](https://cve.mitre.org/)  
   Identification, definition and cataloguing of publicly disclosed cybersecurity vulnerabilities
   - [DWF](https://github.com/distributedweaknessfiling/dwflist)  
@@ -466,3 +466,11 @@ The search engine that respects your privacy
   Free and open WiFi defence system that detects and physically locates threats using an easy to build and deploy sensor system
   - [Kismet](https://www.kismetwireless.net/)  
   Wireless network and device detector, sniffer, wardriving tool, and WIDS framework.
+
+
+* **Router Firmware**
+  - [ASUSWRT-MERLIN](https://www.asuswrt-merlin.net/)
+  - [OpenWRT](https://openwrt.org/)
+  - [dd-wrt](https://dd-wrt.com/)
+  - [Tomatoe](https://www.polarcloud.com/tomato)
+  - [FreshTomato](https://www.freshtomato.org/)
