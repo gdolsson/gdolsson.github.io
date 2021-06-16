@@ -457,15 +457,24 @@ The search engine that respects your privacy
   - [OWASP top10](https://owasp.org/www-project-top-ten/)  
   Standard awareness document for developers and web application security
   - [BRIM](https://www.brimsecurity.com/)  
-  A new, free and open source way to browse, store and archive logs. Can handle [Wireshark](https://www.wireshark.org/) pcap files and [Zeek](https://www.zeek.org/) (formerly Bro) logs.
-  - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/)  
-  A source for pcap files and malware samples
-    + [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
-    + [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
+  A new, free and open source way to browse, store and archive logs. Can handle [Wireshark](https://www.wireshark.org/) pcap files and
+  - [Zeek](https://www.zeek.org/) (formerly Bro) logs.
   - [nzyme](https://www.nzyme.org/)  
   Free and open WiFi defence system that detects and physically locates threats using an easy to build and deploy sensor system
   - [Kismet](https://www.kismetwireless.net/)  
   Wireless network and device detector, sniffer, wardriving tool, and WIDS framework.
+  - [Beaker](https://github.com/activecm/BeaKer) Visualize Microsoft Sysmon network data
+    + [WinLogBeats](https://www.elastic.co/beats/winlogbeat) Sends the network connection logs to Elasticsearch
+    + [Elastic Search](https://www.elastic.co/elasticsearch/) Distributed, JSON-based search and analytics engine, stores, indexes, and aggregates the network connection logs
+    + [Kibana](https://www.elastic.co/kibana) Displays logs stored in Elasticsearch, provides a UI for administration
+    + [Beacon Dashboard](https://www.beaconcrm.org/guide/reporting/your-dashboard) Aggregates the network connections between two hosts
+
+
+* **Training (Misc. Network/IT/tech)**
+  - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
+    + [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
+    + [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
+  - [Active Countermeasures Malware of the Day](https://www.activecountermeasures.com/?s=malware+of+the+day) info, screenshots and pcaps
 
 
 * **Router Firmware**
