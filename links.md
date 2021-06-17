@@ -334,8 +334,9 @@ Free and open-source alternative to SPSS, cross-platform.
   - [AICSImageIO](https://allencellmodeling.github.io/aicsimageio/index.html) Image Reading, Metadata Conversion, and Image Writing for Microscopy Images in Pure Python
   - [aiosql](https://nackjicholson.github.io/aiosql/) Organize your SQL statements in .sql files, load them into your python application as methods
   - [Python Advisory DB](https://github.com/pypa/advisory-db)
-  -
-
+  - [FSSPEC](https://filesystem-spec.readthedocs.io/en/latest/) Unify various projects and classes to work with remote filesystems and file-system-like abstractions using a standard pythonic interface (cloud hopping).
+  - [pandasgui](https://github.com/adamerose/pandasgui) GUI for viewing, plotting and analyzing Pandas DataFrames
+  - [xarray](https://pypi.org/project/xarray/) Makes working with labelled multi-dimensional arrays simple, efficient, and fun.
 
 * [KiCad EDA](https://www.kicad.org/)  
 A Cross Platform and Open Source Electronics Design Automation Suite.  
