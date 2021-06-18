@@ -418,6 +418,10 @@ Thought you should know, free online service described as "Short-lived anonymous
 Visual Molecular Dynamics, a molecular visualisation program for displaying, animating, and analysing large biomolecular systems using 3-D graphics and built-in scripting.  
 
 
+* [Wasp](https://wasp-lang.dev/)  
+A simple language for developing full-stack web apps with less code.
+
+
 * **Windows**
   - [wintools.info](https://www.wintools.info/)  
   Nice collection of tools, free with donations asked, to optimise your windows usage. One good item is extended godmode.
