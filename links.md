@@ -473,6 +473,8 @@ The search engine that respects your privacy
     + [Elastic Search](https://www.elastic.co/elasticsearch/) Distributed, JSON-based search and analytics engine, stores, indexes, and aggregates the network connection logs
     + [Kibana](https://www.elastic.co/kibana) Displays logs stored in Elasticsearch, provides a UI for administration
     + [Beacon Dashboard](https://www.beaconcrm.org/guide/reporting/your-dashboard) Aggregates the network connections between two hosts
+    + [NSRL](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl) A collection of digital signatures of known, traceable software applications and [examples for CLI usage](https://isc.sans.edu/forums/diary/Easy+Access+to+the+NIST+RDS+Database/27544/) 
+    + [Oledump.py](https://www.aldeid.com/wiki/Oledump) A program to analyze OLE files (Compound File Binary Format) [on GitHub](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py) and [SANS cheat sheet](https://isc.sans.edu/forums/diary/Video+oledump+Cheat+Sheet/27546/)
 
 
 * **Training (Misc. Network/IT/tech)**
