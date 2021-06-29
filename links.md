@@ -375,6 +375,10 @@ Online 3D designer, free for online personal use.
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.  
 
 
+* [Synergy](https://symless.com/synergy)  
+Control multiple computers using only one keyboard and mouse
+
+
 * **Spectra (NMR/IR and more)**
   - [NMRShiftDB](https://nmrshiftdb.nmr.uni-koeln.de/)  
   NMR database (web database) for organic structures and their nuclear magnetic resonance (nmr) spectra
