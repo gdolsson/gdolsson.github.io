@@ -90,8 +90,12 @@ Curated list of book and reviews, excellent source of interresting reading.
     + [DogSheep GitHub](https://github.com/dogsheep)  
   - [MongoDB](https://www.mongodb.com/)  
   General purpose, document-based, distributed database built for modern application developers and for the cloud era.
-    - [Mongita](https://github.com/scottrogowski/mongita)  
+    + [Mongita](https://github.com/scottrogowski/mongita)  
     Mongita is a lightweight embedded document database that implements a commonly-used subset of the MongoDB/PyMongo interface. Mongita differs from MongoDB in that instead of being a server, Mongita is a self-contained Python library. Mongita can be configured to store its documents either on disk or in memory.  
+    + [MontyDB](https://github.com/davidlatwe/montydb)  
+    A pure Python-implemented database that looks and works like MongoDB
+  - [Redis](redis.io)  
+  Cross platform database with minimal footprint  
 
 
 * [DuckDuckGo](https://duckduckgo.com)  
@@ -337,6 +341,11 @@ Free and open-source alternative to SPSS, cross-platform.
   - [FSSPEC](https://filesystem-spec.readthedocs.io/en/latest/) Unify various projects and classes to work with remote filesystems and file-system-like abstractions using a standard pythonic interface (cloud hopping).
   - [pandasgui](https://github.com/adamerose/pandasgui) GUI for viewing, plotting and analyzing Pandas DataFrames
   - [xarray](https://pypi.org/project/xarray/) Makes working with labelled multi-dimensional arrays simple, efficient, and fun.
+  - [nomodulenamed.com](https://nomodulenamed.com/) Make python packages' installation easy
+  - [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) A JupyterLab distribution that runs entirely in the browser
+  - [Compare plots](https://nbviewer.jupyter.org/github/dylanjcastillo/random/blob/main/cheatsheet_data_viz_python.ipynb)
+  - [Checking with Mypy](https://hakibenita.com/python-mypy-exhaustive-checking) Static type checking, exhaustingly, with [Mypy](http://mypy-lang.org/)
+
 
 * [KiCad EDA](https://www.kicad.org/)  
 A Cross Platform and Open Source Electronics Design Automation Suite.  
@@ -349,11 +358,9 @@ How to format markdown for GitHub pages.
 * [NextCloud](https://nextcloud.com/)  
 Self-hosted cloud service  
 
+
 * [Nextflow](https://sciwiki.fredhutch.org/compdemos/nextflow/)  
 Nextflow - an Emerging Service for Workflow Management  
-
-* [Redis](redis.io)  
-Cross platform database with minimal footprint  
 
 
 * [Scribus](https://www.scribus.net/)  
@@ -476,6 +483,8 @@ The search engine that respects your privacy
     + [NSRL](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl) A collection of digital signatures of known, traceable software applications and [examples for CLI usage](https://isc.sans.edu/forums/diary/Easy+Access+to+the+NIST+RDS+Database/27544/)
     + [Oledump.py](https://www.aldeid.com/wiki/Oledump) A program to analyze OLE files (Compound File Binary Format) [on GitHub](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py) and [SANS cheat sheet](https://isc.sans.edu/forums/diary/Video+oledump+Cheat+Sheet/27546/)
     + [NetworkX](https://networkx.org/) A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+    + [Threathunting with Splunk](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries) A nice collection of [Splunk code](https://github.com/inodee/threathunting-spl) to identify [beaconding](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/Detecting_Beaconing.md), suspicious [powershell](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/powershell_qualifiers.md) commands and more.
+    +
 
 
 * **Training (Misc. Network/IT/tech)**
