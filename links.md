@@ -118,6 +118,10 @@ Search engine which respects your privacy
 The DNA sequence editor for OS X. Visualize and edit DNA sequence files.  
 
 
+* [fast.ai](https://www.fast.ai/)  
+Free online courses and resources to learn AI/ML/NLP
+
+
 * **Games**
   - [Endless Sky](https://endless-sky.github.io/)  
   Free and open-source 2D space trading and combat game  
@@ -454,6 +458,10 @@ The search engine that respects your privacy
   - [LUNARC Self-Service](https://phenix3.lunarc.lu.se/selfservice)  
 
 
+* [spack](https://spack.io/)  
+A package manager for supercomputers, Linux, and macOS making installing scientific software easy.
+
+
 * **Misc. Network/IT/tech**
   - [CVE](https://cve.mitre.org/)  
   Identification, definition and cataloguing of publicly disclosed cybersecurity vulnerabilities
@@ -491,7 +499,7 @@ The search engine that respects your privacy
     +
 
 
-* **Training (Misc. Network/IT/tech)**
+* **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
     + [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
     + [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
