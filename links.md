@@ -28,8 +28,6 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 Freeware BASIC-like scripting language for automating the Windows GUI
 
 
-
-
 * [Cockpit](https://cockpit-project.org/)  
 Easy-to-use and open web-based interface for servers
   - [Manage RPi with Cockpit](https://opensource.com/article/21/5/raspberry-pi-cockpit)  
@@ -40,7 +38,11 @@ Easy-to-use and open web-based interface for servers
 * [blockchain.info](https://www.blockchain.info)  
 Nice place to check transaction history and value of crypto currency
 * [helium.com](helium.com)  
-A New Way to Mine Crypto by deploying a low-power network hotspot earning a new cryptocurrency, HNT.  
+A New Way to Mine Crypto by deploying a low-power network hotspot earning a new cryptocurrency, HNT  
+
+
+* [Cyotek Webcopy](https://www.cyotek.com/cyotek-webcopy)  
+A free tool for automatically downloading the content of a website onto your local device  
 
 
 * **Browsers**
