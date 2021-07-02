@@ -476,8 +476,10 @@ A package manager for supercomputers, Linux, and macOS making installing scienti
   - [DWF](https://github.com/distributedweaknessfiling/dwflist)  
   "CVE plus one"
   - [MITRE](mitre)
-  - [ATT&CK](https://attack.mitre.org/)  
-  A globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
+    + [ATT&CK](https://attack.mitre.org/)  
+    A globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
+    + [D3FEND](https://d3fend.mitre.org/)  
+    A knowledge graph of cybersecurity countermeasures
   - [Shodan](https://www.shodan.io/)  
   Search engine for the internet of things
   - [DNS Dumpster](https://dnsdumpster.com/)  
