@@ -24,6 +24,12 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
   Pipe sound/audio from one program to another (sort of like soundflower)  
 
 
+* [AutoIt](https://www.autoitscript.com/)  
+Freeware BASIC-like scripting language for automating the Windows GUI
+
+
+
+
 * [Cockpit](https://cockpit-project.org/)  
 Easy-to-use and open web-based interface for servers
   - [Manage RPi with Cockpit](https://opensource.com/article/21/5/raspberry-pi-cockpit)  
