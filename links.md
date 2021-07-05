@@ -506,7 +506,7 @@ A package manager for supercomputers, Linux, and macOS making installing scienti
     + [Oledump.py](https://www.aldeid.com/wiki/Oledump) A program to analyze OLE files (Compound File Binary Format) [on GitHub](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py) and [SANS cheat sheet](https://isc.sans.edu/forums/diary/Video+oledump+Cheat+Sheet/27546/)
     + [NetworkX](https://networkx.org/) A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
     + [Threathunting with Splunk](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries) A nice collection of [Splunk code](https://github.com/inodee/threathunting-spl) to identify [beaconding](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/Detecting_Beaconing.md), suspicious [powershell](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/powershell_qualifiers.md) commands and more.
-    +
+    + [Bloodhound](https://github.com/BloodHoundAD/BloodHound) Uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment.
 
 
 * **Misc. Training (Network/IT/tech)**
