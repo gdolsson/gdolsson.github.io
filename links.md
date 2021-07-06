@@ -503,10 +503,11 @@ A package manager for supercomputers, Linux, and macOS making installing scienti
     + [Kibana](https://www.elastic.co/kibana) Displays logs stored in Elasticsearch, provides a UI for administration
     + [Beacon Dashboard](https://www.beaconcrm.org/guide/reporting/your-dashboard) Aggregates the network connections between two hosts
     + [NSRL](https://www.nist.gov/itl/ssd/software-quality-group/national-software-reference-library-nsrl/about-nsrl) A collection of digital signatures of known, traceable software applications and [examples for CLI usage](https://isc.sans.edu/forums/diary/Easy+Access+to+the+NIST+RDS+Database/27544/)
-    + [Oledump.py](https://www.aldeid.com/wiki/Oledump) A program to analyze OLE files (Compound File Binary Format) [on GitHub](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py) and [SANS cheat sheet](https://isc.sans.edu/forums/diary/Video+oledump+Cheat+Sheet/27546/)
-    + [NetworkX](https://networkx.org/) A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
-    + [Threathunting with Splunk](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries) A nice collection of [Splunk code](https://github.com/inodee/threathunting-spl) to identify [beaconding](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/Detecting_Beaconing.md), suspicious [powershell](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/powershell_qualifiers.md) commands and more.
-    + [Bloodhound](https://github.com/BloodHoundAD/BloodHound) Uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment.
+  - [Oledump.py](https://www.aldeid.com/wiki/Oledump) A program to analyze OLE files (Compound File Binary Format) [on GitHub](https://github.com/DidierStevens/DidierStevensSuite/blob/master/oledump.py) and [SANS cheat sheet](https://isc.sans.edu/forums/diary/Video+oledump+Cheat+Sheet/27546/)
+  - [NetworkX](https://networkx.org/) A Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
+  - [Threathunting with Splunk](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries) A nice collection of [Splunk code](https://github.com/inodee/threathunting-spl) to identify [beaconding](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/Detecting_Beaconing.md), suspicious [powershell](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/powershell_qualifiers.md) commands and more.
+  - [Bloodhound](https://github.com/BloodHoundAD/BloodHound) Uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment.
+  - [Volatility](https://www.volatilityfoundation.org/) Volatility and memory analysis framework
 
 
 * **Misc. Training (Network/IT/tech)**
