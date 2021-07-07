@@ -22,6 +22,8 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
   Free, open source, cross-platform audio software
   - [Jack Audio](https://jackaudio.org/)  
   Pipe sound/audio from one program to another (sort of like soundflower)  
+  - [Tenacity](https://github.com/tenacityteam/tenacity)  
+  Fork of [audacity](https://www.audacityteam.org/) removing all tracking/marketing inclusions made
 
 
 * [AutoIt](https://www.autoitscript.com/)  
