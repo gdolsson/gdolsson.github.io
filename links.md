@@ -30,6 +30,10 @@ The AMBER-Hub page seems to be a nice collection of things related to suing AMBE
 Freeware BASIC-like scripting language for automating the Windows GUI
 
 
+* [AzuraCast](https://www.azuracast.com/)  
+A free and open-source self hosted web radio management suite
+
+
 * [Bunch](https://bunchapp.co/)  
 Your new favourite Mac automation tool, using plain text files!
 
