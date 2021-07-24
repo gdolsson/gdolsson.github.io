@@ -145,6 +145,10 @@ Free online courses and resources to learn AI/ML/NLP
   Free and open-source 2D space trading and combat game  
 
 
+* [Gapminder](https://gapminder.org)  
+Fighting global misconceptions, including good [resources](https://gapminder.org/resources) aparently useful for plotting data 
+
+
 * [Git Hooks](https://githooks.com/)  
 Scripts that Git executes before or after events  
 
@@ -362,6 +366,10 @@ Free and open-source alternative to SPSS, cross-platform.
   - [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/) A JupyterLab distribution that runs entirely in the browser
   - [Compare plots](https://nbviewer.jupyter.org/github/dylanjcastillo/random/blob/main/cheatsheet_data_viz_python.ipynb)
   - [Checking with Mypy](https://hakibenita.com/python-mypy-exhaustive-checking) Static type checking, exhaustingly, with [Mypy](http://mypy-lang.org/)
+  - [Invent with python](inventwithpython.com) Free online books and resources
+  - [Scrapy](scarpy.org) Extract data from websites in a fast, simple and extensible way
+  - [Beautiful Soup](crummy.com/software/BeautifulSoup) Pull data from HTML and XML files
+  - [Pydantic](https://pydantic-docs.helpmanual.io/) Data validation and settings management
 
 
 * [KiCad EDA](https://www.kicad.org/)  
@@ -380,8 +388,15 @@ Self-hosted cloud service
 Nextflow - an Emerging Service for Workflow Management  
 
 
+* [Ransomwhere](ransomwhe.re)  
+Open and crowdsourced ransomware payment tracker
+
+
 * [Scribus](https://www.scribus.net/)  
 Open source desktop publishing software, layout design and more.  
+
+
+* [SELinux Explained](https://www.computernetworkingnotes.com/linux-tutorials/selinux-explained-with-examples-in-easy-language.html)
 
 
 * [Sketchup](https://www.sketchup.com/)  
@@ -513,13 +528,15 @@ A package manager for supercomputers, Linux, and macOS making installing scienti
   - [Threathunting with Splunk](https://github.com/inodee/threathunting-spl/tree/master/hunt-queries) A nice collection of [Splunk code](https://github.com/inodee/threathunting-spl) to identify [beaconding](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/Detecting_Beaconing.md), suspicious [powershell](https://github.com/inodee/threathunting-spl/blob/master/hunt-queries/powershell_qualifiers.md) commands and more.
   - [Bloodhound](https://github.com/BloodHoundAD/BloodHound) Uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment.
   - [Volatility](https://www.volatilityfoundation.org/) Volatility and memory analysis framework
-
+  - [Offensive WiFi Toolkit](github.com/clu3bot/owt) The most compact WiFi auditing tool that works on the command line
+  - [HTMX](htmx.org) allows aaccess to AJAX, CSS, Transistions and more directly in HTML using attributes to ease user interfae generation
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
     + [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
     + [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
   - [Active Countermeasures Malware of the Day](https://www.activecountermeasures.com/?s=malware+of+the+day) info, screenshots and pcaps
+  - [Vizualising Git concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
 
 
 * **Router Firmware**
