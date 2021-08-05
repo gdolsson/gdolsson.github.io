@@ -146,7 +146,7 @@ Free online courses and resources to learn AI/ML/NLP
 
 
 * [Gapminder](https://gapminder.org)  
-Fighting global misconceptions, including good [resources](https://gapminder.org/resources) aparently useful for plotting data 
+Fighting global misconceptions, including good [resources](https://gapminder.org/resources) aparently useful for plotting data
 
 
 * [Git Hooks](https://githooks.com/)  
@@ -370,6 +370,13 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Scrapy](scarpy.org) Extract data from websites in a fast, simple and extensible way
   - [Beautiful Soup](crummy.com/software/BeautifulSoup) Pull data from HTML and XML files
   - [Pydantic](https://pydantic-docs.helpmanual.io/) Data validation and settings management
+  - [CircuitPython](https://circuitpython.org/) Easiest way to program microcontrollers
+  - [MicroPython](https://micropython.org/) Python 3 programming language implementation including a small subset of the standard library optimised for  microcontrollers and in constrained environments
+  - [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
+  - [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
+  - [Little Automation Tools in Python](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
+  - [Building Desktop Apps with wxPython](https://talkpython.fm/episodes/show/326/building-desktop-apps-with-wxpython)
+
 
 
 * [KiCad EDA](https://www.kicad.org/)  
