@@ -497,6 +497,10 @@ The search engine that respects your privacy
 A package manager for supercomputers, Linux, and macOS making installing scientific software easy.
 
 
+* [XMLStarlet](https://xmlstar.sourceforge.io/)  
+XML command-line utilities, available through `brew install`
+
+
 * **Misc. Network/IT/tech**
   - [CVE](https://cve.mitre.org/)  
   Identification, definition and cataloguing of publicly disclosed cybersecurity vulnerabilities
