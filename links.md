@@ -540,7 +540,9 @@ XML command-line utilities, available through `brew install`
   - [Bloodhound](https://github.com/BloodHoundAD/BloodHound) Uses graph theory to reveal the hidden and often unintended relationships within an Active Directory environment.
   - [Volatility](https://www.volatilityfoundation.org/) Volatility and memory analysis framework
   - [Offensive WiFi Toolkit](github.com/clu3bot/owt) The most compact WiFi auditing tool that works on the command line
-  - [HTMX](htmx.org) allows aaccess to AJAX, CSS, Transistions and more directly in HTML using attributes to ease user interfae generation
+  - [HTMX](htmx.org) allows access to AJAX, CSS, Transitions and more directly in HTML using attributes to ease user interface generation
+  - [Autopsy Digital Forensics](https://www.autopsy.com/) The premier end-to-end open source digital forensics platform
+  - [InfoSec Write-ups](https://infosecwriteups.com/)
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
