@@ -376,6 +376,7 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
   - [Little Automation Tools in Python](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
   - [Building Desktop Apps with wxPython](https://talkpython.fm/episodes/show/326/building-desktop-apps-with-wxpython)
+  - [pyinstrument](https://github.com/joerick/pyinstrument) Call stack profiler for Python aka "why is my code slow". Instead of writing `python script.py`, type `pyinstrument script.py` outputting a colored summary showing where most of the time was spent after completion or `^C`.
 
 
 
@@ -457,7 +458,7 @@ Free and open source files synchronisation between two or more computers in real
 
 
 * [Tesseract](https://github.com/tesseract-ocr)  
-Tesseract, free and open sourve OCR software. A "[tutorial](https://guides.nyu.edu/c.php?g=884390&p=6355032)" of sorts.  
+Tesseract, free and open source OCR software. A "[tutorial](https://guides.nyu.edu/c.php?g=884390&p=6355032)" of sorts. This is also available as a `brew install`
 
 
 * [tusk](https://www.tusk.page/)  
