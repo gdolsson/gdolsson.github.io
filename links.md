@@ -506,7 +506,7 @@ XML command-line utilities, available through `brew install`
   - [CVE](https://cve.mitre.org/)  
   Identification, definition and cataloguing of publicly disclosed cybersecurity vulnerabilities
   - [DWF](https://github.com/distributedweaknessfiling/dwflist)  
-  "CVE plus one"
+  "CVE plus one". This project [apparently dissolved](https://opensourcesecurity.io/2021/07/15/the-future-of-dwf/) by being engulfed by the [Universal Vulnerability Identifier](https://universalvulnerabilityidentifier.org/) project.
   - [MITRE](mitre)
     + [ATT&CK](https://attack.mitre.org/)  
     A globally-accessible knowledge base of adversary tactics and techniques based on real-world observations
@@ -544,6 +544,7 @@ XML command-line utilities, available through `brew install`
   - [HTMX](htmx.org) allows access to AJAX, CSS, Transitions and more directly in HTML using attributes to ease user interface generation
   - [Autopsy Digital Forensics](https://www.autopsy.com/) The premier end-to-end open source digital forensics platform
   - [InfoSec Write-ups](https://infosecwriteups.com/)
+  - [Universal Vulnerability Identifier](https://universalvulnerabilityidentifier.org/), more of a community driven and open CVE system 
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
