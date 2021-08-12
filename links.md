@@ -415,6 +415,10 @@ Online 3D designer, free for online personal use.
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.  
 
 
+* [SoundsLikeX](https://songslikex.com/)  
+Playlist generator for Spotify
+
+
 * [Synergy](https://symless.com/synergy)  
 Control multiple computers using only one keyboard and mouse
 
@@ -544,7 +548,7 @@ XML command-line utilities, available through `brew install`
   - [HTMX](htmx.org) allows access to AJAX, CSS, Transitions and more directly in HTML using attributes to ease user interface generation
   - [Autopsy Digital Forensics](https://www.autopsy.com/) The premier end-to-end open source digital forensics platform
   - [InfoSec Write-ups](https://infosecwriteups.com/)
-  - [Universal Vulnerability Identifier](https://universalvulnerabilityidentifier.org/), more of a community driven and open CVE system 
+  - [Universal Vulnerability Identifier](https://universalvulnerabilityidentifier.org/), more of a community driven and open CVE system
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
