@@ -377,6 +377,10 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Little Automation Tools in Python](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
   - [Building Desktop Apps with wxPython](https://talkpython.fm/episodes/show/326/building-desktop-apps-with-wxpython)
   - [pyinstrument](https://github.com/joerick/pyinstrument) Call stack profiler for Python aka "why is my code slow". Instead of writing `python script.py`, type `pyinstrument script.py` outputting a colored summary showing where most of the time was spent after completion or `^C`.
+  - [Piccolo](https://piccolo-orm.com/) A fast, async ORM (object.relational mapping) for Python, that's easy to learn ([GitHub](https://github.com/piccolo-orm/piccolo/))
+  - [mktestdocs](https://github.com/koaning/mktestdocs) Run pytest against markdown files/docstrings
+  - [FastAPI](https://fastapi.tiangolo.com/) A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints
+    + [FastAPI and Rich tracebacks in development](https://blog.hay-kot.dev/fastapi-and-rich-tracebacks-in-development/)
 
 
 
