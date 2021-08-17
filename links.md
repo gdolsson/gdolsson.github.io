@@ -268,6 +268,10 @@ Free; no downloads; no personal data collection; no sign-in bringing video from 
 Open Vulnerability Assessment Scanner  
 
 
+* [OpenStreetMap](https://www.openstreetmap.org/)  
+A map of the world, created by the community which is free to use and under open license.
+
+
 * OSs
   - [Whonix](https://www.whonix.org/)  
   Software That Can Anonymize Everything You Do Online
