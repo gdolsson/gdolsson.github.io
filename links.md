@@ -393,6 +393,9 @@ Free and open-source alternative to SPSS, cross-platform.
   - [mktestdocs](https://github.com/koaning/mktestdocs) Run pytest against markdown files/docstrings
   - [FastAPI](https://fastapi.tiangolo.com/) A modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints
     + [FastAPI and Rich tracebacks in development](https://blog.hay-kot.dev/fastapi-and-rich-tracebacks-in-development/)
+  - [Pint](https://pint.readthedocs.io/en/stable/) Python package to define, operate and manipulate physical quantities: the product of a numerical value and a unit of measurement
+  - [unyt](https://pypi.org/project/unyt/) A package for handling numpy arrays with units
+  - [Pendulum](https://pendulum.eustace.io/) Drop-in replacement for the standard datetime class, manipulate datetimes with ease
 
 
 
