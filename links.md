@@ -116,6 +116,10 @@ Curated list of book and reviews, excellent source of interresting reading.
   Cross platform database with minimal footprint  
 
 
+* [Downdetector](https://downdetector.se/)  
+Övervakning av problem och driftstörningar i realtid
+
+
 * [DuckDuckGo](https://duckduckgo.com)  
 Search engine which respects your privacy  
 
