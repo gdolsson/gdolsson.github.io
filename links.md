@@ -249,6 +249,8 @@ Reference guide that explains how to use Markdown
 * [Nature Careers Funding](https://naturecareersfunding.com/)  
   Seems like a nice aggregation of information regarding funding options  
 
+* [Nestflix](https://nestflix.fun/) "Nested" films and shows, movie in a move, meta content, a parody site of fictional series.
+
 * [NextDNS](nextdns.io)  
   The new firewall for the modern internet, like a "pihole" in the cloud  
 
@@ -281,12 +283,10 @@ A map of the world, created by the community which is free to use and under open
 
 
 * OSs
-  - [Whonix](https://www.whonix.org/)  
-  Software That Can Anonymize Everything You Do Online
-  - [QubesOS](https://www.qubes-os.org/)  
-  A reasonably secure operating system
-  - [Ventoy](https://github.com/ventoy/Ventoy)  
-  An open source tool to create bootable USB drive with multiple OSs.  
+  - [Whonix](https://www.whonix.org/) Software That Can Anonymize Everything You Do Online
+  - [QubesOS](https://www.qubes-os.org/) A reasonably secure operating system
+  - [Ventoy](https://github.com/ventoy/Ventoy) An open source tool to create bootable USB drive with multiple OSs
+  - [SerenityOS](http://serenityos.org/) A graphical Unix-like operating system, '90s user interfaces with a custom Unix-like core ([GitHub](https://github.com/SerenityOS/serenity))
 
 
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
