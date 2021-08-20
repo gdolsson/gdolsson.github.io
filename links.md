@@ -573,8 +573,9 @@ XML command-line utilities, available through `brew install`
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
     + [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
     + [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
-  - [Active Countermeasures Malware of the Day](https://www.activecountermeasures.com/?s=malware+of+the+day) info, screenshots and pcaps
+  - [Active Countermeasures Malware of the Day](https://www.activecountermeasures.com/?s=malware+of+the+day) Info, screenshots and pcaps
   - [Vizualising Git concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
+  - [Reverse Engineering for Beginners](https://www.begin.re/) Free online resource for getting started with reverse engineering
 
 
 * **Router Firmware**
