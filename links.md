@@ -568,6 +568,8 @@ XML command-line utilities, available through `brew install`
   - [Autopsy Digital Forensics](https://www.autopsy.com/) The premier end-to-end open source digital forensics platform
   - [InfoSec Write-ups](https://infosecwriteups.com/)
   - [Universal Vulnerability Identifier](https://universalvulnerabilityidentifier.org/), more of a community driven and open CVE system
+  - [incoder.io](https://uncoder.io/) The online Sigma translation engine for SIEM saved searches, filters, queries, API requests, which helps SOC Analysts, Threat Hunters, and Detection Engineers to translate detections on the fly.
+  - [Sigma](https://github.com/SigmaHQ/sigma) generic and open signature format that allows you to describe relevant log events in a straightforward manner.
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
