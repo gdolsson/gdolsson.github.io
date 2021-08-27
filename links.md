@@ -398,6 +398,7 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Pint](https://pint.readthedocs.io/en/stable/) Python package to define, operate and manipulate physical quantities: the product of a numerical value and a unit of measurement
   - [unyt](https://pypi.org/project/unyt/) A package for handling numpy arrays with units
   - [Pendulum](https://pendulum.eustace.io/) Drop-in replacement for the standard datetime class, manipulate datetimes with ease
+  - [WakePy](https://github.com/mikeckennedy/wakepy) Simple cross-platform wakelock written in Python. Keeps your computer from going to sleep
 
 
 
@@ -572,6 +573,7 @@ XML command-line utilities, available through `brew install`
   - [Universal Vulnerability Identifier](https://universalvulnerabilityidentifier.org/), more of a community driven and open CVE system
   - [incoder.io](https://uncoder.io/) The online Sigma translation engine for SIEM saved searches, filters, queries, API requests, which helps SOC Analysts, Threat Hunters, and Detection Engineers to translate detections on the fly.
   - [Sigma](https://github.com/SigmaHQ/sigma) generic and open signature format that allows you to describe relevant log events in a straightforward manner.
+  - [GoAccess](https://goaccess.io/) Open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
