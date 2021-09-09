@@ -399,6 +399,9 @@ Free and open-source alternative to SPSS, cross-platform.
   - [unyt](https://pypi.org/project/unyt/) A package for handling numpy arrays with units
   - [Pendulum](https://pendulum.eustace.io/) Drop-in replacement for the standard datetime class, manipulate datetimes with ease
   - [WakePy](https://github.com/mikeckennedy/wakepy) Simple cross-platform wakelock written in Python. Keeps your computer from going to sleep
+  - [jc](https://github.com/kellyjonbrazil/jc) JSONifies the output of many CLI tools and file-types for easier parsing in scripts
+  - [direnv](https://hynek.me/til/python-local-venvs/) Python project-local virtalenv management
+  - [fickling](https://github.com/trailofbits/fickling) A decompiler, static analyzer, and bytecode rewriter for Python [pickle](https://docs.python.org/3/library/pickle.html) object serializations
 
 
 
@@ -574,6 +577,11 @@ XML command-line utilities, available through `brew install`
   - [incoder.io](https://uncoder.io/) The online Sigma translation engine for SIEM saved searches, filters, queries, API requests, which helps SOC Analysts, Threat Hunters, and Detection Engineers to translate detections on the fly.
   - [Sigma](https://github.com/SigmaHQ/sigma) generic and open signature format that allows you to describe relevant log events in a straightforward manner.
   - [GoAccess](https://goaccess.io/) Open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser
+  - [Chainsaw](https://github.com/countercept/chainsaw) Rapidly search and hunt through Windows event logs
+  - PDF Malware analysis [part 1](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/analyzing-pdf-malware-part-1/), [part 2](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/analyzing-pdf-malware-part-2/) and parts 3 [A](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/analyzing-pdf-malware-part-3a/), [B](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/analyzing-pdf-malware-part-3b/), [C](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/analyzing-pdf-malware-part-3c/) and [D](https://www.trustwave.com/en-us/resources/blogs/spiderlabs-blog/analyzing-pdf-malware-part-3d/)
+  - [REMnux](https://docs.remnux.org/) A Linux Toolkit for Malware Analysis
+  - [Fibratus](https://github.com/rabbitstack/fibratus) A modern tool for the Windows kernel exploration and observability
+  - [reko](https://github.com/uxmal/reko) A general purpose decompiler
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
