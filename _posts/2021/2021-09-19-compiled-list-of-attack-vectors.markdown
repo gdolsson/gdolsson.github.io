@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Compiled list of initial attack vectors"
-date: "2021-09-19 14:221"
+date: "2021-09-19 14:29"
 ---
 From an article by [bleeping computer](https://www.bleepingcomputer.com/news/security/researchers-compile-list-of-vulnerabilities-abused-by-ransomware-gangs/) comes a nice compilation of attack methods used to gain initial access by different ransomware actors. The list was compiled by different contributers on twitter.
 
