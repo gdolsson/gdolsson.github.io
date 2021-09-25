@@ -582,6 +582,7 @@ XML command-line utilities, available through `brew install`
   - [REMnux](https://docs.remnux.org/) A Linux Toolkit for Malware Analysis
   - [Fibratus](https://github.com/rabbitstack/fibratus) A modern tool for the Windows kernel exploration and observability
   - [reko](https://github.com/uxmal/reko) A general purpose decompiler
+  - [CyberChef](https://gchq.github.io/CyberChef/) A simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser. Also available on [GitHub](https://github.com/gchq/CyberChef)
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
