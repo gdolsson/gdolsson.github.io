@@ -555,7 +555,7 @@ XML command-line utilities, available through `brew install`
   A new, free and open source way to browse, store and archive logs. Can handle [Wireshark](https://www.wireshark.org/) pcap files and
   - [Zeek](https://www.zeek.org/) (formerly Bro) logs.
   - [nzyme](https://www.nzyme.org/)  
-  Free and open WiFi defence system that detects and physically locates threats using an easy to build and deploy sensor system
+  Free and open WiFi defence system that detects and physically locates threats using an easy to build and deploy sensor system. Technical segment on [security weekly](https://securityweekly.com/shows/nzyme-paul-asadoorian-larry-pesce-psw-711/) with [slides available](https://securityweekly.com/wp-content/uploads/2021/09/Nzyme-TechSegment-Sept2021.pdf).
   - [Kismet](https://www.kismetwireless.net/)  
   Wireless network and device detector, sniffer, wardriving tool, and WIDS framework.
   - [Beaker](https://github.com/activecm/BeaKer) Visualize Microsoft Sysmon network data
@@ -583,6 +583,10 @@ XML command-line utilities, available through `brew install`
   - [Fibratus](https://github.com/rabbitstack/fibratus) A modern tool for the Windows kernel exploration and observability
   - [reko](https://github.com/uxmal/reko) A general purpose decompiler
   - [CyberChef](https://gchq.github.io/CyberChef/) A simple, intuitive web app for carrying out all manner of "cyber" operations within a web browser. Also available on [GitHub](https://github.com/gchq/CyberChef)
+  - [DHield API](https://isc.sans.edu/api/) SANS ISC collects data about malicious activity from  the Internet, cataloges and summarizes it for detevtion and discovery
+  - [Alienvault OTX](https://otx.alienvault.com/) "The World’s First Truly Open Threat Intelligence Community"
+  - [Velociraptor](https://www.velocidex.com/) Free and open source endpoint interrogation. Available [video material](https://www.velocidex.com/docs/presentations/linux.conf.au.2020/) and [security weekly](https://securityweekly.com/shows/velociraptor-digging-deeper-mike-cohen-wes-lambert-psw-711/) presentation
+  - [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) A Collection of Event ID resources useful for Digital Forensics and Incident Response
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
