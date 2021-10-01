@@ -587,6 +587,8 @@ XML command-line utilities, available through `brew install`
   - [Alienvault OTX](https://otx.alienvault.com/) "The World’s First Truly Open Threat Intelligence Community"
   - [Velociraptor](https://www.velocidex.com/) Free and open source endpoint interrogation. Available [video material](https://www.velocidex.com/docs/presentations/linux.conf.au.2020/) and [security weekly](https://securityweekly.com/shows/velociraptor-digging-deeper-mike-cohen-wes-lambert-psw-711/) presentation
   - [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) A Collection of Event ID resources useful for Digital Forensics and Incident Response
+  - [Reconky](https://www.kitploit.com/2021/09/reconky-great-content-discovery-bash.html) Content Discovery Bash Script
+  
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
@@ -595,6 +597,7 @@ XML command-line utilities, available through `brew install`
   - [Active Countermeasures Malware of the Day](https://www.activecountermeasures.com/?s=malware+of+the+day) Info, screenshots and pcaps
   - [Vizualising Git concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
   - [Reverse Engineering for Beginners](https://www.begin.re/) Free online resource for getting started with reverse engineering
+  - [Network traffic analysis using wireshark](https://cybersecurity.att.com/blogs/security-essentials/network-traffic-analysis-using-wireshark) Blogpost at AT&T
 
 
 * **Router Firmware**
