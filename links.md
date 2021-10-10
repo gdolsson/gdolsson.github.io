@@ -588,6 +588,13 @@ XML command-line utilities, available through `brew install`
   - [Velociraptor](https://www.velocidex.com/) Free and open source endpoint interrogation. Available [video material](https://www.velocidex.com/docs/presentations/linux.conf.au.2020/) and [security weekly](https://securityweekly.com/shows/velociraptor-digging-deeper-mike-cohen-wes-lambert-psw-711/) presentation
   - [Awesome Event IDs](https://github.com/stuhli/awesome-event-ids) A Collection of Event ID resources useful for Digital Forensics and Incident Response
   - [Reconky](https://www.kitploit.com/2021/09/reconky-great-content-discovery-bash.html) Content Discovery Bash Script
+  - [Kodex](https://heykodex.com/) A privacy & security engineering platform that helps you to protect personal and sensitive data, with the [Community Edition (CE)](https://heykodex.com/docs/installation)
+  - [WebStor](https://github.com/RossGeerlings/webstor) Quick website enumeration to query for insecurities and more.
+  - [pFuzz](https://github.com/RedSection/pFuzz) WAF bypasser
+  - [Scrummage](https://github.com/matamorphosis/Scrummage) An OSINT tool that centralises search functionality from powerful, yet simple OSINT sites
+  - [Attack Surface Framework (ASW)](https://github.com/vmware-labs/attack-surface-framework) Map internal and external attack surface
+  - [Viper](https://github.com/FunnyWolf/Viper/) GUI penetration tool, which modularizes and weaponizes the tactics and technologies commonly used in the process of Intranet penetration
+  - [GitOops](https://github.com/ovotech/gitoops) Help attackers and defenders identify lateral movement and priveledge escalation paths in GitHub
   
 
 * **Misc. Training (Network/IT/tech)**
