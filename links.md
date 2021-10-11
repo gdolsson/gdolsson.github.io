@@ -595,6 +595,11 @@ XML command-line utilities, available through `brew install`
   - [Attack Surface Framework (ASW)](https://github.com/vmware-labs/attack-surface-framework) Map internal and external attack surface
   - [Viper](https://github.com/FunnyWolf/Viper/) GUI penetration tool, which modularizes and weaponizes the tactics and technologies commonly used in the process of Intranet penetration
   - [GitOops](https://github.com/ovotech/gitoops) Help attackers and defenders identify lateral movement and priveledge escalation paths in GitHub
+  - [Qu1cksc0pe](https://github.com/CYB3RMX/Qu1cksc0pe) Static analysis of Windows, Linux, OSX executables and APK files.
+  - [FUSE](https://github.com/WSP-LAB/FUSE) Identify Unrestricted Executable File Upload (UEFU) vulnerabilities
+  - [olevba](https://github.com/decalage2/oletools/wiki/olevba) A script to parse OLE and OpenXML files such as MS Office documents (e.g. Word, Excel), to detect VBA Macros, extract their source code in clear text
+  - [Needle](https://whynotsecurity.com/blog/needle/) A tool to find Windows registry files in a blob of data
+  - [Sorting by IP](https://isc.sans.edu/diary/rss/27916)
   
 
 * **Misc. Training (Network/IT/tech)**
@@ -605,6 +610,8 @@ XML command-line utilities, available through `brew install`
   - [Vizualising Git concepts with D3](https://onlywei.github.io/explain-git-with-d3/)
   - [Reverse Engineering for Beginners](https://www.begin.re/) Free online resource for getting started with reverse engineering
   - [Network traffic analysis using wireshark](https://cybersecurity.att.com/blogs/security-essentials/network-traffic-analysis-using-wireshark) Blogpost at AT&T
+  - [Threat hunting - Clustering events](https://blog.talosintelligence.com/2021/10/threat-hunting-in-large-datasets-by.html)
+  - [Quick and Dirty Linux Forensics](https://clo.ng/blog/quick_and_dirty_linux_forensics/)
 
 
 * **Router Firmware**
