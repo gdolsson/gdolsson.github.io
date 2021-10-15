@@ -600,6 +600,8 @@ XML command-line utilities, available through `brew install`
   - [olevba](https://github.com/decalage2/oletools/wiki/olevba) A script to parse OLE and OpenXML files such as MS Office documents (e.g. Word, Excel), to detect VBA Macros, extract their source code in clear text
   - [Needle](https://whynotsecurity.com/blog/needle/) A tool to find Windows registry files in a blob of data
   - [Sorting by IP](https://isc.sans.edu/diary/rss/27916)
+  - [LinuxCatScale](https://github.com/FSecureLABS/LinuxCatScale) Bash script that uses live of the land tools to collect extensive data from Linux based hosts
+  - [WWWGrep](https://github.com/OWASP/wwwgrep) Rapid search “grepping” mechanism examining HTML elements by type and permits single, multiple and recursive searches
   
 
 * **Misc. Training (Network/IT/tech)**
