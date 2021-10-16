@@ -607,6 +607,7 @@ XML command-line utilities, available through `brew install`
   - [Sublist3r](https://github.com/aboul3la/Sublist3r) A python tool designed to enumerate subdomains of websites using OSINT.
   - [DNSRecon](https://www.kali.org/tools/dnsrecon/) Subdomain search in Kali
   - [Amass](https://github.com/OWASP/Amass) The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques
+  - [Ultimate Windows Security](https://www.ultimatewindowssecurity.com) A nice resource for windows related security auditing, inkliding [security log events](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
