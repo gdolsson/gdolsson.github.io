@@ -276,6 +276,9 @@ Free and open source software for video recording and live streaming
 Free; no downloads; no personal data collection; no sign-in bringing video from any source into the OBS video stream. Basically an alternative to zoom.  
 
 
+* [OpenCore Legacy Patcher](https://github.com/dortania/Opencore-Legacy-Patcher) Install unsuported versions of macOS on old hardware
+
+
 * [OpenVAS](https://openvas.org/)  
 Open Vulnerability Assessment Scanner  
 
