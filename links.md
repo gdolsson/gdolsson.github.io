@@ -602,7 +602,11 @@ XML command-line utilities, available through `brew install`
   - [Sorting by IP](https://isc.sans.edu/diary/rss/27916)
   - [LinuxCatScale](https://github.com/FSecureLABS/LinuxCatScale) Bash script that uses live of the land tools to collect extensive data from Linux based hosts
   - [WWWGrep](https://github.com/OWASP/wwwgrep) Rapid search “grepping” mechanism examining HTML elements by type and permits single, multiple and recursive searches
-  
+  - [NMAPPER](https://www.nmmapper.com/) NMAP online, sort of, and other things
+  - [Spyse](https://spyse.com) Network discovery and enumeration
+  - [Sublist3r](https://github.com/aboul3la/Sublist3r) A python tool designed to enumerate subdomains of websites using OSINT.
+  - [DNSRecon](https://www.kali.org/tools/dnsrecon/) Subdomain search in Kali
+  - [Amass](https://github.com/OWASP/Amass) The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
