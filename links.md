@@ -577,7 +577,7 @@ XML command-line utilities, available through `brew install`
   - [Autopsy Digital Forensics](https://www.autopsy.com/) The premier end-to-end open source digital forensics platform
   - [InfoSec Write-ups](https://infosecwriteups.com/)
   - [Universal Vulnerability Identifier](https://universalvulnerabilityidentifier.org/), more of a community driven and open CVE system
-  - [incoder.io](https://uncoder.io/) The online Sigma translation engine for SIEM saved searches, filters, queries, API requests, which helps SOC Analysts, Threat Hunters, and Detection Engineers to translate detections on the fly.
+  - [uncoder.io](https://uncoder.io/) The online Sigma translation engine for SIEM saved searches, filters, queries, API requests, which helps SOC Analysts, Threat Hunters, and Detection Engineers to translate detections on the fly.
   - [Sigma](https://github.com/SigmaHQ/sigma) generic and open signature format that allows you to describe relevant log events in a straightforward manner.
   - [GoAccess](https://goaccess.io/) Open source real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser
   - [Chainsaw](https://github.com/countercept/chainsaw) Rapidly search and hunt through Windows event logs
@@ -611,6 +611,9 @@ XML command-line utilities, available through `brew install`
   - [DNSRecon](https://www.kali.org/tools/dnsrecon/) Subdomain search in Kali
   - [Amass](https://github.com/OWASP/Amass) The OWASP Amass Project performs network mapping of attack surfaces and external asset discovery using open source information gathering and active reconnaissance techniques
   - [Ultimate Windows Security](https://www.ultimatewindowssecurity.com) A nice resource for windows related security auditing, inkliding [security log events](https://www.ultimatewindowssecurity.com/securitylog/encyclopedia/)
+  - [OSQuery](https://www.osquery.io/) Endpoint visibility, query your devices like a database
+  - [Fleet](https://fleetdm.com/) Open source device management, quickly deploy [osquery](https://www.osquery.io/) and scale your fleet
+  - [SOCPrime](https://socprime.com) Has some nice tools and resources
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
