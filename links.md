@@ -614,6 +614,11 @@ XML command-line utilities, available through `brew install`
   - [OSQuery](https://www.osquery.io/) Endpoint visibility, query your devices like a database
   - [Fleet](https://fleetdm.com/) Open source device management, quickly deploy [osquery](https://www.osquery.io/) and scale your fleet
   - [SOCPrime](https://socprime.com) Has some nice tools and resources
+  - [NetworKit](https://networkit.github.io/) Large-scale network analysis
+  - [Karma V2](https://github.com/Dheerajmadhukar/karma_v2) Passive OSINT automated reconnissance framework
+  - [Packet-Sniffer](https://github.com/EONRaider/Packet-Sniffer) Python 3 Network Packet Sniffer
+  - [FaPro](https://github.com/fofapro/fapro) Free, Cross-platform, Single-file mass network protocol server simulator
+  - [Limelighter](https://github.com/Tylous/Limelighter) A tool which creates a spoof code signing certificates and sign binaries and DLL files
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
