@@ -619,6 +619,8 @@ XML command-line utilities, available through `brew install`
   - [Packet-Sniffer](https://github.com/EONRaider/Packet-Sniffer) Python 3 Network Packet Sniffer
   - [FaPro](https://github.com/fofapro/fapro) Free, Cross-platform, Single-file mass network protocol server simulator
   - [Limelighter](https://github.com/Tylous/Limelighter) A tool which creates a spoof code signing certificates and sign binaries and DLL files
+  - [pcap-stats.py](https://github.com/activecm/pcap-stats/) Reads packets from a network interface or pcap file and reports back on both the number of packets and the total number of bytes they contain
+  - [ntfstool](https://github.com/thewhiteninja/ntfstool) Forensic tool focused on NTFS volumes
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
