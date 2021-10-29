@@ -621,6 +621,9 @@ XML command-line utilities, available through `brew install`
   - [Limelighter](https://github.com/Tylous/Limelighter) A tool which creates a spoof code signing certificates and sign binaries and DLL files
   - [pcap-stats.py](https://github.com/activecm/pcap-stats/) Reads packets from a network interface or pcap file and reports back on both the number of packets and the total number of bytes they contain
   - [ntfstool](https://github.com/thewhiteninja/ntfstool) Forensic tool focused on NTFS volumes
+  - [PEAS-ng](https://github.com/carlospolop/PEASS-ng) Privilege Escalation Awesome Scripts SUITE new generation
+  - [base64dump.py](https://blog.didierstevens.com/2021/09/29/update-base64dump-py-version-0-0-17/)
+  - [zipdump.py](https://blog.didierstevens.com/2020/12/25/update-zipdump-py-version-0-0-21/)
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
