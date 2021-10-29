@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Filtering for Performane"
+title: "Filtering for Performance"
 date: "2021-10-29 07:41"
 ---
 [Active countermeasures posted a nice writeup](https://www.activecountermeasures.com/filtering-out-high-volume-traffic/) regarding optimization of the packet capturing process and how filtering out trafic helps to keep up with high colume traffic.
