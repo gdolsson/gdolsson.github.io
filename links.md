@@ -292,6 +292,7 @@ A map of the world, created by the community which is free to use and under open
   - [QubesOS](https://www.qubes-os.org/) A reasonably secure operating system
   - [Ventoy](https://github.com/ventoy/Ventoy) An open source tool to create bootable USB drive with multiple OSs
   - [SerenityOS](http://serenityos.org/) A graphical Unix-like operating system, '90s user interfaces with a custom Unix-like core ([GitHub](https://github.com/SerenityOS/serenity))
+  - [DragonOS](https://sourceforge.net/projects/dragonos-10/) Debian Buster based operating system for anyone interested in software defined radios
 
 
 * [PACKMOL](http://m3g.iqm.unicamp.br/packmol/home.shtml)  
@@ -624,6 +625,8 @@ XML command-line utilities, available through `brew install`
   - [PEAS-ng](https://github.com/carlospolop/PEASS-ng) Privilege Escalation Awesome Scripts SUITE new generation
   - [base64dump.py](https://blog.didierstevens.com/2021/09/29/update-base64dump-py-version-0-0-17/)
   - [zipdump.py](https://blog.didierstevens.com/2020/12/25/update-zipdump-py-version-0-0-21/)
+  - [WebDiscover](https://github.com/V1n1v131r4/webdiscover) Automate the web enumeration process and search for exploits and vulns
+  - [KeeWeb](https://keeweb.info/) Free cross-platform password manager compatible with KeePass
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
