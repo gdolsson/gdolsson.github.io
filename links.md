@@ -406,6 +406,7 @@ Free and open-source alternative to SPSS, cross-platform.
   - [jc](https://github.com/kellyjonbrazil/jc) JSONifies the output of many CLI tools and file-types for easier parsing in scripts
   - [direnv](https://hynek.me/til/python-local-venvs/) Python project-local virtalenv management
   - [fickling](https://github.com/trailofbits/fickling) A decompiler, static analyzer, and bytecode rewriter for Python [pickle](https://docs.python.org/3/library/pickle.html) object serializations
+  - [Mito](https://trymito.io) Python data anlysis in seconds, python with the ease of excel in jupyther
 
 
 
@@ -627,6 +628,9 @@ XML command-line utilities, available through `brew install`
   - [zipdump.py](https://blog.didierstevens.com/2020/12/25/update-zipdump-py-version-0-0-21/)
   - [WebDiscover](https://github.com/V1n1v131r4/webdiscover) Automate the web enumeration process and search for exploits and vulns
   - [KeeWeb](https://keeweb.info/) Free cross-platform password manager compatible with KeePass
+  - [ADLab](https://github.com/xbufu/ADLab) Automate the deployment of an Active Directory lab for practicing internal penetration testing
+  - [DDoSify](https://github.com/ddosify/ddosify) High-performance load testing tool
+  - [PCPARTPICKER](https://pcpartpicker.com/list/) Help build your PC
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
@@ -638,6 +642,8 @@ XML command-line utilities, available through `brew install`
   - [Network traffic analysis using wireshark](https://cybersecurity.att.com/blogs/security-essentials/network-traffic-analysis-using-wireshark) Blogpost at AT&T
   - [Threat hunting - Clustering events](https://blog.talosintelligence.com/2021/10/threat-hunting-in-large-datasets-by.html)
   - [Quick and Dirty Linux Forensics](https://clo.ng/blog/quick_and_dirty_linux_forensics/)
+  - [How to learn unix tools](https://blog.nindalf.com/posts/how-to-learn-unix-tools/)
+  - [REMnux Usage Tips for Malware Analysis on Linux](https://zeltser.com/remnux-malware-analysis-tips/)
 
 
 * **Router Firmware**
