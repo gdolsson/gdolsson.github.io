@@ -644,6 +644,7 @@ XML command-line utilities, available through `brew install`
   - [Quick and Dirty Linux Forensics](https://clo.ng/blog/quick_and_dirty_linux_forensics/)
   - [How to learn unix tools](https://blog.nindalf.com/posts/how-to-learn-unix-tools/)
   - [REMnux Usage Tips for Malware Analysis on Linux](https://zeltser.com/remnux-malware-analysis-tips/)
+  - [https://beginninghacking.net/](https://beginninghacking.net/) Some nice resources including the "Try Hack Me" challanges
 
 
 * **Router Firmware**
