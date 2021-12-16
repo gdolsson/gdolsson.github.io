@@ -407,8 +407,9 @@ Free and open-source alternative to SPSS, cross-platform.
   - [direnv](https://hynek.me/til/python-local-venvs/) Python project-local virtalenv management
   - [fickling](https://github.com/trailofbits/fickling) A decompiler, static analyzer, and bytecode rewriter for Python [pickle](https://docs.python.org/3/library/pickle.html) object serializations
   - [Mito](https://trymito.io) Python data anlysis in seconds, python with the ease of excel in jupyther
-
-
+  - [pip-audit](github.com/trailofbits/pip-audit) Audit Python environments and dependency trees for known vulnerbilities
+  - [napari](https://napari.org/) Multi-dimensional image viewer for python
+  
 
 * [KiCad EDA](https://www.kicad.org/)  
 A Cross Platform and Open Source Electronics Design Automation Suite.  
@@ -631,6 +632,13 @@ XML command-line utilities, available through `brew install`
   - [ADLab](https://github.com/xbufu/ADLab) Automate the deployment of an Active Directory lab for practicing internal penetration testing
   - [DDoSify](https://github.com/ddosify/ddosify) High-performance load testing tool
   - [PCPARTPICKER](https://pcpartpicker.com/list/) Help build your PC
+  - [DShield](https://dshield.org/) same as [SANS ISC](https://isc.sans.edu/)
+  - [Glances](https://nicolargo.github.io/glances/) Cross-platform system monitoring tool written in Python
+  - [TipTop](https://github.com/nschloe/tiptop) Command-line system monitoring tool in the spirit of top
+  - [Joe Sandbox](https://www.joesandbox.com/#windows) Detects and analyzes potential malicious files and URLs on Windows, Android, Mac OS, Linux, and iOS for suspicious activities
+  - [Syft](https://github.com/anchore/syft) A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems
+  - [Grype](https://github.com/anchore/grype) A vulnerability scanner for container images and filesystems
+  
 
 * **Misc. Training (Network/IT/tech)**
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
@@ -645,7 +653,9 @@ XML command-line utilities, available through `brew install`
   - [How to learn unix tools](https://blog.nindalf.com/posts/how-to-learn-unix-tools/)
   - [REMnux Usage Tips for Malware Analysis on Linux](https://zeltser.com/remnux-malware-analysis-tips/)
   - [https://beginninghacking.net/](https://beginninghacking.net/) Some nice resources including the "Try Hack Me" challanges
-
+  - [Python Tutor](https://pythontutor.com/) Understanding what happens as the computer runs each line of code
+  - [Pandas Tutor](https://pandastutor.com/) Visualizes how Python code transforms dataframes
+  - [Live Project](https://liveproject.manning.com/) Gives you the opportunity to learn new skills by completing real-world challenges in your local development environment
 
 * **Router Firmware**
   - [ASUSWRT-MERLIN](https://www.asuswrt-merlin.net/)
