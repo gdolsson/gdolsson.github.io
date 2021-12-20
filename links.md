@@ -638,6 +638,7 @@ XML command-line utilities, available through `brew install`
   - [Joe Sandbox](https://www.joesandbox.com/#windows) Detects and analyzes potential malicious files and URLs on Windows, Android, Mac OS, Linux, and iOS for suspicious activities
   - [Syft](https://github.com/anchore/syft) A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems
   - [Grype](https://github.com/anchore/grype) A vulnerability scanner for container images and filesystems
+  - [FLOSS](https://www.fireeye.com/services/freeware/floss.html) FireEye Labs Obfuscated String Solver (FLOSS) is an open source tool that automatically detects, extracts, and decodes obfuscated strings in Windows Portable Executable (PE) files.
   
 
 * **Misc. Training (Network/IT/tech)**
