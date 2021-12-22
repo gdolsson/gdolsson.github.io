@@ -639,9 +639,17 @@ XML command-line utilities, available through `brew install`
   - [Syft](https://github.com/anchore/syft) A CLI tool and Go library for generating a Software Bill of Materials (SBOM) from container images and filesystems
   - [Grype](https://github.com/anchore/grype) A vulnerability scanner for container images and filesystems
   - [FLOSS](https://www.fireeye.com/services/freeware/floss.html) FireEye Labs Obfuscated String Solver (FLOSS) is an open source tool that automatically detects, extracts, and decodes obfuscated strings in Windows Portable Executable (PE) files.
-  
+  - [Filesec.io](https://filesec.io/) Stay up-to-date with the latest file extensions being used by attackers
+  - [peframe](https://github.com/guelfoweb/peframe) Perform static analysis on Portable Executable malware and generic suspicious file
+  - [fiddleZAP](https://github.com/malwareinfosec/FiddleZAP) FiddleZAP is a simplified version of EKFiddle for OWASP ZAP.
+  - [Cracken](https://github.com/shmuelamar/cracken) A fast password wordlist generator, Smartlist creation and password hybrid-mask analysis tool
+  - [LOLBins](https://github.com/Hamza-Megahed/LOLBins) PyQT app to list all Living Off The Land Binaries and Scripts for Windows from [LOLBAS](https://github.com/LOLBAS-Project/LOLBAS) (["site"](https://lolbas-project.github.io/#)) and Unix binaries that can be used to bypass local security restrictions in misconfigured systems from [GTFOBins](https://github.com/GTFOBins/GTFOBins.github.io) (["site"](https://gtfobins.github.io/))
+  - [pwnSpoof](https://github.com/punk-security/pwnspoof) Generate realistic spoofed log files for common web servers with customisable attack scenarios
+  - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) Intentionally vulnerable cluster environment to learn and practice Kubernetes security
+  - [hyenae-ng](https://github.com/r-richter/hyenae-ng) An advanced cross-platform network packet generator
 
 * **Misc. Training (Network/IT/tech)**
+  - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
   - [malware-traffic-analysis.net](https://malware-traffic-analysis.net/) A source for pcap files and malware samples
     + [Training exercises](https://malware-traffic-analysis.net/training-exercises.html)
     + [Tutorials](https://malware-traffic-analysis.net/tutorials/index.html)
