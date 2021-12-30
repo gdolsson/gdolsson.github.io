@@ -149,6 +149,7 @@ The DNA sequence editor for OS X. Visualize and edit DNA sequence files.
 * [fast.ai](https://www.fast.ai/)  
 Free online courses and resources to learn AI/ML/NLP
 
+* [fig.io](https://fig.io/) Powerful autocompletion for hundreds of CLI tools. Zero configuration required. New completions added daily.
 
 * **Games**
   - [Endless Sky](https://endless-sky.github.io/)  
@@ -250,6 +251,8 @@ Reference guide that explains how to use Markdown
 
 * [Nature Careers Funding](https://naturecareersfunding.com/)  
   Seems like a nice aggregation of information regarding funding options  
+
+* [Nerdfonts](https://www.nerdfonts.com/) Iconic font aggregator, collection, and patcher
 
 * [Nestflix](https://nestflix.fun/) "Nested" films and shows, movie in a move, meta content, a parody site of fictional series.
 
@@ -426,10 +429,10 @@ Self-hosted cloud service
 * [Nextflow](https://sciwiki.fredhutch.org/compdemos/nextflow/)  
 Nextflow - an Emerging Service for Workflow Management  
 
+* [Pinouts.org](https://pinouts.org/) The Pinouts Book is a free digital book created for designers and engineers as a quick reference for remembering the different pinout functions in your electronics projects 
 
 * [Ransomwhere](ransomwhe.re)  
 Open and crowdsourced ransomware payment tracker
-
 
 * [Scribus](https://www.scribus.net/)  
 Open source desktop publishing software, layout design and more.  
@@ -449,6 +452,7 @@ A nice resource to calculate the number of ions needed for MD simulations with a
 * [SoundsLikeX](https://songslikex.com/)  
 Playlist generator for Spotify
 
+* [Sourcetree](https://www.sourcetreeapp.com/) Simplicity and power in a beautiful Git GUI
 
 * [Synergy](https://symless.com/synergy)  
 Control multiple computers using only one keyboard and mouse
@@ -647,6 +651,8 @@ XML command-line utilities, available through `brew install`
   - [pwnSpoof](https://github.com/punk-security/pwnspoof) Generate realistic spoofed log files for common web servers with customisable attack scenarios
   - [Kubernetes Goat](https://github.com/madhuakula/kubernetes-goat) Intentionally vulnerable cluster environment to learn and practice Kubernetes security
   - [hyenae-ng](https://github.com/r-richter/hyenae-ng) An advanced cross-platform network packet generator
+  - [boofuzz](https://boofuzz.readthedocs.io/en/stable/index.html) Network Protocol Fuzzing for Humans
+  - [fhex](https://github.com/echo-devim/fhex) A Full-Featured HexEditor
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
