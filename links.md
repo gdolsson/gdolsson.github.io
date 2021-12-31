@@ -653,6 +653,7 @@ XML command-line utilities, available through `brew install`
   - [hyenae-ng](https://github.com/r-richter/hyenae-ng) An advanced cross-platform network packet generator
   - [boofuzz](https://boofuzz.readthedocs.io/en/stable/index.html) Network Protocol Fuzzing for Humans
   - [fhex](https://github.com/echo-devim/fhex) A Full-Featured HexEditor
+  - [CiLocks](https://github.com/tegal1337/CiLocks) Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
@@ -671,6 +672,7 @@ XML command-line utilities, available through `brew install`
   - [Python Tutor](https://pythontutor.com/) Understanding what happens as the computer runs each line of code
   - [Pandas Tutor](https://pandastutor.com/) Visualizes how Python code transforms dataframes
   - [Live Project](https://liveproject.manning.com/) Gives you the opportunity to learn new skills by completing real-world challenges in your local development environment
+
 
 * **Router Firmware**
   - [ASUSWRT-MERLIN](https://www.asuswrt-merlin.net/)
