@@ -407,11 +407,12 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Pendulum](https://pendulum.eustace.io/) Drop-in replacement for the standard datetime class, manipulate datetimes with ease
   - [WakePy](https://github.com/mikeckennedy/wakepy) Simple cross-platform wakelock written in Python. Keeps your computer from going to sleep
   - [jc](https://github.com/kellyjonbrazil/jc) JSONifies the output of many CLI tools and file-types for easier parsing in scripts
-  - [direnv](https://hynek.me/til/python-local-venvs/) Python project-local virtalenv management
   - [fickling](https://github.com/trailofbits/fickling) A decompiler, static analyzer, and bytecode rewriter for Python [pickle](https://docs.python.org/3/library/pickle.html) object serializations
   - [Mito](https://trymito.io) Python data anlysis in seconds, python with the ease of excel in jupyther
   - [pip-audit](github.com/trailofbits/pip-audit) Audit Python environments and dependency trees for known vulnerbilities
   - [napari](https://napari.org/) Multi-dimensional image viewer for python
+  - [direnv](https://direnv.net/) An extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory ([direnv gammal länk](https://hynek.me/til/python-local-venvs/))
+  - [dearpygui](https://pypi.org/project/dearpygui/) Dear PyGui is a simple to use (but powerful) Python GUI framework
   
 
 * [KiCad EDA](https://www.kicad.org/)  
@@ -429,10 +430,19 @@ Self-hosted cloud service
 * [Nextflow](https://sciwiki.fredhutch.org/compdemos/nextflow/)  
 Nextflow - an Emerging Service for Workflow Management  
 
+* [ngrok](https://ngrok.com/)  
+One command for an instant, secure URL to your localhost server through any NAT or firewall  
+
+* [Openverse](https://search.openverse.engineering/)  
+What CCSearch became, media free to reuse
+
 * [Pinouts.org](https://pinouts.org/) The Pinouts Book is a free digital book created for designers and engineers as a quick reference for remembering the different pinout functions in your electronics projects 
 
 * [Ransomwhere](ransomwhe.re)  
 Open and crowdsourced ransomware payment tracker
+
+* [Regex101](https://regex101.com/)  
+Test end develop RegExes interactively
 
 * [Scribus](https://www.scribus.net/)  
 Open source desktop publishing software, layout design and more.  
@@ -654,6 +664,7 @@ XML command-line utilities, available through `brew install`
   - [boofuzz](https://boofuzz.readthedocs.io/en/stable/index.html) Network Protocol Fuzzing for Humans
   - [fhex](https://github.com/echo-devim/fhex) A Full-Featured HexEditor
   - [CiLocks](https://github.com/tegal1337/CiLocks) Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
+  - [Box](https://github.com/cdgriffith/Box) Makes otherwise inaccessible keys safe to access as an attribute
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
@@ -672,6 +683,7 @@ XML command-line utilities, available through `brew install`
   - [Python Tutor](https://pythontutor.com/) Understanding what happens as the computer runs each line of code
   - [Pandas Tutor](https://pandastutor.com/) Visualizes how Python code transforms dataframes
   - [Live Project](https://liveproject.manning.com/) Gives you the opportunity to learn new skills by completing real-world challenges in your local development environment
+  - [Learn Git Branching](https://learngitbranching.js.org/) Interactive learning regarding using Git
 
 
 * **Router Firmware**
