@@ -184,6 +184,9 @@ Software to analyze, graph and present data. Also providing a collection of nice
 * [HackMD](https://hackmd.io/)  
 Real-time collaboration in markdown. Capture fleeting ideas  and formalise tribal knowledge  
 
+* [Hoppscotch](https://hoppscotch.io/)  
+Open source API development ecosystem, like "[postman](https://www.postman.com/)" though online
+
 
 * [HTOP](https://hisham.hm/htop/)  
 An interactive process viewer for Unix systems  
