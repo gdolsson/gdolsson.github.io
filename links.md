@@ -331,6 +331,8 @@ PLUMED is an open-source, community-developed library that provides a wide range
 * [Pre-Commit](https://pre-commit.com/)  
 A framework for managing and maintaining multi-language pre-commit hooks.  
 
+* [proxi](proxi.co)  
+Create interactive maps the easy way
 
 * [PSPP](https://www.gnu.org/software/pspp/)  
 Free and open-source alternative to SPSS, cross-platform.  
@@ -669,6 +671,7 @@ XML command-line utilities, available through `brew install`
   - [fhex](https://github.com/echo-devim/fhex) A Full-Featured HexEditor
   - [CiLocks](https://github.com/tegal1337/CiLocks) Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
   - [Box](https://github.com/cdgriffith/Box) Makes otherwise inaccessible keys safe to access as an attribute
+  - [ANY.RUN](https://any.run/) Interactive malware analysis, detonate malware in an online virtual machien
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)

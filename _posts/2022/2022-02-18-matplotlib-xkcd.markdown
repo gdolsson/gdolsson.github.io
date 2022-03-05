@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "MatPlotLib XKCD"
-date: "2021-02-18 08:43"
+date: "2022-02-18 08:43"
 ---
 [MatPlotLib XKCD](https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.xkcd.html), a really cool feature where you can generate graph in XKCD style.
 
