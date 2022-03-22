@@ -419,6 +419,7 @@ Free and open-source alternative to SPSS, cross-platform.
   - [direnv](https://direnv.net/) An extension for your shell. It augments existing shells with a new feature that can load and unload environment variables depending on the current directory ([direnv gammal länk](https://hynek.me/til/python-local-venvs/))
   - [dearpygui](https://pypi.org/project/dearpygui/) Dear PyGui is a simple to use (but powerful) Python GUI framework
   - [MatPlotLib](https://matplotlib.org/stable/index.html) A comprehensive library for creating static, animated, and interactive visualizations in Python
+  - [Kitty](https://sw.kovidgoyal.net/kitty/) The fast, feature-rich, GPU based terminal emulator
   
 
 * [KiCad EDA](https://www.kicad.org/)  

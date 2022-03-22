@@ -9,4 +9,4 @@ A [nice writeup](https://letsdefend.io/blog/how-to-investigate-phishing-campaign
 [URLscan](https://urlscan.io/)
 [hybrid analysis](https://www.hybrid-analysis.com/)
 
-and more
+and more!
