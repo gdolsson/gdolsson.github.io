@@ -11,4 +11,6 @@ Got three nice resources in an email today, do check these out and work through 
 
 [Solving real world data science tasks with Python Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4) is a nice video introduction by Keith Galli over at YouTube.
 
+Other nice videos from the same guy include [Complete Python Pandas Data Science Tutorial](https://www.youtube.com/watch?v=vmEHCJofslg) (start with that one maybe) and two videos on MatPlotLib ([video1](https://www.youtube.com/watch?v=DAQNHzOcO5A&t=0s) and [video2](https://www.youtube.com/watch?v=0P7QnIQDBJY&t=0s))
+
 Put some time aside to actually look at these
