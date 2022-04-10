@@ -121,6 +121,7 @@ Curated list of book and reviews, excellent source of interresting reading.
   - [Redis](redis.io)  
   Cross platform database with minimal footprint  
 
+* [DevDocs](devdocs.io) A whole lot of documentation in one place, filterable, searchable and offlineable
 
 * [Downdetector](https://downdetector.se/)  
 Övervakning av problem och driftstörningar i realtid
@@ -420,6 +421,8 @@ Free and open-source alternative to SPSS, cross-platform.
   - [dearpygui](https://pypi.org/project/dearpygui/) Dear PyGui is a simple to use (but powerful) Python GUI framework
   - [MatPlotLib](https://matplotlib.org/stable/index.html) A comprehensive library for creating static, animated, and interactive visualizations in Python
   - [Kitty](https://sw.kovidgoyal.net/kitty/) The fast, feature-rich, GPU based terminal emulator
+  - [pypyr](pypyr.io) Task runner for automation pipelines, script sequential task workflows in yaml
+  - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy) msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks, [readthedocs](https://msticpy.readthedocs.io/en/latest/index.html)
   
 
 * [KiCad EDA](https://www.kicad.org/)  
@@ -673,6 +676,9 @@ XML command-line utilities, available through `brew install`
   - [CiLocks](https://github.com/tegal1337/CiLocks) Crack Interface lockscreen, Metasploit and More Android/IOS Hacking
   - [Box](https://github.com/cdgriffith/Box) Makes otherwise inaccessible keys safe to access as an attribute
   - [ANY.RUN](https://any.run/) Interactive malware analysis, detonate malware in an online virtual machien
+  - [ARTHIR](https://github.com/MalwareArchaeology/ARTHIR) ATT&CK Remote Threat Hunting Incident Response
+  - [TruffleHog](https://trufflesecurity.com/trufflehog) Scan your environment for secrets like private keys and credentials ([GitHub](https://github.com/trufflesecurity/trufflehog))
+  - [RITA (Real Intelligence Threat Analysis)](https://www.activecountermeasures.com/free-tools/rita/) Opensource framework for C2 communication thorugh network traffik analysis using [Zeek](https://www.zeek.org/) logs or converted pcap ([GitHub](https://github.com/activecm/rita)).
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
@@ -692,6 +698,7 @@ XML command-line utilities, available through `brew install`
   - [Pandas Tutor](https://pandastutor.com/) Visualizes how Python code transforms dataframes
   - [Live Project](https://liveproject.manning.com/) Gives you the opportunity to learn new skills by completing real-world challenges in your local development environment
   - [Learn Git Branching](https://learngitbranching.js.org/) Interactive learning regarding using Git
+  - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
 
 
 * **Router Firmware**
