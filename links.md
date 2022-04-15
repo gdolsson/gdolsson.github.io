@@ -678,7 +678,30 @@ XML command-line utilities, available through `brew install`
   - [ANY.RUN](https://any.run/) Interactive malware analysis, detonate malware in an online virtual machien
   - [ARTHIR](https://github.com/MalwareArchaeology/ARTHIR) ATT&CK Remote Threat Hunting Incident Response
   - [TruffleHog](https://trufflesecurity.com/trufflehog) Scan your environment for secrets like private keys and credentials ([GitHub](https://github.com/trufflesecurity/trufflehog))
-  - [RITA (Real Intelligence Threat Analysis)](https://www.activecountermeasures.com/free-tools/rita/) Opensource framework for C2 communication thorugh network traffik analysis using [Zeek](https://www.zeek.org/) logs or converted pcap ([GitHub](https://github.com/activecm/rita)).
+  - [RITA (Real Intelligence Threat Analysis)](https://www.activecountermeasures.com/free-tools/rita/) Opensource framework for C2 communication thorugh network traffik analysis using [Zeek](https://www.zeek.org/) logs or converted pcap ([GitHub](https://github.com/activecm/rita))
+  - [Raven](https://github.com/qeeqbox/raven) Advanced Cyber Threat Map
+  - [PasteMonitor](https://github.com/pixelbubble/PasteMonitor) Download daily new public pastes and send automatic email alert
+  - [MSMailprobe](https://github.com/busterb/msmailprobe) Office 365 and Exchange Enumeration
+  - [PMAT-labs](https://github.com/HuskyHacks/PMAT-labs) Practical Malware and Triage labs
+  - [SourceLeakHacker](https://github.com/WangYihang/SourceLeakHacker) Muilt-threads web directories scanner
+  - [Wireshark Forensic Plugin](https://github.com/rjbhide/wireshark-forensics-plugin) Cross-platform Wireshark plugin that correlates network traffic data with threat intelligence, asset categorization & vulnerability data to speed up network forensic analysis
+  - [WhatFiles](https://github.com/spieglt/whatfiles) Linux utility that logs what files another program reads/writes/creates/deletes on your system.
+  - [Spoof that Mail](https://github.com/v4d1/SpoofThatMail) Bash script to check if a domain or list of domains can be spoofed based in DMARC records
+  - [Voltron](https://github.com/snare/voltron) Extensible debugger UI toolkit written in Python. It aims to improve the user experience of various debuggers (LLDB, GDB, VDB and WinDbg) by enabling the attachment of utility views that can retrieve and display data from the debugger host
+  - [OpenSquat](https://github.com/atenreiro/opensquat) Opensource Intelligence (OSINT) security tool to identify cyber squatting threats to specific companies or domains
+  - [BruteShark](https://github.com/odedshimon/BruteShark/) Network Forensic Analysis Tool (NFAT) that performs deep processing and inspection of network traffic (mainly PCAP files, but it also capable of directly live capturing from a network interface)
+  - [Chaya](https://github.com/xerohackcom/chaya) Message ubfuscatoin through image steganography, cryptography and compression
+  - [IOCScraper](https://github.com/chaitanyakrishna/iocscraper) Utilises [IOCPARSER](https://iocparser.com/) service to fetch IOCs from different vendor Blogs, PDFs, and CSV files
+  - [Master Librarian](https://github.com/CoolerVoid/master_librarian) A simple tool to audit Unix/\*BSD/Linux system libraries to find public security vulnerabilities
+  - [ScanmycodeCE](https://github.com/marcinguy/scanmycode-ce) Code Scanning/SAST/Static Analysis/Linting solution using many tools/Scanners with One Report
+  - [CodeAnalysis](https://github.com/Tencent/CodeAnalysis) Tencent Cloud Code Analysis
+  - [S1EM](https://github.com/V1D1AN/S1EM) The S1EM solution is based on the principle of bringing together the best products in their field, free of charge, and making them quickly interoperable
+  - [Epagneul](https://github.com/jurelou/epagneul) Tool to visualize and investigate windows event logs
+  - [Vortex](https://github.com/klezVirus/vortex) VPN Overall Reconnaissance, Testing, Enumeration and Exploitation Toolkit
+  - [Octosuite](https://github.com/rly0nheart/octosuite) Simply gather OSINT on Github users & organizations like a God
+  - [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator) Fenerate YARA rules about installed software from a running operating system
+  - [Skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) Dangerously fast dns/network/port scanner, all-in-one
+  - [Melody](https://github.com/bonjourmalware/melody) Monitor the Internet's background noise, a transparent internet sensor built for threat intelligence and supported by a detection rule framework which allows you to tag packets of interest for further analysis and threat monitoring
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
