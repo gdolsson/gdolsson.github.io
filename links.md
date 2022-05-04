@@ -704,6 +704,7 @@ XML command-line utilities, available through `brew install`
   - [Melody](https://github.com/bonjourmalware/melody) Monitor the Internet's background noise, a transparent internet sensor built for threat intelligence and supported by a detection rule framework which allows you to tag packets of interest for further analysis and threat monitoring
   - [OSSF Package-Analysis](https://github.com/ossf/package-analysis) Aid in the analysis of open source packages, in particular to look for malicious software
   - [UACME](https://github.com/hfiref0x/UACME) Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor
+  - [SSHCH](https://github.com/zlaxy/sshch/) SSH connection and aliases manager with curses and command line interface
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
