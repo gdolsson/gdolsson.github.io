@@ -702,6 +702,8 @@ XML command-line utilities, available through `brew install`
   - [factual-rules-generator](https://github.com/CIRCL/factual-rules-generator) Fenerate YARA rules about installed software from a running operating system
   - [Skanuvaty](https://github.com/Esc4iCEscEsc/skanuvaty) Dangerously fast dns/network/port scanner, all-in-one
   - [Melody](https://github.com/bonjourmalware/melody) Monitor the Internet's background noise, a transparent internet sensor built for threat intelligence and supported by a detection rule framework which allows you to tag packets of interest for further analysis and threat monitoring
+  - [OSSF Package-Analysis](https://github.com/ossf/package-analysis) Aid in the analysis of open source packages, in particular to look for malicious software
+  - [UACME](https://github.com/hfiref0x/UACME) Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
