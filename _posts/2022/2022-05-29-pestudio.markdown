@@ -1,0 +1,6 @@
+---
+layout: "post"
+title: "pestudio"
+date: "2022-05-29 14:41"
+---
+[pestudio (winitor.com)](https://www.winitor.com/) us a freely available tool to spot artifact of executable files to speed up initial assessment regarding suspected malware. This seems like a great way of doing som quick-n-dirty initial investigation/triage when stumbling across potentially dangerous executable files ([overview](https://www.winitor.com/pdf/pestudio.pdf)). Requires no installation, only for windows though.

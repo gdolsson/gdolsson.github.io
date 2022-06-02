@@ -1,0 +1,9 @@
+---
+layout: "post"
+title: "SymPy"
+date: "2022-05-10 23:06"
+---
+> SymPy is a Python library for symbolic mathematics. It aims to become a full-featured computer algebra system (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible. 
+> \- [SymPy.org](https://www.sympy.org/en/index.html)
+
+Looks like a really nice toolset to run exact clacluation using symbolic mathematics.

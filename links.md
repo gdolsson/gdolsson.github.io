@@ -423,6 +423,7 @@ Free and open-source alternative to SPSS, cross-platform.
   - [Kitty](https://sw.kovidgoyal.net/kitty/) The fast, feature-rich, GPU based terminal emulator
   - [pypyr](pypyr.io) Task runner for automation pipelines, script sequential task workflows in yaml
   - [MSTIC Jupyter and Python Security Tools](https://github.com/microsoft/msticpy) msticpy is a library for InfoSec investigation and hunting in Jupyter Notebooks, [readthedocs](https://msticpy.readthedocs.io/en/latest/index.html)
+  - [SymPy](https://www.sympy.org/en/index.html) Library for symbolic mathematics
   
 
 * [KiCad EDA](https://www.kicad.org/)  
@@ -705,6 +706,7 @@ XML command-line utilities, available through `brew install`
   - [OSSF Package-Analysis](https://github.com/ossf/package-analysis) Aid in the analysis of open source packages, in particular to look for malicious software
   - [UACME](https://github.com/hfiref0x/UACME) Defeating Windows User Account Control by abusing built-in Windows AutoElevate backdoor
   - [SSHCH](https://github.com/zlaxy/sshch/) SSH connection and aliases manager with curses and command line interface
+  - [pestudio](https://www.winitor.com) Initial quick malware assessment for computer emergency respons teams and security operations centers (windows only).
 
 * **Misc. Training (Network/IT/tech)**
   - [Digital Forencics Lab](https://github.com/frankwxu/digital-forensics-lab)
@@ -725,6 +727,7 @@ XML command-line utilities, available through `brew install`
   - [Live Project](https://liveproject.manning.com/) Gives you the opportunity to learn new skills by completing real-world challenges in your local development environment
   - [Learn Git Branching](https://learngitbranching.js.org/) Interactive learning regarding using Git
   - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
+  - [openziti](https://openziti.github.io/) Free, open source project focused on bringing Zero Trust to any application
 
 
 * **Router Firmware**
