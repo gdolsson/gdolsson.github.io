@@ -728,7 +728,14 @@ XML command-line utilities, available through `brew install`
   - [Learn Git Branching](https://learngitbranching.js.org/) Interactive learning regarding using Git
   - [Known Exploited Vulnerabilities Catalog](https://www.cisa.gov/known-exploited-vulnerabilities-catalog)
   - [openziti](https://openziti.github.io/) Free, open source project focused on bringing Zero Trust to any application
-
+  - [smap](https://github.com/s0md3v/Smap) Passive Nmap like scanner built with shodan.io
+  - [jfscan](https://github.com/nullt3r/jfscan) Port scanner based on Masscan and NMap
+  - [sub3suite](https://github.com/3nock/sub3suite) Subdomain Enumeration Suite
+  - [chlonium](https://github.com/rxwx/chlonium) Cloning Chromium Cookies
+  - [grafiki](https://github.com/lucky-luk3/Grafiki) Grafiki is a Django project about Sysmon and graphs, parses sysmon events from EVTX files/URL to relational database
+  - [OWASP ZAP](https://www.zaproxy.org/) Free and open source web app scanner
+    - [ZAP - Scripts](https://github.com/sepehrdaddev/zap-scripts) Zed Attack Proxy Scripts for finding CVEs and Secrets
+    - [ZAP - API Scan](https://www.zaproxy.org/docs/docker/api-scan/) The ZAP API scan is a script that is available in the ZAP [Docker](https://www.zaproxy.org/docs/docker/about/) images
 
 * **Router Firmware**
   - [ASUSWRT-MERLIN](https://www.asuswrt-merlin.net/)

@@ -1,0 +1,11 @@
+---
+layout: "post"
+title: "Sub3Suite - Subdomain Enumeration Suite"
+date: "2022-06-04 14:29"
+---
+> Sub3 Suite is a research-grade suite of tools for Subdomain Enumeration, OSINT Information gathering & Attack Surface Mapping. Supports both manual and automated analysis on variety of target types with many available features & tools.
+- [https://github.com/3nock/sub3suite](https://github.com/3nock/sub3suite)
+
+![UI](https://github.com/3nock/sub3suite/raw/main/docs/images/tools.gif "UI")
+
+Have not taken this out for a test-drive yet, though it looks like a really nice tool.
