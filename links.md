@@ -458,17 +458,13 @@ Test end develop RegExes interactively
 * [Scribus](https://www.scribus.net/)  
 Open source desktop publishing software, layout design and more.  
 
-
 * [SELinux Explained](https://www.computernetworkingnotes.com/linux-tutorials/selinux-explained-with-examples-in-easy-language.html)
-
 
 * [Sketchup](https://www.sketchup.com/)  
 Online 3D designer, free for online personal use.  
 
-
 * [SLTCAP Calculator](https://www.phys.ksu.edu/personal/schmit/SLTCAP/SLTCAP.html)  
 A nice resource to calculate the number of ions needed for MD simulations with a nice web-interface.  
-
 
 * [SoundsLikeX](https://songslikex.com/)  
 Playlist generator for Spotify
@@ -477,7 +473,6 @@ Playlist generator for Spotify
 
 * [Synergy](https://symless.com/synergy)  
 Control multiple computers using only one keyboard and mouse
-
 
 * **Spectra (NMR/IR and more)**
   - [NMRShiftDB](https://nmrshiftdb.nmr.uni-koeln.de/)  
@@ -490,7 +485,6 @@ Control multiple computers using only one keyboard and mouse
   Registration required...
   - [ChemSpider](https://www.chemspider.com/)  
   ChemSpider is a free chemical structure database providing fast text and structure search access to over 100 million structures from hundreds of data sources (seems to be foremost IR/UV/Vis)  
-
 
 * **Structure/Sequence Databases**  
   - [RCSB PDB](https://www.rcsb.org/)  
@@ -508,30 +502,26 @@ Control multiple computers using only one keyboard and mouse
   - [Expasy](https://www.expasy.org/)  
   Swiss Bioinformatics Resource Portal  
 
-
 * [Sync](https://www.sync.com/)  
 Like BOX or DropBox though with end-to-end encryption of your data.  
-
 
 * [Syncthing](https://syncthing.net/)  
 Free and open source files synchronisation between two or more computers in real time. Safe and protected data transfers between your machines, not over any external server.  
 
-
 * [Tesseract](https://github.com/tesseract-ocr)  
 Tesseract, free and open source OCR software. A "[tutorial](https://guides.nyu.edu/c.php?g=884390&p=6355032)" of sorts. This is also available as a `brew install`
-
 
 * [tusk](https://www.tusk.page/)  
 Thought you should know, free online service described as "Short-lived anonymous feedback", post a question and users submit free-text feedback printed directly on the page "anonymised".  
 
+* [Tweeten](https://tweetenapp.com/)  
+Twitter interface based on the now deprecated TweetDeck, a powerful, column-based interface.
 
 * [VMD](https://www.ks.uiuc.edu/Research/vmd/)  
 Visual Molecular Dynamics, a molecular visualisation program for displaying, animating, and analysing large biomolecular systems using 3-D graphics and built-in scripting.  
 
-
 * [Wasp](https://wasp-lang.dev/)  
 A simple language for developing full-stack web apps with less code.
-
 
 * **Windows**
   - [wintools.info](https://www.wintools.info/)  
@@ -750,3 +740,9 @@ XML command-line utilities, available through `brew install`
   - [Nebula](https://github.com/slackhq/nebula) Scalable overlay networking tool with a focus on performance, simplicity and security [made by slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/)
   - [Innernet](https://github.com/tonarino/innernet) A private network system, [more info](https://blog.tonari.no/introducing-innernet) can be found here
   - [ZeroTier](https://www.zerotier.com/) ZeroTier combines the capabilities of VPN and SD-WAN, simplifying network management.
+  - [FreshRSS](https://www.freshrss.org/) A free, self-hostable aggregator
+  - [Laurel](https://github.com/threathunters-io/laurel) event post-processing plugin for auditd to improve its usability in modern security monitoring setups.
+  - [LiveTargetsFinder](https://github.com/allyomalley/LiveTargetsFinder) A package solution to generate lists of live hosts and URLs for targeting, automating the usage of Massdns, Masscan and nmap to filter out unreachable hosts
+  - [MassDNS](https://github.com/blechschmidt/massdns) DNS stub resolver capable of resolving a massive amount of domain names in the order of millions or even billions
+  - [masscan](https://github.com/robertdavidgraham/masscan) Internet-scale port scanner
+  - [Blackbird](https://github.com/p1ngul1n0/blackbird) An OSINT search tool for accounts by username ([kali tutorial](https://kalilinuxtutorials.com/blackbird/))

@@ -30,7 +30,11 @@ First/Last slide in presentation
 Move focus to the next window of the same app, cycle through app windows
 
 ## [VisualStudio Code](https://code.visualstudio.com/)
-[Getting started](https://code.visualstudio.com/docs/)
+[VS documentation](https://code.visualstudio.com/docs/)
+[VS "Getting started"](https://code.visualstudio.com/docs/introvideos/basics)
+
+`command + k/s`  
+Use shortcuts
 
 `command + k` and then `o`  
 "Open tab in new window"  
@@ -40,6 +44,15 @@ Open the command palette to execute editor commands, open files, search for symb
 
 `command + p`  
 Navigate to any file/symbol by name. Start with ">" to shift to command palette  
+
+`option + up/down`
+Move line up or down
+
+`opt+cmd+up/down`
+Multiline select
+
+`ctrl + shift + option + command + 7`
+Side-by-side editing
 
 ### Mardown-Preview Plugin
 `cmd + k then v`  
