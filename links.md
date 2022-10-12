@@ -746,3 +746,4 @@ XML command-line utilities, available through `brew install`
   - [MassDNS](https://github.com/blechschmidt/massdns) DNS stub resolver capable of resolving a massive amount of domain names in the order of millions or even billions
   - [masscan](https://github.com/robertdavidgraham/masscan) Internet-scale port scanner
   - [Blackbird](https://github.com/p1ngul1n0/blackbird) An OSINT search tool for accounts by username ([kali tutorial](https://kalilinuxtutorials.com/blackbird/))
+  - [Hoaxshell](https://github.com/t3l3machus/hoaxshell) Unconventional Windows reverse shell, currently undetected by Microsoft Defender and possibly other AV solutions, solely based on http(s) traffic.
