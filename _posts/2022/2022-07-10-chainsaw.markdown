@@ -1,0 +1,32 @@
+---
+layout: "post"
+title: "Chainsaw"
+categories: [Learning, Cybersecurity, Windows, Logg]
+tags: [Learning, Cybersecurity, Windows, Logg]
+date: "2022-07-10 14:45"
+---
+[Chainsaw](https://github.com/countercept/chainsaw) was authored by Hames D, lead threat hunter at F-Secure's Countercept division. It is designed to assist in first-response activity of security engagements and assist blue teams triage entries relevant for investigation.[[1](https://www.bleepingcomputer.com/news/security/new-chainsaw-tool-helps-ir-teams-analyze-windows-event-logs/)-[2](https://labs.withsecure.com/tools/chainsaw/)]
+
+Chainsaw lets you
+- Search through event logs by event ID, keyword or regex patterns
+- Extract and parse Windows Defender, F-Secure, Sophos and Kaspersky AV alerts
+- Detect key event logs being cleared or log service being stopped
+- Detect users being created or added to sensitive user groups
+- Brute-force of local user accounts
+- RDP logins, network logins etc.
+
+Sigma rule detection also works for numerous Windows event IDs, including
+
+|Event Type|Event ID|
+|:-|:-|
+|Process Creation (Sysmon)|1|
+|Network Connections (Sysmon)|3|
+|Image Loads (Sysmon)|7|
+|File Creation (Sysmon)|11|
+|Registry Events (Sysmon)|13|
+|Powershell Script Blocks|4104|
+|Process Creation|4688|
+|Scheduled Task Creation|4698|
+|Service Creation|7045|
+
+It is an open source tool using [EVTX parser library](https://github.com/omerbenamram/evtx) with several available output formats. EVTX is another excellent project, an open source software, cross-platform parser for WIndows XML EventLog format. Written in rust, fast and multi threaded with conversion to different output formats such as json and csv format.
