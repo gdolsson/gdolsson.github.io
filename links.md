@@ -726,6 +726,14 @@ XML command-line utilities, available through `brew install`
   - [OWASP ZAP](https://www.zaproxy.org/) Free and open source web app scanner
     - [ZAP - Scripts](https://github.com/sepehrdaddev/zap-scripts) Zed Attack Proxy Scripts for finding CVEs and Secrets
     - [ZAP - API Scan](https://www.zaproxy.org/docs/docker/api-scan/) The ZAP API scan is a script that is available in the ZAP [Docker](https://www.zaproxy.org/docs/docker/about/) images
+    - [OSIPs](https://github.com/ciprianster/OSIPs) Python script which extracting IP adressess recursevly, IPv4 and IPv6 address, filters out the public IP addresses and queries against TOR relays, WhoIs service and Location service
+    - [GooFuzz](https://github.com/m3n0sd0n4ld/GooFuzz) GooFuzz is a script written in Bash Scripting that uses advanced Google search techniques to obtain sensitive information in files or directories without making requests to the web server
+    - [pinecone](https://github.com/pinecone-wifi/pinecone) A WLAN networks auditing tool, suitable for red team usage
+    - [SilentHound](https://github.com/layer8secure/SilentHound) Quietly enumerate an Active Directory Domain via LDAP parsing users, admins, groups, etc.
+    - [Kage](https://github.com/Zerx0r/Kage) Kage (ka-geh) is a tool inspired by AhMyth designed for [Metasploit](https://github.com/rapid7/metasploit-framework) RPC Server to interact with meterpreter sessions and generate payloads
+    - [Faraday](https://faradaysec.com/) Security has two difficult tasks: designing smart ways of getting new information, and keeping track of findings to improve remediation efforts. With Faraday, you may focus on discovering vulnerabilities while we help you with the rest. Community version is free, available on [GitHub](https://github.com/infobyte/faraday)
+    - [Wazuh](https://wazuh.com/) The open source security platform
+    - [MISP](https://www.misp-project.org/) Open source threat intelligence and sharing platform
 
 * **Router Firmware**
   - [ASUSWRT-MERLIN](https://www.asuswrt-merlin.net/)
