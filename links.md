@@ -734,6 +734,9 @@ XML command-line utilities, available through `brew install`
     - [Faraday](https://faradaysec.com/) Security has two difficult tasks: designing smart ways of getting new information, and keeping track of findings to improve remediation efforts. With Faraday, you may focus on discovering vulnerabilities while we help you with the rest. Community version is free, available on [GitHub](https://github.com/infobyte/faraday)
     - [Wazuh](https://wazuh.com/) The open source security platform
     - [MISP](https://www.misp-project.org/) Open source threat intelligence and sharing platform
+    - [UTM](https://getutm.app/) A virtual machine manager for iOS and [macOS](https://mac.getutm.app/), FOSS alternative to [VirtualBox](https://www.virtualbox.org/) and [VMWare](https://www.vmware.com/)
+    - [Harmonoid](https://harmonoid.com/) FoSS Corss platform music player 
+    - Automated [Linux](https://kalilinuxtutorials.com/pylirt/) and [Windows](https://kalilinuxtutorials.com/pywirt/) incident responce data collection using python
 
 * **Router Firmware**
   - [ASUSWRT-MERLIN](https://www.asuswrt-merlin.net/)
@@ -741,6 +744,7 @@ XML command-line utilities, available through `brew install`
   - [dd-wrt](https://dd-wrt.com/)
   - [Tomatoe](https://www.polarcloud.com/tomato)
   - [FreshTomato](https://www.freshtomato.org/)
+  - [EvilTree](https://kalilinuxtutorials.com/eviltree/) Just like "tree", python omlementation with search function
 
 
 * **Software Defined Network/overlay network**
@@ -755,3 +759,11 @@ XML command-line utilities, available through `brew install`
   - [masscan](https://github.com/robertdavidgraham/masscan) Internet-scale port scanner
   - [Blackbird](https://github.com/p1ngul1n0/blackbird) An OSINT search tool for accounts by username ([kali tutorial](https://kalilinuxtutorials.com/blackbird/))
   - [Hoaxshell](https://github.com/t3l3machus/hoaxshell) Unconventional Windows reverse shell, currently undetected by Microsoft Defender and possibly other AV solutions, solely based on http(s) traffic.
+
+
+* **Flipper Zero**
+- [Flipper Zero](https://flipperzero.one/) A versatile tool for hardware exploration, firmware flashing, debugging, and fuzzing.
+  - [Interface editor](https://ilin.pt/stuff/fui-editor/)
+  - [Awesome Flipper](https://github.com/djsime1/awesome-flipperzero)
+  - [DarkFlippers](https://github.com/DarkFlippers/unleashed-firmware)
+  - [Flipper Zero Hacking 101](https://flipper.pingywon.com/)
