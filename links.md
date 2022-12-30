@@ -745,20 +745,19 @@ XML command-line utilities, available through `brew install`
   - [Tomatoe](https://www.polarcloud.com/tomato)
   - [FreshTomato](https://www.freshtomato.org/)
   - [EvilTree](https://kalilinuxtutorials.com/eviltree/) Just like "tree", python omlementation with search function
-
-
-* **Software Defined Network/overlay network**
-  - [TailScale](https://tailscale.com/) Zero config VPN. Installs on any device in minutes, manages firewall rules for you, and works from anywhere.
-  - [Nebula](https://github.com/slackhq/nebula) Scalable overlay networking tool with a focus on performance, simplicity and security [made by slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/)
-  - [Innernet](https://github.com/tonarino/innernet) A private network system, [more info](https://blog.tonari.no/introducing-innernet) can be found here
-  - [ZeroTier](https://www.zerotier.com/) ZeroTier combines the capabilities of VPN and SD-WAN, simplifying network management.
-  - [FreshRSS](https://www.freshrss.org/) A free, self-hostable aggregator
   - [Laurel](https://github.com/threathunters-io/laurel) event post-processing plugin for auditd to improve its usability in modern security monitoring setups.
   - [LiveTargetsFinder](https://github.com/allyomalley/LiveTargetsFinder) A package solution to generate lists of live hosts and URLs for targeting, automating the usage of Massdns, Masscan and nmap to filter out unreachable hosts
   - [MassDNS](https://github.com/blechschmidt/massdns) DNS stub resolver capable of resolving a massive amount of domain names in the order of millions or even billions
   - [masscan](https://github.com/robertdavidgraham/masscan) Internet-scale port scanner
   - [Blackbird](https://github.com/p1ngul1n0/blackbird) An OSINT search tool for accounts by username ([kali tutorial](https://kalilinuxtutorials.com/blackbird/))
   - [Hoaxshell](https://github.com/t3l3machus/hoaxshell) Unconventional Windows reverse shell, currently undetected by Microsoft Defender and possibly other AV solutions, solely based on http(s) traffic.
+
+* **Software Defined Network/overlay network**
+  - [TailScale](https://tailscale.com/) Zero config VPN. Installs on any device in minutes, manages firewall rules for you, and works from anywhere.
+  - [Nebula](https://github.com/slackhq/nebula) Scalable overlay networking tool with a focus on performance, simplicity and security [made by slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/)
+  - [Innernet](https://github.com/tonarino/innernet) A private network system, [more info](https://blog.tonari.no/introducing-innernet) can be found here
+  - [ZeroTier](https://www.zerotier.com/) ZeroTier combines the capabilities of VPN and SD-WAN, simplifying network management.
+
 
 
 * **Flipper Zero**
@@ -767,3 +766,10 @@ XML command-line utilities, available through `brew install`
   - [Awesome Flipper](https://github.com/djsime1/awesome-flipperzero)
   - [DarkFlippers](https://github.com/DarkFlippers/unleashed-firmware)
   - [Flipper Zero Hacking 101](https://flipper.pingywon.com/)
+
+
+* **Random**
+- [Engine Simulator](https://github.com/ange-yaghi/engine-sim) is a cumbustion engine simulator, at least the audio generation part.
+- [SANS Ultimate Cheat Sheet List](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/) everything in one place
+- [FreshRSS](https://www.freshrss.org/) A free, self-hostable aggregator
+- [Faraday](https://faradaysec.com) vulnerability management, free to try lots to buy
