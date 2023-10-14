@@ -1,0 +1,8 @@
+---
+layout: "post"
+title: "The Rust Programming Language"
+date: "2023-02-16 07:39"
+---
+The Rust Programming Language is a book by Steve Klabnik and Carol Nichols to get you started and learn about the Rust programming language.
+
+There is a [free online version](https://doc.rust-lang.org/stable/book/) available.

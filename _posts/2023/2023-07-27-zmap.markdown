@@ -1,0 +1,36 @@
+---
+layout: "post"
+title: "ZZMap"
+date: "2023-07-27 18:58"
+---
+[ZMap](https://github.com/zmap/zmap) is a network scanner designed for internet wide scans and part of the [The ZMap Project](https://zmap.io/), provided by the [Stanford Security Research](http://esrg.stanford.edu/) group ([GitHub](https://github.com/stanford-esrg))
+
+The ZMap project provides numerous free and open source tools for network scanning and intelligence gathering.
+
+Tools provided include
+[ZMap](https://github.com/zmap/zmap)
+[LZR](https://github.com/stanford-esrg/lzr)
+[ZCertificate](https://github.com/zmap/zcertificate)
+[ZBlocklist](https://github.com/zmap/zmap)
+[mrt2json](https://github.com/zmap/zannotate)
+[ZGrab](https://github.com/zmap/zgrab2)
+[ZCrypto](https://github.com/zmap/zcrypto)
+[ZAnnotate](https://github.com/zmap/zannotate)
+[ZTee](https://github.com/zmap/zmap)
+[ZDNS](https://github.com/zmap/zdns)
+[ZLint](https://github.com/zmap/zlint)
+[Zlterate](https://github.com/zmap/zmap)
+[ZSchema](https://github.com/zmap/zschema)
+
+Trying to run zmap following [the directions](https://github.com/zmap/zmap/wiki) fails on macOS as additional configuration is needed, you must manually set the MAC address of the gateway as ZMap operates on L3:
+
+```
+$ arp -a
+```
+Will get you the MAC address of your gateway on correct interphase, then:
+```
+$ zmap -p <port> -o <output.csv> -G <MAC address> -i <interphase>
+# example
+zmap -p 80 -o output.csv -G 00:00:00:00:00:00 -i en0
+```
+Will get you going.
