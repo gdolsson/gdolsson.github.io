@@ -6,7 +6,7 @@ vendor
 .sass-cache
 _site
 .jekyll-metadata
-_drafts # You should most likely not publish drafts publicly?
+_drafts/** 
 
 # Ignore Mac Files
 .DS_Store

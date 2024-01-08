@@ -751,12 +751,14 @@ XML command-line utilities, available through `brew install`
   - [masscan](https://github.com/robertdavidgraham/masscan) Internet-scale port scanner
   - [Blackbird](https://github.com/p1ngul1n0/blackbird) An OSINT search tool for accounts by username ([kali tutorial](https://kalilinuxtutorials.com/blackbird/))
   - [Hoaxshell](https://github.com/t3l3machus/hoaxshell) Unconventional Windows reverse shell, currently undetected by Microsoft Defender and possibly other AV solutions, solely based on http(s) traffic.
+  - [Atomic Red Team](https://atomicredteam.io/)
 
 * **Software Defined Network/overlay network**
   - [TailScale](https://tailscale.com/) Zero config VPN. Installs on any device in minutes, manages firewall rules for you, and works from anywhere.
   - [Nebula](https://github.com/slackhq/nebula) Scalable overlay networking tool with a focus on performance, simplicity and security [made by slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack/)
   - [Innernet](https://github.com/tonarino/innernet) A private network system, [more info](https://blog.tonari.no/introducing-innernet) can be found here
   - [ZeroTier](https://www.zerotier.com/) ZeroTier combines the capabilities of VPN and SD-WAN, simplifying network management.
+  - [scikit-rf](https://scikit-rf.org) Open Source RF Engineering
 
 
 
@@ -773,3 +775,10 @@ XML command-line utilities, available through `brew install`
 - [SANS Ultimate Cheat Sheet List](https://www.sans.org/blog/the-ultimate-list-of-sans-cheat-sheets/) everything in one place
 - [FreshRSS](https://www.freshrss.org/) A free, self-hostable aggregator
 - [Faraday](https://faradaysec.com) vulnerability management, free to try lots to buy
+- [Awesome Python Bytes](https://github.com/JackMcKew/awesome-python-bytes) collection of recommendations from podcast
+- [Pandas Alive](https://github.com/JackMcKew/pandas_alive) plotting backend for animated matplotlib charts for Pandas DataFrames
+- [Havoc](https://github.com/HavocFramework/Havoc) A modern and malleable post-exploitation command and control framework
+- [Beekeeper Studio](https://www.beekeeperstudio.io/) A modern, easy to use, and good looking SQL client for MySQL, Postgres, SQLite, SQL Server, and more.
+- [Hex Fiend](https://hexfiend.com/) A fast and clever open source hex editor
+for macOS.
+- [JabRef](https://www.jabref.org/) Free reference manager.
