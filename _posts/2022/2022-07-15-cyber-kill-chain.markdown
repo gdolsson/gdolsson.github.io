@@ -16,13 +16,13 @@ Shigraf Aijaz put up an article, [How can SOC analysts use the cyber kill chain?
 7. Actions on objectives
 
 ## 1\. Reconnaissance
-Researching the target, what information is publicly available and what can be done to monitor and mitigate potential vulnerabilities? Monitor for portscanning, use threat intelligence and network intrusion detection systems (IDS), Firewall, access control, VPN and more.
+Researching the target, what information is publicly available and what can be done to monitor and mitigate potential vulnerabilities? Monitor for port scanning, use threat intelligence and network intrusion detection systems (IDS), Firewall, access control, VPN and more.
 
 ## 2\. Weaponization
 Preparation and staging phase. No direct interaction, instead preparing for attack. Endpoint malware detection, proxy filtering, application whitelisting, app-aware firewalls, network intrusion prevention system (IPS) etc.
 
 ## 3\. Delivery
-Infiltration of network through phishing email, hacking digital/physical and so forth. Ensure endpoint security through robust antimalware software, anti-phishing software, user education, zero-trust security model, firewalls.
+Infiltration of network through phishing email, hacking digital/physical and so forth. Ensure endpoint security through robust anti-malware software, anti-phishing software, user education, zero-trust security model, firewalls.
 
 ## 4\. Exploitation
 Actual attack, targeting of application or operation system vulnerability for exploitation to gain access. At this point, assume that malicious payload has been deployed triggering exploit. Endpoint malware protection and a host-based IDS. Efficient and timely patch management and secure password policies. Containment through app-aware firewalls and inter-zone network IDS.
